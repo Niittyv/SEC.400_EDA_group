@@ -1,5 +1,5 @@
 # SEC.400_EDA_group
-Custom scripts and datasets. Some .ipynb analysis too.
+AccountAccessSet custom scripts and datasets. Some .ipynb analysis too.
 
 Research questions:
 

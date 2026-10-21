@@ -5,7 +5,9 @@ Research questions:
 
 RQ1. What types of stolen information are traded?
 RQ2. What are the prices for different product types?
-RQ3. Where the stolen information is from?
-RQ4. What we can learn about the sellers?
 
 From: https://zenodo.org/record/8047205
+
+The script product_description.py is a customized version of example_prices.py script from the original zip-file downloaded from zenodo.org. To run the customized script you need the JSON-database from the original zip-file. 
+
+You can create your own keyword list in keywords.txt file. Run the label_by_keyword.py script in the same folder with products.csv (generated using product.description.py). Now you have you your products labeled in a new column.

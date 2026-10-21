@@ -14,6 +14,7 @@ df = pd.read_csv('products.csv')
 def find_keywords(description):
     if pd.isna(description):
         return None
+    description = " ".join(description.split())
     found = [k for k in keywords
             if re.search(re.escape(k), description, flags=re.IGNORECASE)]
     return ", ".join(found) if found else None

@@ -10,4 +10,4 @@ From: https://zenodo.org/record/8047205
 
 The script product_description.py is a customized version of example_prices.py script from the original zip-file downloaded from zenodo.org. To run the customized script you need the JSON-database from the original zip-file. 
 
-You can create your own keyword list in keywords.txt file. Run the label_by_keyword.py script in the same folder with products.csv (generated using product.description.py). Now you have you your products labeled in a new column.
+You can create your own keyword list in keywords.txt file. Run the label_by_keyword.py script in the same folder with products.csv (generated using product_description.py). Now you have you your products labeled in a new column.

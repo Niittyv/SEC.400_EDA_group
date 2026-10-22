@@ -107,7 +107,7 @@ print('\nUsed %d product pages' % product_pages_used)
 
 #write results to file
 filename = "products.csv"
-dataframe.to_csv(filename)
+dataframe.to_csv(filename, index=False)
 
 
 

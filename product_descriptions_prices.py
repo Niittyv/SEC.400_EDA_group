@@ -100,8 +100,8 @@ def get_description_from_text(text_str):
     return text_str[start:end].strip()
 
 def get_price_statistics(text_str, title):
-    ''' Get price aggregates: mean, median, max, min, count '''
-    zero_output = [0,0,0,0,0]
+    ''' Get price aggregates: mean, median, max, min, count, sum_price '''
+    zero_output = [0,0,0,0,0,0]
     if 'guide' in title.lower() or 'tutorial' in title.lower():
         return zero_output
     if 'package' in title.lower() or 'bulk' in title.lower():
@@ -113,8 +113,9 @@ def get_price_statistics(text_str, title):
     median_price = pd.Series(price_list).median()
     max_price = max(price_list)
     min_price = min(price_list)
-    count_price = len(price_list)
-    return [mean_price, median_price, max_price, min_price, count_price]
+    count_prices = len(price_list)
+    sum_prices = sum(price_list)
+    return [mean_price, median_price, max_price, min_price, count_prices, sum_prices]
 
 
 
@@ -157,7 +158,8 @@ df_format = {
     "median_price" : [],
     "max_price" : [],
     "min_price" : [],
-    "prices_count" : []
+    "count_prices" : [],
+    "sum_prices" : [],
 }
 
 dataframe = pd.DataFrame(data=df_format)
@@ -189,7 +191,7 @@ print('\nUsed %d product pages' % product_pages_used)
 
 #write results to file
 filename = "products.csv"
-dataframe.to_csv(filename)
+dataframe.to_csv(filename, index=False)
 
 
 

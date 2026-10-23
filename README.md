@@ -19,5 +19,7 @@ WordCounter counts how frequently words and word combinations appear in products
 
 The PriceAnalysis.ipynb file is used for analyzing the labeled dataset grouped by keywords (category-column). The keywords are loaded from a txt-file. Please note that the Plotly-graphs can not be rendered by Github code preview. Open the .ipynb file locally or use https://nbviewer.org/github/Niittyv/SEC.400_EDA_group/blob/Additional-features-and-analysis/PriceAnalysis.ipynb
 
+## Project flow
+
 <img width="761" height="152" alt="AnalysisFlow" src="https://github.com/user-attachments/assets/46486c45-f72e-4d08-a60a-31f10a9c4c68" />
 

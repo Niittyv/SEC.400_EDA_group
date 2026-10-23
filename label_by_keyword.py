@@ -7,6 +7,8 @@ import re
 with open("keywords.txt", encoding="utf-8") as f:
     keywords = [line.strip() for line in f if line.strip()]
 
+keywords = list(dict.fromkeys(keywords))
+
 print(keywords)
 
 df = pd.read_csv('products.csv')

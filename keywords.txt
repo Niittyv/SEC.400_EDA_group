@@ -1,3 +1,4 @@
+cc
 bank
 full info
 ssn
@@ -8,7 +9,6 @@ zip
 person
 living
 city
-cc
 credit card
 account
 citizen

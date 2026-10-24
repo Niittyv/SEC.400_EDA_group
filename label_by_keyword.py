@@ -1,13 +1,16 @@
 import pandas as pd
 import re
 
-#edit the keywords to your liking
-#keywords = ["tax", "online access", "full info"]
+# Library of synonym keywords, please add entries as you see fit.
+keyword_variants_dict = {
+    "credit card": ["cc", "credit_card", "credit-card"],
+    "address": ["adress"]
+}
 
 with open("keywords.txt", encoding="utf-8") as f:
     keywords = [line.strip() for line in f if line.strip()]
 
-keywords = list(dict.fromkeys(keywords))
+keywords = list(dict.fromkeys(keywords)) #removes duplicates
 
 print(keywords)
 
@@ -22,6 +25,11 @@ def find_keywords(description):
     return ", ".join(found) if found else None
 
 df["category"] = df["description"].apply(find_keywords)
+
+# Bundle synonym keywords into one category
+for keyword in keyword_variants_dict:
+    pattern = r"\b(?:" + "|".join(map(re.escape, keyword_variants_dict[keyword])) + r")\b"
+    df["category"] = df["category"].str.replace(pattern, keyword, regex=True, case=False)
 
 #write results to file
 filename = "products_labeled.csv"

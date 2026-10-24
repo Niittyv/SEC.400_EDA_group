@@ -1,0 +1,51 @@
+bank
+full info
+ssn
+dob
+dl
+address
+zip
+person
+living
+city
+credit card
+account
+citizen
+bank
+email
+login
+fullz
+password
+venmo
+logs
+passport
+driver license
+bins
+document
+photo
+tax
+botnet
+gift
+selfie
+domain
+credit score
+statement
+balance
+username
+vcc
+id card
+ebay
+utility bill
+paypal
+cvv
+coinbase
+wire
+crypto
+billing
+chrome
+configuration
+apple
+prepaid
+hosting
+dating
+stripe

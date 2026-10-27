@@ -4,8 +4,10 @@ AccountAccessSet custom scripts and datasets. Some .ipynb analysis too.
 
 Research questions:
 
-RQ1. "What keywords and subcategories exist within personal information products sold on the dark web marketplaces?"  
+RQ1. "What keywords and subcategories exist within personal information products sold on the dark web marketplaces?" 
+
 RQ2. "What is the total market share of personal information products?"
+
 RQ3. "What are the price distributions for personal information products?"
 
 From: https://zenodo.org/record/8047205

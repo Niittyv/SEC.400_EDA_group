@@ -20,3 +20,11 @@ gender
 occupation
 birthday
 relative
+credit score
+credit report
+holder
+full name
+mmn
+background
+business
+draw

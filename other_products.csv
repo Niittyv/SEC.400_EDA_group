@@ -1,0 +1,2020 @@
+inputfile,product,description,mean_price,median_price,max_price,min_price,count_prices,sum_prices,category
+database\1000.json,Cibc.com NO ONLINE ACCESS,"s
+
+In this category you can get CIBC.com accounts without online access. Example
+Product: Only LOGIN:PASSWORD",10.0,10.0,10.0,10.0,3,30.0,
+database\1001.json,Flyfrontier.com,"s
+
+In this category you can get Flyfrontier.com accounts with online access.
+Example: login:pass Holder Info",16.666666666666668,4.0,150.0,2.0,15,250.0,
+database\1004.json,Macys.com,"s
+
+In this category, you can find Macys.com accounts with online access.",3.0,3.0,3.0,3.0,1,3.0,
+database\1006.json,Gap.com,"s
+
+In this category you can buy Gap.com accounts",6.4444444444444455,7.0,7.0,5.0,9,58.0,
+database\1009.json,Carters.com,"s
+
+In this category you can purchase Carters.com accounts. All accounts have
+online access. When buying a product, you must know how to apply it. We are
+not in the business of teaching. Our task is to supply goods for you! We wish
+you successful and pleasant shopping!",6.35,5.0,8.0,5.0,20,127.0,
+database\1010.json,Sears.com,"s
+
+In this category you can purchase Sears.com accounts. All accounts have online
+access. When buying a product, you must know how to apply it. We are not in
+the business of teaching. Our task is to supply goods for you! We wish you
+successful and pleasant shopping!",5.6607142857142865,5.0,8.0,5.0,56,317.0,
+database\1011.json,Zappos.com,"s
+
+In this category you can purchase Zappos.com accounts. All accounts have
+online access. When buying a product, you must know how to apply it. We are
+not in the business of teaching. Our task is to supply goods for you! We wish
+you successful and pleasant shopping!",5.75,5.0,8.0,5.0,44,253.0,
+database\1012.json,Victoriassecret.com,"s
+
+In this category you can purchase Victoriassecret.com accounts. All accounts
+have online access. When buying a product, you must know how to apply it. We
+are not in the business of teaching. Our task is to supply goods for you! We
+wish you successful and pleasant shopping!",5.0,5.0,5.0,5.0,8,40.0,
+database\1013.json,Kohls.com,"s
+
+In this category you can get Kohls.com accounts .all with online access.",5.25,5.0,7.0,3.0,16,84.0,
+database\1027.json,Dating site,"s
+
+in this category you can purchase dating sites",6.8604651162790695,7.0,7.0,5.0,86,590.0,
+database\1028.json,Bestbuy.ca,"s
+
+In this category you can get Bestbuy.ca accounts with online access.",12.625,15.0,15.0,5.0,80,1010.0,
+database\1031.json,Capitalone.com,"s
+
+Example of product//Only login:Pass//NO Online access//Good luck//",10.0,10.0,10.0,10.0,29,290.0,
+database\1033.json,Lowes.com,"s
+
+In this category you can get Lowes.com accounts with online access/holder
+name/last 4 digits of CC/holder phone number/holder address",5.888888888888888,5.0,7.0,5.0,18,106.0,
+database\1035.json,UPS.com,"s
+
+In this category you can buy Ups.com accounts with email access.",5.0,5.0,5.0,5.0,13,65.0,
+database\1037.json,Worldremit.com,"s
+
+In this category, you can purchase accounts - Worldremit.com . Accounts have
+online access. You have 20 minutes to check your account from the date of
+purchase. Account login rules. 1) Clear browser history and cookies. 2) Enter
+the correct IP address. 3) Set cookies for this account. (if there's) 4) Log
+in to your account only from the PC version.",14.285714285714285,10.0,25.0,10.0,7,100.0,
+database\1038.json,Westernunion.com,"s
+
+In this category, you can find Westernunion.com accounts with online access.
+Account login rules. 1) Clear browser history and cookies. 2) Enter the
+correct IP address. 3) Set cookies for this account. (if there's) 4) Log in to
+your account only from the PC version.",21.0,20.0,25.0,20.0,5,105.0,
+database\1039.json,Disneyplus.com,"s
+
+In this category, you can purchase accounts of disneyplus.com. Accounts have
+online access. You have 15 minutes to check your account from the date of
+purchase.",3.34,3.0,5.0,3.0,100,334.0,
+database\1040.json,Turkishairlines.com,"s
+
+In this category you can get Turkishairlines.com accounts with online access.",6.2857142857142865,6.0,10.0,3.0,7,44.0,
+database\1041.json,IHG.com,"s
+
+In this category you can get IHG.com accounts with online access. Account
+login rules. 1) Clear browser history and cookies. 2) Enter the correct IP
+address. 3) Set cookies for this account. (if there's) 4) Log in to your
+account only from the PC version.",4.666666666666667,5.0,5.0,4.0,3,14.0,
+database\1042.json,Walmart.com,"s
+
+In this category you can get Walmart.com accounts with online access. Account
+login rules. 1) Clear browser history and cookies. 2) Enter the correct IP
+address. 3) Set cookies for this account. (if there's) 4) Log in to your
+account only from the PC version.",5.153846153846153,5.0,6.0,5.0,13,67.0,
+database\1043.json,Bestbuy.com,"s
+
+In this category you can get Bestbuy.com accounts with online access Account
+login rules. 1) Clear browser history and cookies. 2) Enter the correct IP
+address. 3) Set cookies for this account. (if there's) 4) Log in to your
+account only from the PC version.",11.25,10.0,20.0,5.0,4,45.0,
+database\1052.json,Chase.com NO ONLINE ACCESS,"s
+
+In this category you can get Chase accounts without online access. Only
+Login:Password only",10.0,10.0,10.0,10.0,75,750.0,
+database\1053.json,Walmart.ca,"s
+
+In this category you can get Walmart.ca accounts with online access.",6.666666666666668,7.0,7.0,3.0,12,80.0,
+database\1055.json,Avia miles Worldwide,"s
+
+You can buy air miles accounts here (Worldwide).",8.763636363636364,3.0,250.0,1.0,55,482.0,
+database\1056.json,Credit Score (CS) lookup service,"s
+
+In this category you can purchase this is searching service of Credit Score
+USA people. WARNING: If you want me to get Credit score without your SSN, you
+will need to extra pay 18 $ You should send me information about human in
+ticket: 1\. First / Last Name 2\. Address (include Zipcode, City and State)
+3\. DOB - (MM/DD/YYY) 4\. SSN : Processing of your search can take up from 10
+minutes to 24 hours - please be ready for this, but I always try to do
+everything as early as possible. Refund or replacement can be if I couldn't
+find person who you need !",9.642857142857142,10.0,10.0,5.0,14,135.0,
+database\1058.json,Australian Rewards,"s
+
+You can buy a various rewards account here (Australian).",26.4,24.0,50.0,13.0,5,132.0,
+database\1060.json,Alaskaair.com,"s
+
+In this category you can purchase the accounts Alaskaair.com. Accounts have
+online access.Account login rules. 1) Clear browser history and cookies. 2)
+Enter the correct IP address. 3) Set cookies for this account. (if there's) 4)
+Log in to your account only from the PC version.",41.333333333333336,16.5,200.0,2.0,18,744.0,
+database\1061.json,USAA.com,"s
+
+In this category you can purchase USA bank accounts - Usaa.com . Accounts have
+the form (login: password). We cannot guarantee you online access. We
+guarantee from ourselves the validity of the account itself (login: password).",8.266666666666667,8.0,12.0,8.0,60,496.0,
+database\1066.json,Coinbase.com (FULL VERIFIED),"s
+
+Here you can buy accounts of the Coinbase.com , registered and verified on the
+data of real residents of the various countries, With full access to your
+personal account and email Verified with btc and credit card enabled.",500.0,500.0,500.0,500.0,1,500.0,
+database\1072.json,Expedia.ca,"s
+
+In this category you can get Expedia.ca accounts with online access/ Example:
+Login:password Holder Info",10.0,10.0,10.0,10.0,4,40.0,
+database\1073.json,Costco.ca,"s
+
+In this category you can get Costco.ca accounts with online access. Example:
+Login:pass Payment Info Holder Info",7.0,7.0,7.0,7.0,31,217.0,
+database\1077.json,Creditkarma.ca,"s
+
+In this category you can get Creditkarma.ca accounts with online access.
+Example Login:Password Holder Info (Without SSN)",7.0,7.0,7.0,7.0,13,91.0,
+database\1079.json,Bank Checks,"s
+
+In this category you can get real photos and scans of US Bank Check . All
+checks are real!",100.0,100.0,100.0,100.0,6,600.0,
+database\1090.json,Fasterpay.com,"s
+
+In this category you can get Fasterpay.com accounts with online access.
+Example: Login:Password Holder Info",10.0,10.0,10.0,10.0,7,70.0,
+database\1091.json,Vans.com,"s
+
+In this category you can get Vans.com accounts with online access. Example:
+Login:pass Payment Info Holder Info",10.0,10.0,10.0,10.0,7,70.0,
+database\1092.json,TD.com No Online Access,"s
+
+In this category you can get TD Bank Canadian accounts without online access.
+Example: Only Login:Password",10.0,10.0,10.0,10.0,18,180.0,
+database\1093.json,Bnc.ca No Online Access,"s
+
+In this category you can get bnc.ca accounts without online access. Example:
+Only Login:Password",10.0,10.0,10.0,10.0,12,120.0,
+database\1095.json,Fasterpay.com,"s
+
+In this category you can buy FASTERPAY.COM accounts. All accounts have online
+access.",10.0,10.0,10.0,10.0,34,340.0,
+database\1105.json,COX.com,"s
+
+In this category you can buy COX.com accounts.All accounts have online access.",4.833333333333333,3.0,7.0,3.0,24,116.0,
+database\1110.json,Emirates.com,"s
+
+In this category you can get emirates.com accounts with online access.
+Example: Login:Password , Holder info IMPORTANT!!!! Read about refund .",6.402439024390245,5.0,23.0,1.0,82,525.0,
+database\1112.json,Credit Cards,"s
+
+In this category you can buy credit cards of all world bro please,read the
+rules before you buy. Cards are sold without address and data and look like:
+CARD #NUMBER, EXP, CVV Example: 456456457646476546|09|2027|456 Screenshots
+should be uploaded to the http://joxi.ru/ or https://app.prntscr.com/ru/
+services, as uploading images in a ticket does not work correctly.",18.0,18.0,18.0,18.0,32,576.0,
+database\1113.json,Airmiles.ca,"s
+
+In this category you can get Airmiles.ca accounts with online access. Example:
+Login:Password , Holder info IMPORTANT!!!! Read about refund .",3.4,5.0,5.0,1.0,5,17.0,
+database\1115.json,Albert.com,"s
+
+Albert is not a bank. Banking services provided by Sutton Bank, Member FDIC.
+What is the advantage of the bank? \- The presence of an activated VCC \- The
+ability to bind the bank by AN & RN \- The minimum number of bans This bank
+account can be used to cash out funds, submit IRC applications, PUA and much
+more... Document format: Full info + Gmail + Log:Pass + AN:RN + Activated VCC
+data+ PIN (+ We can safely punch bg if necessary.) In honor of the opening,
+the store provides a discount on the Albert Bank. The cost of Albert is $99",45.0,45.0,45.0,45.0,19,855.0,
+database\1116.json,Thebay.com,"s
+
+In this category you can buy Thebay.com accounts with online access. Example:
+Login:password Holder Info",5.0,5.0,5.0,5.0,3,15.0,
+database\1123.json,Homedepot.com,"s
+
+In this category you can get Homedepot.com accounts with online access.",3.6666666666666665,3.0,5.0,3.0,3,11.0,
+database\1125.json,Capitalone.com No Online Access,"s
+
+In this category you can get Capitalone.com accounts without online access.
+Example: Only Login:Password",8.45,10.0,10.0,5.0,100,845.0,
+database\1127.json,Pizzaville.ca,"s
+
+In this category you can get pizzaville.ca accounts with online access.
+Example: Login:Password Holder Info",4.142857142857143,5.0,5.0,3.0,7,29.0,
+database\1128.json,Pizzapizza.ca,"s
+
+In this category you can get pizzapizza.ca accounts with online access.
+Example: Login:Password Holder Info",3.5,3.0,5.0,3.0,16,56.0,
+database\1134.json,US BANKS AN/RN Holder Name,"s
+
+In this category, you get bank accounts holders' names and acc/routing numbers
+without login/password. There is no return or replacement. By purchasing from
+us, you agree to this. Screenshots should be uploaded to the http://joxi.ru/
+or https://app.prntscr.com/ru/ services, as uploading images in a ticket does
+not work correctly.",61.0,61.0,74.0,48.0,2,122.0,
+database\1139.json,Staples.com,"s
+
+Here we got Staples.com online accounts// Example of product// Login:pass,
+payment info, address, orders info// Good luck",5.1875,5.0,8.0,5.0,16,83.0,
+database\1145.json,Hilton.com,"s
+
+You can buy Hilton.com accounts here.",4.5555555555555545,3.0,10.0,2.0,9,41.0,
+database\1156.json,Australian banks,"s
+
+In this category you can get Australian Banking accounts with online access.
+Example: Log:Pass Account Number Holder Info Good Luck",49.68181818181818,4.0,1600.0,1.0,88,4372.0,
+database\1157.json,Pornhub Premium.,"s
+
+PornHub is one of the most popular pornographic sites in the world. An amazing
+world of bliss and pleasure awaits you. What does a PREMIUM account give? \-
+No advertising on the site \- Increased speed of loading videos \- Access to
+FULL HD|4K|8K videos \- More than 15,000 full videos \- Ability to download
+videos \- 24/7 support from the Pornhub Premium service After payment, you
+will receive the product in the form of: \- Login details for the pornhub
+website | Pornhub \- Instructions for use The password on the account CANNOT
+be changed, since the accounts are bruts. After purchase, you can use it right
+away! The warranty for this product is 2 months!",3.117647058823529,3.0,5.0,1.0,17,53.0,
+database\1158.json,Windscribe Pro until 2026 - 2027,"s
+
+Use the Internet anonymously, as it was originally intended What does the Wind
+scribe Pro account give you \- Complete security of your personal data \- Your
+activity is not recorded anywhere \- Stable connection anywhere in the world
+\- Works on any device After payment, you will receive the product in the form
+of: \- Login details for Winscribe Pro \- Instructions for use The password on
+the account CANNOT be changed, since the accounts are bruts. After purchase,
+you can use it right away! The warranty for this product is 2 months!",15.0,15.0,15.0,15.0,2,30.0,
+database\1162.json,ACCOUNT  SURFSHARK VPN  UNTIL 2023,"s
+
+Surfshark - the security of your digital life What does a Surfshark VPN
+account give you: \- Easy to use - intuitive and user-friendly interface \-
+CleanWeb ™ function for blocking malware, trackers, phishing and advertising
+\- MultiHop ™ function for additional privacy, which redirects data
+simultaneously through two servers in different countries \- Kill Switch -
+protected in case of loss of connection to the server \- Camouflage mode
+(server obfuscation). All Surfshark servers are obfuscated for Windows users,
+so even Internet service providers are not able to determine that their
+clients are connected via vpn \- The Whitelister ™ function in Windows and
+Android allows you to identify applications that do not require routing via
+vpn \- No log records are kept (the company is registered in the British
+Virgin Islands) \- Unlimited bandwidth \- Round-the-clock customer support
+(chat, email, help center) After payment, you will receive the product in the
+form of: \- Surfshark login details \- Instructions for use The password on
+the account CANNOT be changed, since the accounts are bruts. After purchase,
+you can use it right away! The warranty for this product is 2 months!",11.052631578947368,10.0,20.0,10.0,38,420.0,
+database\1169.json,"US BANKS  AN/RN , FULL NAME , FULL ADDRESS","s
+
+In this category we offer you bank accounts (without login and password). With
+specified accounts_ FULL AN/RN, FULL NAME OF THE HOLDER, ADDRESS OF THE
+HOLDER, PHONE NUMBER (if any) AND E-MAIL ADDRESS (if any). ____Those who do
+not know what this category provides, let them not buy, so that they do not
+ask questions.",60.51724137931034,25.0,500.0,10.0,29,1755.0,
+database\1170.json,Booking.com,"s
+
+In this category you can buy Booking.com accounts, Example of product//Login
+Pass//Address info//Payment info//Genius level info//Good luck//",5.0,5.0,5.0,5.0,2,10.0,
+database\1172.json,Credit Unions No Online Access,"s
+
+In this category you can get US Credit Union accounts without online access.
+Example: Login:Password Only",10.0,10.0,10.0,10.0,91,910.0,
+database\1173.json,Samsclub.com,"s
+
+Here we got Samsclub.com online accounts// Example of product// Login:pass,
+payment info, address, orders info// Good luck",6.0,7.0,8.0,3.0,3,18.0,
+database\1179.json,Giftcards.com,"s
+
+In this category you can find GIFTCARDS.com accounts. All online access. 20
+minutes are given for the check.",8.0,7.0,10.0,7.0,6,48.0,
+database\1180.json,Carters.com,"s
+
+In this category you can purchase Carters.com accounts. All accounts have
+online access.You have 20 minutes to check account.",6.8,8.0,8.0,5.0,5,34.0,
+database\1183.json,Email bases for brute,"s
+
+In this category you can purchase email bases (email:password) from different
+countries and with different keywords. These databases are only suitable for
+brute using programs (if you don’t know how to work, then it’s better not to
+buy, we don’t sell programs and we don’t teach brute) By purchasing a product,
+you automatically agree to the rules of the store!",23.6,20.0,50.0,10.0,50,1180.0,
+database\1186.json,Hulu.com,"s
+
+In this category, you can find Hulu.com accounts with online access.",2.5,1.0,5.0,1.0,16,40.0,
+database\1187.json,IHG.com,"s
+
+You can buy IHG.com accounts here.",101.0,101.0,200.0,2.0,2,202.0,
+database\1188.json,Kroger.com,"s
+
+In this category you can buy Kroger.com accounts",7.6,7.0,10.0,7.0,5,38.0,
+database\1190.json,Bell.ca,"s
+
+In this category you can get Bell.ca accounts with online access. Example:
+Login:Password Holder Info",15.0,15.0,15.0,15.0,21,315.0,
+database\1191.json,Kohls.com,"s
+
+In this category you can get Kohls.com accounts .all with online access.",5.0,5.0,5.0,5.0,22,110.0,
+database\1192.json,Fedex.com,"s
+
+In this category, you can purchase Fedex.com accounts.
+Example:Login/Password:Account number:Holder info. We wish you all good
+shopping.",15.0,15.0,15.0,15.0,3,45.0,
+database\1193.json,Hulu.com,"s
+
+In this category, you can find Hulu.com accounts with online access. Good
+luck!",3.0,3.0,3.0,3.0,3,9.0,
+database\1194.json,Fido.ca,"s
+
+In this category you can buy Fido.ca accounts with online access. Example:
+Login:Password Holder info",10.555555555555557,10.0,15.0,10.0,9,95.0,
+database\1195.json,Alaskaair.com,"s
+
+In this category you can get Alaskaair.com accounts with online access.
+Example: Login:Password Holder Info",9.818181818181818,9.0,27.0,1.0,11,108.0,
+database\1198.json,Credit Union,"s
+
+In this category you can get US Credit Union accounts . Example:
+Login:Password Account Number Routing Number Holder Info",20.0,20.0,20.0,20.0,1,20.0,
+database\1200.json,Zulily.com,"s
+
+Example of product//Login pass, Address info,Payment info, order info//Good
+luck//",5.0,5.0,5.0,5.0,4,20.0,
+database\1201.json,Choicehotels.com,"s
+
+In this category you can get Choicehotels.com accounts with online access.
+Example: Login:Password Holder Info",1.0,1.0,1.0,1.0,2,2.0,
+database\1205.json,AUTO BINS FOR SAMSUNG PAY,"s
+
+Hi bro,here you can buy auto bins without verification for samsung pay",40.0,40.0,40.0,40.0,17,680.0,
+database\1206.json,AUTO BINS FOR APPLE PAY,"s
+
+Hi bro,here you can buy auto bins without verification for apple pay",45.0,45.0,45.0,45.0,66,2970.0,
+database\1207.json,Officedepot.com,"s
+
+In this category you can get Officedepot.com accounts with online access.
+Example: Login:Password",6.0,6.0,7.0,5.0,2,12.0,
+database\1208.json,AA.com,"s
+
+In this category you can get AA.com accounts with online access. Example:
+Login:Password Holder Info",3.0,3.0,3.0,3.0,1,3.0,
+database\1209.json,Aeropostale.com,"s
+
+In this category you can get Aeropostale.com accounts with online access.
+Example: Login:Password Holder Info",7.0,7.0,7.0,7.0,4,28.0,
+database\1211.json,Kohls.com,"s
+
+In this category, you can purchase Cohls.com accounts. All accounts have
+online access.",5.4,5.0,7.0,5.0,5,27.0,
+database\1213.json,Creditonebank.com No Online Access,"s
+
+In this category you can get Creditonebank.com accounts without online access.
+Example: Only Login:Password,Name,zip",10.0,10.0,10.0,10.0,12,120.0,
+database\1214.json,Chegg.com,"s
+
+In this category you can get Chegg.com accounts with online access. Example:
+Login:Password Holder Info",10.0,10.0,10.0,10.0,6,60.0,
+database\1215.json,Hotels.com,"s
+
+Here we got hotels.com online accounts// Example of product // Login:pass,
+stamps info, payment method (if have)",11.363636363636365,10.0,15.0,10.0,11,125.0,
+database\1216.json,Choicehotels.com,"s
+
+Here we got Choicehotels.com online accounts// Example// Login:pass, holders
+info//",2.6666666666666665,2.0,4.0,2.0,3,8.0,
+database\1229.json,Kroger.com,"s
+
+In this category you can buy Kroger.com accounts. All accounts have access. I
+wish you happy shopping.",17.2,8.0,35.0,5.0,5,86.0,
+database\123.json,Alaskaair.com,"s
+
+In this category you can purchase the accounts Alaskaair.com. Accounts have
+online access. You have 15 minutes to check your account from the date of
+purchase.",15.714285714285715,11.0,125.0,5.0,56,880.0,
+database\1230.json,Ihg.com,"s
+
+In this category you can get IHG.com accounts with online access.",16.9,5.5,72.0,2.0,10,169.0,
+database\1234.json,TD.com US No Online Access,"s
+
+In this category you can get TD Bank US accounts without online access.
+Example: Only Login:Password",10.0,10.0,10.0,10.0,14,140.0,
+database\1236.json,Uptownaces.eu,"s
+
+In this category you can get Uptownaces.eu accounts with online access.
+Example: Login:Password Name",3.0,3.0,3.0,3.0,5,15.0,
+database\1238.json,Kroger.com,"s
+
+In this category you can get Kroger.com accounts with online access. Example:
+Login: Password Holder Info",20.83333333333333,20.0,50.0,5.0,18,375.0,
+database\1239.json,Prestocard.ca,"s
+
+In this category you can get Prestocard.ca accounts with online access.
+Example: Login:Password , Holder Info",14.166666666666664,10.0,30.0,10.0,6,85.0,
+database\1240.json,Dominos.com,"s
+
+Example of product//Login,pass//payment info//Address info//Points//Good
+luck//",5.0,5.0,5.0,5.0,3,15.0,
+database\1249.json,Giftcards.com,"s
+
+In this category you can get Giftcards.com accounts with online access.
+Example: Login:Password Holder Info",10.0,10.0,10.0,10.0,1,10.0,
+database\125.json,Southwest.com,"s
+
+In this category you can purchase the accounts Southwest.com. Accounts have
+online access. You have 15 minutes to check your account from the date of
+purchase.",18.82,10.0,157.0,5.0,50,941.0,
+database\1250.json,Greendot.com,"s
+
+In this category you can get Greendot.com accounts without online access.
+Exmaple: Login:Password Only",10.0,10.0,10.0,10.0,18,180.0,
+database\1251.json,Wellsfargo No Online Access,"s
+
+In this category you can get Wellsfargo.com accounts without online access.
+Exmaple: Login:Password Only",10.0,10.0,10.0,10.0,30,300.0,
+database\1254.json,Bank Statements,"s
+
+In this category, you can buy bank statements from all over the world. When
+buying this product, you should know its further purpose. Typically,
+verification services request extracts for additional verification. In most
+cases, you will have to change the data to your own using programs like
+Photoshop. Good luck!!!",6.5,7.0,7.0,1.0,12,78.0,
+database\1256.json,Nerdwallet.com,"s
+
+In this category you can get Nerdwallet.com accounts with online access.
+Example: Login:Password Holder Info , Without SSN",10.0,10.0,10.0,10.0,3,30.0,
+database\1257.json,Nike.com,"s
+
+In this category you can buy Nike.com accounts",6.5,7.0,7.0,4.0,6,39.0,
+database\1258.json,Credit Report (CR) lookup service,"s
+
+In this category you can purchase this is searching service of Credit Report
+USA people. WARNING: If you want me to get Credit report without your SSN, you
+will need to extra pay 18 $ You should send me information about human in
+ticket: 1. First / Last Name 2. Address (include Zipcode, City and State) 3.
+DOB - (MM/DD/YYY) 4. SSN : Processing of your search can take up from 10
+minutes to 24 hours - please be ready for this, but I always try to do
+everything as early as possible. Refund or replacement can be if I couldn't
+find person who you need !",20.0,20.0,20.0,20.0,4,80.0,
+database\1259.json,Drawing Documents,"s
+
+Drawing services are available here! High quality, ELA Bypass, BARCODE/MRZ
+SCANABLE, Best prices and Bonuses!!! Order and quickly receive the scanned
+document you need, such as US/UK/Canada Utility bills/Driver's license/ID
+card/SSN/Passport. Required data: First Name/Last Name, DOB, Address, Gender,
+DL number (optional), Iss/exp dates (optional), Photo (optional). For more
+details contact me before purchase. Thanks for choosing Dark Shop's services!
+BONUSES ARE AVAILABLE CURRENTLY!!!! Ticket me for more information!",36.481481481481474,22.5,200.0,15.0,54,1970.0,
+database\1261.json,Huntington.com No Online Access,"s
+
+In this category you can get Huntington.com accounts without online access.
+Exmaple: Login:Password Only",10.0,10.0,10.0,10.0,10,100.0,
+database\1262.json,Mywisely.com,"s
+
+In this category you can get Mywisely.com accounts with online access.
+Example: Login:Password Holder Info Bank Info (AN+RN)",24.73684210526316,15.0,70.0,10.0,19,470.0,
+database\1263.json,Macys.com,"s
+
+In this category you can get Macys.com accounts with online access. Example:
+Login:Password Holder Info",17.181818181818183,7.0,100.0,5.0,22,378.0,
+database\1265.json,Barclaycardus.com No Online Access,"s
+
+In this category you can get Barclaycardus.com accounts without online access.
+Example:Only Login:Password",10.0,10.0,10.0,10.0,10,100.0,
+database\1270.json,Fingerhut.com,"s
+
+Example of product:Login.pass//Payment info//Address info//Order info//Good
+luck//",2.6,2.0,5.0,2.0,5,13.0,
+database\1272.json,Qvc.com,"s
+
+Example of product//Login:pass//Address info//Order info//Payment info//Good
+luck//",6.190476190476191,7.0,10.0,3.0,21,130.0,
+database\1273.json,Flyfrontier.com,"s
+
+In this category you can get Flyfrontier.com accounts with online access.
+Example: login:pass Holder Info//Good luck//",3.5,3.0,5.0,3.0,4,14.0,
+database\1274.json,Shein.com,"s
+
+Example of product//Login:pass//Payment info//Address info//Order info//Good
+luck//",5.0,5.0,5.0,5.0,8,40.0,
+database\1275.json,PNC.com No Online Access,"s
+
+In this category you can get PNC.com accounts without online access. Example:
+Only Login:Password",10.0,10.0,10.0,10.0,6,60.0,
+database\1277.json,RDP,"s
+
+In this category you can get RDP servers . After the purchase, you need to
+open a ticket. In the ticket you will get everything you need to enter in RDP
+server and there will be support for the duration of your subscription.
+Minimum subscription one month. You can order your configuration. Good Luck",57.14285714285714,55.0,90.0,35.0,7,400.0,
+database\1285.json,Samsclub.com,"s
+
+In this category you can get Samsclub.com accounts with online access.
+Example: Login:Password Holder Info",5.0,5.0,5.0,5.0,1,5.0,
+database\1287.json,Key.com No Online Access,"s
+
+In this category you can get Key.com accounts without online access. Example:
+Only Login:Password",10.0,10.0,10.0,10.0,44,440.0,
+database\1288.json,Jcpenney.com,"s
+
+In this category you can get Jcpenney.com accounts with online access.
+Example: Login:Password Holder Info",6.047619047619048,7.0,7.0,5.0,21,127.0,
+database\1289.json,Etrade.com,"s
+
+In this category you can get Etrade.com accounts with online access. Example:
+Login:Password , Holder Info",35.0,7.5,250.0,5.0,16,560.0,
+database\1290.json,Email Base,"s
+
+In this category you can get Email Base . In base included @gmail.com,
+@yahoo.com @live.com and other domains . If you don't know what you're dealing
+with, don't buy. Example: Email:Password",10.0,10.0,10.0,10.0,12,120.0,
+database\1292.json,E-Mail Bases USA / WORLD,"s
+
+In this category, you can purchase Email Bases in different countries. If you
+do not see your preferred country, email name or quantity, then write in
+advance and I will find what you need.",12.35,10.0,35.0,5.0,40,494.0,
+database\1293.json,USA BANKS NO ONLINE ACCESS,"s
+
+In this category you can buy usa bank accounts. If you cannot find your
+preferred bank then email me in advance and I will find it for you. If you
+need additional information about the account owner (Name/Address/ Phone
+number/DOB) then write to me and I will try to find everything I can.",10.0,10.0,10.0,10.0,48,480.0,
+database\1295.json,Coinbase.com,"s
+
+In this category, you can purchase login and password for Coinbase.com
+accounts. All accounts' NO ONLINE ACCESS. If you need additional information
+about the owner (Name / Address / Phone number / DOB), then write to me and I
+will try to find everything possible.",5.0,5.0,5.0,5.0,54,270.0,
+database\1296.json,Squareup.com,"s
+
+In this category, you can purchase Squareup.com accounts. All accounts have
+online access. You have 20 minutes to check account(s).",15.0,15.0,15.0,15.0,2,30.0,
+database\1298.json,Hertz.com,"s
+
+In this category you can get Hertz.com accounts with online access. Example:
+Login:Password Holder Info",13.333333333333336,10.0,50.0,10.0,18,240.0,
+database\1299.json,Giftcards.com,"s
+
+In this category you can find GIFTCARDS.com accounts. All online access.",4.25,4.0,7.0,3.0,8,34.0,
+database\1300.json,Westernunion.com,"s
+
+In this category, you can find Westernunion.com accounts. All accounts have
+online access. You have 20 minutes to check account(s).",20.0,20.0,30.0,10.0,10,200.0,
+database\1301.json,Bestbuy.com,"s
+
+In this category you can get Bestbuy.com accounts. All accounts have online
+access. You have 20 minutes to check account(s).",10.0,10.0,15.0,5.0,2,20.0,
+database\1306.json,Wellsfargo.com Self-Registered,"s
+
+In this category, you can order self-registered Wellsfargo.com accounts. After
+purchasing, open the ticket and wait 6-12 hours. Sometimes it can take a
+little longer if the service is under maintenance. Once you have gained access
+to your account, please change all account information and email address to
+keep your account secure.",130.0,130.0,130.0,130.0,7,910.0,
+database\1307.json,Chime.com Self-Registered,"s
+
+In this category, you can order self-registered Chime.com accounts. After
+purchasing, open the ticket and wait 6-12 hours. Sometimes it can take a
+little longer if the service is under maintenance. Once you have gained access
+to your account, please change all account information and email address to
+keep your account secure.",100.0,100.0,100.0,100.0,15,1500.0,
+database\1308.json,TD.com Self-Registered,"s
+
+In this category, you can order self-registered TD.com accounts. After
+purchasing, open the ticket and wait 6-12 hours. Sometimes it can take a
+little longer if the service is under maintenance. Once you have gained access
+to your account, please change all account information and email address to
+keep your account secure.",100.0,100.0,100.0,100.0,6,600.0,
+database\1324.json,Bankofamerica.com No Online Access,"s
+
+In this category you can get Bankofamerica.com accounts without online access.
+Example: Only Login:Password",10.0,10.0,10.0,10.0,17,170.0,
+database\1328.json,Document rendering templates,"s
+
+Document rendering templates! In this category, the store sells products for
+drawing documents! List of templates for rendering: \- Passport \- Unit Bill
+\- Driver's license \- Credit Card \- Police report \- And much more! We don't
+teach rendering! We don't teach rendering!",11.0,11.0,11.0,11.0,30,330.0,
+database\1332.json,Grailed.com,"s
+
+in this category you can buy Grailed.com accounts",5.0,6.0,6.0,3.0,6,30.0,
+database\1336.json,Grailed.com,"s
+
+In this category you can get Grailed.com accounts with online access. Example:
+Login:Password Holder Info",7.375,7.0,10.0,7.0,8,59.0,
+database\1341.json,USA HOTELS,"s
+
+In this category you can find Usa Hotels.Hilton.com / Choicehotels.com /
+Marriott.com / Hotels.com / Booking.com / IHG.com / Hyatt.com",101.25,90.0,210.0,15.0,4,405.0,
+database\1344.json,Marriot.com,"s
+
+Here we got Marriot.com online accounts// Example// Login:pass, Holder info,
+points details // Good luck",10.25,7.5,22.0,3.0,8,82.0,
+database\1345.json,FashionNova.com,"s
+
+In this category you can purchase FashionNova.com accounts. All accounts have
+online access. When buying a product, you must know how to apply it. We are
+not in the business of teaching. Our task is to supply goods for you! We wish
+you successful and pleasant shopping!",3.0,3.0,3.0,3.0,41,123.0,
+database\1346.json,Westernunion.com,"s
+
+In this category, you can find Westernunion.com accounts with online access.
+Account login rules. 1) Clear browser history and cookies. 2) Enter the
+correct IP address. 3) Set cookies for this account. (if there's) 4) Log in to
+your account only from the PC version.",25.11111111111111,23.0,50.0,18.0,9,226.0,
+database\1349.json,Adidas.com,"s
+
+Here we got Adidas.com online accounts// Example// Login:pass, Holder info,
+points details // Good luck",5.0,5.0,5.0,5.0,4,20.0,
+database\1351.json,Vans.com,"s
+
+Here we got Vans.com online accounts// Example// Login:pass, Holder info /
+Good luck",5.375,5.0,8.0,2.0,8,43.0,
+database\1355.json,FasterPay.com,"s
+
+Example of product//Login;pass, payment info, address,//good luck",9.333333333333334,10.0,10.0,8.0,3,28.0,
+database\1364.json,Partycity.com,"s
+
+Here we got partycity online accounts// Example // Login:pass , holder info",5.0,5.0,5.0,5.0,6,30.0,
+database\1365.json,Hertz.com,"s
+
+Here we got Hertz.com accounts with online access. //Example// Login:Pass,
+Holder Info//",9.090909090909092,10.0,12.0,7.0,11,100.0,
+database\1370.json,Coinmama.com,"s
+
+Example of product//Login;pass, Account Limits, address,//good luck",13.75,5.0,45.0,5.0,12,165.0,
+database\1372.json,AA.com,"s
+
+Here you can purchase the accounts Aa.com. Accounts have online access. Time
+to check is 15 minutes from the date of purchase.",11.333333333333336,10.0,18.0,6.0,3,34.0,
+database\1373.json,squareup.com,"s
+
+You can buy squareup.com accounts here.",15.0,15.0,15.0,15.0,5,75.0,
+database\1374.json,Sephora.com,"s
+
+In this category you can buy Sephora.com accounts.All accounts have online
+access.",10.0,7.5,20.0,5.0,4,40.0,
+database\1375.json,Hilton.com,"s
+
+In this category you can purchase the accounts Hilton.com. All accounts have
+online access.",30.66666666666667,16.0,150.0,6.0,12,368.0,
+database\1377.json,Southwest.com,"s
+
+In this category you can purchase the accounts Southwest.com. Accounts have
+online access.",38.8,6.5,120.0,2.0,10,388.0,
+database\1380.json,Clickpay.com,"s
+
+Example of product//Login;pass, Transactions, address,//good luck",34.52380952380953,30.0,70.0,30.0,21,725.0,
+database\1381.json,Mypaymentsplus.com,"s
+
+Example of product//Login;pass,Payments , address,//good luck",13.0,15.0,15.0,10.0,5,65.0,
+database\1382.json,Paygonline.com,"s
+
+Example of product//Login;pass, Account Balance,Payments, address,//good luck",30.0,30.0,30.0,30.0,4,120.0,
+database\1384.json,Clickpay.com,"s
+
+In this category you can get Clickpay.com accounts with online access .
+Example: Login:Password , Holder Info",37.142857142857146,30.0,80.0,20.0,21,780.0,
+database\1397.json,Coinmama.com,"s
+
+In this category you can get Coinmama.com accounts with online access.
+Example: Login:Password , Holder Info",10.0,10.0,10.0,10.0,1,10.0,
+database\1398.json,Fidelity.com,"s
+
+In this category, you can find Fidelity.com accounts with online access.",105.35714285714286,75.0,480.0,5.0,14,1475.0,
+database\1401.json,Alaskaair.com,"s
+
+In this category you can purchase the accounts Alaskaair.com. All accounts
+have online access.",18.0,18.0,21.0,15.0,2,36.0,
+database\1416.json,Etrade.com,"s
+
+In this category you can get Etrade.com accounts with online access. Example:
+Login:Password , Holder Info",15.0,10.0,50.0,10.0,13,195.0,
+database\1417.json,SummitRacing.com,"s
+
+In this category you can get summitracing.com accounts with online access.",5.0,5.0,5.0,5.0,1,5.0,
+database\1419.json,self-registered STRIPE+BA (custom)+EMAIL+GV+COOKIES,"s
+
+In this category, you can order different bank accounts in conjunction with
+the online service. Immediately after purchase, it takes 12-24 hours to set up
+your account (s). Sometimes it can reach up to 36 hours. Important. 1) Before
+logging into your account, clear your browser history (by checking all the
+boxes). 2) Use a pure IP address. 3) Log in to your account Only from the PC
+version. 4) Be sure to import Cookies Advice. After purchasing, and after
+successfully logging into your account, change your password, email, Gvoice,
+or whatever will be linked to your email. After your successful login to your
+account, the seller is no longer responsible Good luck!!!",550.0,550.0,550.0,550.0,48,26400.0,
+database\1420.json,self-registered PP+BA (Wells/PNC/TD/Citi/Truist)+EMAIL+GV+COOKIES,"s
+
+In this category, you can order different bank accounts in conjunction with
+the online money service. Immediately after purchase, it takes 12-24 hours to
+set up your account (s). Sometimes it can reach up to 36 hours. Important. 1)
+Before logging into your account, clear your browser history (by checking all
+the boxes). 2) Use a pure IP address. 3) Log in to your account Only from the
+PC version. 4) Be sure to import Cookies Advice. After purchasing, and after
+successfully logging into your account, change your password, email, Gvoice,
+or whatever will be linked to your email. After your successful login to your
+account, the seller is no longer responsible Good luck!!!",270.0,270.0,270.0,270.0,100,27000.0,
+database\1424.json,Moneygram.com,"s
+
+In this category you can buy Moneygram accounts",8.0,5.0,15.0,5.0,5,40.0,
+database\1425.json,AU / NZ Bank Accounts,"s
+
+In this category you can buy AU / NZ bank accounts. All accounts have online
+access.",5.285714285714286,5.0,10.0,2.0,7,37.0,
+database\1429.json,Bank Checks,"s
+
+Iin this category you can purchase real bank checks from different banks.",73.0,75.0,100.0,45.0,5,365.0,
+database\1435.json,Cashapp SELFMADE BTC Enabled,"s
+
+Selfmade Cashapp accounts verified on US documents (There is possibility to
+order custom account - contact me for more info) All accounts are verified and
+BTC ENABLED You will get \- Email access \- Phone access \- Account access \-
+ID both sides \- Fullz",500.0,500.0,500.0,500.0,1,500.0,
+database\1439.json,N26 SELFMADE,"s
+
+Very good EU bank with DE/ES IBAN , this bank is good for any white/black
+transactions Bank has INSTA SEPA and many virtual credit cards ! You need to
+have EU number ready for order ! You will get : \- Account access",1200.0,1200.0,1200.0,1200.0,1,1200.0,
+database\1440.json,Custom made US/EU documents,"s
+
+I am offering custom made documents of high quality All scans/photos have
+working MRZ and all security marks These documents can pass most of the KYC
+processes. You can order EU or US. I can make : \- ID front/back \- Passport
+front/back \- DL front/back \- Utility bill \- Bank statement \- Selfie with
+ID/Passport/DL or custom note",103.33333333333331,80.0,150.0,80.0,3,310.0,
+database\1445.json,Lowes.com,"s
+
+In this category you can purchase Lowes.com accounts. All accounts have online
+access. When buying a product, you must know how to apply it. We are not in
+the business of teaching. Our task is to supply goods for you! We wish you
+successful and pleasant shopping!",6.2857142857142865,7.0,7.0,5.0,14,88.0,
+database\1449.json,AT&T Mobility LLC (USA) - UNIT BILL,"s
+
+Template for drawing documents. A document for rendering communal services.
+AT&T Mobility LLC is a cellular operator, a division of AT&T Inc. The company
+is the second largest operator in the United States by the number of
+subscribers... PSD document format",15.0,15.0,15.0,15.0,21,315.0,
+database\1451.json,Enel Gas (ITA) - UNIT BILL,"s
+
+Template for drawing documents. A document for rendering communal services. An
+international company engaged in the production and distribution of
+electricity and gas. Enel originally stood for the State Department of
+Electrical Energy. PDF document format",14.96875,15.0,15.0,14.0,32,479.0,
+database\1454.json,AIRFRANCE,"s
+
+In this category you can find AIRFRANCE accounts. All accounts have online
+access.",12.0,12.0,12.0,12.0,2,24.0,
+database\1458.json,Sprucemoney.com Self-Registered,"s
+
+Hello dear customers from QuestionMark! In this category you can buy
+sprucemoney.com account (self-registered). Full info + Email + Pass+ Cookie +
+Routing + Accouting number + VCC + Gvoice.These accounts are made according to
+my data, it is also possible to make according to your data. If I execute an
+order according to your data, the product may not be valid and without a
+guarantee. There is a possibility of pre-order. The procedure is as follows:
+1. You pay for the order 2. If I am online, you will receive your order
+immediately. 3. If I am offline then you will have to wait. IMPORTANT! Your IP
+address must be clean and appropriate! If you didn't find a product in a
+category, write to me and I will help you.",130.0,80.0,650.0,80.0,17,2210.0,
+database\1460.json,Moneygram.com,"s
+
+In this category you can get Moneygram.com accounts with online access.",15.0,15.0,15.0,15.0,1,15.0,
+database\1462.json,Costco.com,"s
+
+In this category you can get Costco.com accounts with online access. Example:
+Login:pass Payment Info Holder Info",6.0,7.0,7.0,3.0,8,48.0,
+database\1466.json,Poshmark.com,"s
+
+In this category you can get Poshmark.com accounts with online access.
+Example: Login:Password Holder Info",3.9696969696969697,3.0,5.0,3.0,33,131.0,
+database\1475.json,partycity.com + email access,"s
+
+In this category you can purchase PartyCity accounts with email access.",8.0,8.0,8.0,8.0,1,8.0,
+database\1476.json,Venmo.com,"s
+
+In this category, you can find Venmo.com accounts with online access. Account
+login rules. 1) Clear browser history and cookies. 2) Enter clean IP address.",5.0,5.0,5.0,5.0,98,490.0,
+database\1479.json,Ihg.com,"s
+
+In this category you can get Ihg.com accounts with online access.",3.0,3.0,5.0,1.0,2,6.0,
+database\1488.json,Ticketmaster.com(Email Access),"s
+
+In this category you can purchase ticketmaster.com accounts. All accounts have
+online access. When buying a product, you must know how to apply it. We are
+not in the business of teaching. Our task is to supply goods for you! We wish
+you successful and pleasant shopping!",10.0,10.0,10.0,10.0,4,40.0,
+database\1489.json,Goshippo.com,"s
+
+Example of product//Login;pass, Orders , Address info//good luck//",3.695652173913044,5.0,7.0,1.0,23,85.0,
+database\1504.json,Poshmark.com,"s
+
+In this category you can get Poshmark.com accounts with online access.
+Example: Login:Password Holder Info",4.0,3.0,7.0,3.0,10,40.0,
+database\1510.json,poshmark.com,"s
+
+In this category you can buy poshmark.com accounts",7.5,7.5,10.0,5.0,4,30.0,
+database\1511.json,Email Bases,"s
+
+In this category you can buy various databases, mail and password databases,
+just email databases. EXAMPLE:Email:Password",47.27272727272727,30.0,100.0,10.0,11,520.0,
+database\1516.json,FlyTAP.com,"s
+
+In this category you can purchase FlyTAP.com accounts. All accounts have
+online access.",8.4,7.0,19.0,2.0,5,42.0,
+database\1525.json,Ihg.com,"s
+
+In this category you can get IHG.com accounts with online access.",5.75,5.5,12.0,3.0,8,46.0,
+database\1527.json,IHG.com,"s
+
+In this category you can get IHG.com accounts with online access.",3.0,3.0,3.0,3.0,1,3.0,
+database\1531.json,Mygiftcardsupply.com,"s
+
+In this category you can get Mygiftcardsupply.com accounts with online access.
+Example: Login:Password",15.0,15.0,15.0,15.0,2,30.0,
+database\1532.json,Usaa.com No Online Access,"s
+
+In this category you can get Usaa.com accounts without online access. Example:
+Only Login:Password",10.0,10.0,10.0,10.0,42,420.0,
+database\1535.json,Navyfederal.org No Online Access,"s
+
+In this category you can get Navyfederal.org accounts without online access.
+Example: Only Login:Password",10.0,10.0,10.0,10.0,19,190.0,
+database\1536.json,Usbank.com,"s
+
+In this category you can get Usbank.com accounts without online access.
+Example: Only Login:Password",10.0,10.0,10.0,10.0,7,70.0,
+database\1540.json,Marriott.com,"s
+
+In this category you can purchase the accounts Marriott.com. Accounts have
+online access.",3.2,3.0,5.0,2.0,5,16.0,
+database\1542.json,Leads - Email Bases - Ready To Spam,"s
+
+Hi Are you a spammer searching for leads ? emails to spam ? Here you can find
+the best leads on the web.Why ? Because : -All leads are from Shopping sites
+Databases and most of users Have Paypal or amazon accounts. -All leads here
+have been checked with an antipublic with at least more than 50% never leaked
+before.",50.0,50.0,50.0,50.0,2,100.0,
+database\1543.json,Combolist - Email:Pass - Ready To Crack,"s
+
+Hi Are you a Cracker searching for combos to get some account ? Here you can
+find the best leads on the web.Why ? Because : -All Combo here are from
+Private Databases So you can get what accounts you want",35.0,40.0,40.0,25.0,3,105.0,
+database\1547.json,"SCAMPAGES - BEST PHISHING PAGES + HOSTING AND INSTALLATION + Free
+Letter","s
+
+Hi Here you will find the best SCAMPAGES on the Web . Why ? Because : \- All
+Scampages here are developped by engineers and you can't tell the difference
+between the fake and the real you can get the best result with them -Private
+antibots : All Scampages Have integrated antibots that ban all google and
+security IP'S so it will last longer ===== CONTACT ME AFTER BUYING. GUESS WHAT
+!! I'M Giving free installation and host(Shell/Cpanel) and i will do
+everything for you all what you have to do just giving me your email.",50.0,50.0,50.0,50.0,4,200.0,
+database\1558.json,Klm.com,"s
+
+In this category you can find Klm.com accounts. All accounts have online
+access.",6.0,6.0,6.0,6.0,1,6.0,
+database\156.json,Westernunion.com,"s
+
+In this category, you can purchase - Westernunion.com. Accounts have access to
+the online. You have 20 minutes to check your account.",21.25,25.0,25.0,15.0,72,1530.0,
+database\1563.json,USA SHOPING SITES,"s
+
+Example of product//Login:Pass//Payment info//Address info//Holder Info//good
+luck//",4.376344086021505,5.0,7.0,3.0,93,407.0,
+database\1564.json,Shipstation.com,"s
+
+In this category you can get Shipstation.com accounts with online access.
+Example: Login:Password Holder Info",5.4,5.0,7.0,5.0,5,27.0,
+database\1565.json,Vegascasinoonline.eu,"s
+
+In this category you can get Vegascasinoonline.eu accounts with online access.
+Example : Login:Password Holder info",5.0,5.0,5.0,5.0,47,235.0,
+database\1571.json,Fanduel.com,"s
+
+In this category you can get Fanduel.com accounts with online access. Example
+: Login:Password Holder info",5.875,5.0,12.0,5.0,8,47.0,
+database\1572.json,Draftkings.com,"s
+
+In this category you can get Draftkings.com accounts with online access.
+Example : Login:Password Holder info",5.375,5.0,7.0,5.0,8,43.0,
+database\1573.json,Ulta.com,"s
+
+Example of product//Login;pass, Orders , Address info//good luck//",6.379310344827586,7.0,7.0,5.0,29,185.0,
+database\1575.json,Goshippo.com,"s
+
+In this category you can get Goshippo.com accounts with online access.
+Example: Login:Password Holder Info",6.0769230769230775,7.0,7.0,5.0,26,158.0,
+database\1576.json,Marriott.com,"s
+
+In this category you can get Marriott.com accounts with online access.
+Example: Login:Password Holder Info",39.604651162790695,8.0,240.0,1.0,43,1703.0,
+database\158.json,Squareup.com,"s
+
+In this category, you can purchase - Squareup.com. Accounts have access to the
+online. You have 20 minutes to check your account.",20.0,20.0,20.0,20.0,77,1540.0,
+database\159.json,Samsclub.com,"s
+
+In this category you can purchase Samsclub.com accounts. All accounts have
+online access. When buying a product, you must know how to apply it. We are
+not in the business of teaching. Our task is to supply goods for you! We wish
+you successful and pleasant shopping!",8.03125,7.0,10.0,7.0,32,257.0,
+database\1600.json,Privacy.com No Online Access,"s
+
+In this category you can get Privacy.com accounts without online access.
+Example: Only Login:Password",5.0,5.0,5.0,5.0,40,200.0,
+database\1602.json,Hertz.com,"s
+
+In this category you can get Hertz.com accounts with online access.",58.33333333333334,40.0,100.0,35.0,3,175.0,
+database\165.json,Lowes.com,"s
+
+In this category you can purchase Lowes.com accounts. All accounts have online
+access. When buying a product, you must know how to apply it. We are not in
+the business of teaching. Our task is to supply goods for you! We wish you
+successful and pleasant shopping!",7.0,7.0,7.0,7.0,97,679.0,
+database\166.json,Kohls.com,"s
+
+In this category you can purchase Kohls.com accounts. All accounts have online
+access. When buying a product, you must know how to apply it. We are not in
+the business of teaching. Our task is to supply goods for you! We wish you
+successful and pleasant shopping!",6.5,7.0,7.0,5.0,8,52.0,
+database\178.json,USAA.com,"s
+
+In this category you can purchase USAA bank accounts - usaa.com . Accounts are
+sold in format (login:password). No online access is provided.",10.0,10.0,10.0,10.0,89,890.0,
+database\184.json,BIN NON VBV Auto-processing,"s
+
+In this category, you can purchase credit card bins that bypass payment
+protection 3-D Secure VBV. BIN is the first 6 digits of the credit card (with
+the help of this information you will understand what credit cards you need to
+work with 3-D Secure VBV) 3-D Secure VBV is a protocol that is used as an
+additional layer of security for online credit and debit cards, two-factor
+user authentication",5.0,5.0,5.0,5.0,85,425.0,
+database\185.json,Walmart.com + email access,"s
+
+In this category you can purchase Walmart accounts with email access.",4.333333333333333,5.0,5.0,1.0,42,182.0,
+database\190.json,Wire Target Leads,"s
+
+Leads are in different Categories, some from personal base, financial base,
+investors base, company base, school base, hospital base , employment base,
+whichever and whatever country just ask and also i sell leads with valid phone
+numbers and first and last name . The leads are valid and clean , they arent
+extracted and they are active leads that is been used. For replacement/refund,
+you must provide screenshot/video proof of incomplete total leads. read
+category info before purchase. Thank you for visiting.",1000.0,1000.0,1000.0,1000.0,100,100000.0,
+database\192.json,Target.com + email access,"s
+
+In this category you can purchase Target accounts with email access.",5.333333333333333,5.0,6.0,5.0,3,16.0,
+database\202.json,Chase.com + AN/RN,"s
+
+In this category you can purchase Chase.com accounts with AN/RN. These bank
+accounts do not have online access. To access online you need to have email
+access. Because of bank protection when login, the bank will require a code
+that will be sent to the email. Address or IP is not included in the log.",33.86206896551724,35.0,100.0,10.0,29,982.0,
+database\203.json,Citizensbank.com + AN/RN,"s
+
+In this category you can purchase Citizensbank.com accounts with AN/RN. These
+bank accounts do not have online access. To access online you need to have
+email access. Because of bank protection when login, the bank will require a
+code that will be sent to the email. Address is not included in the log.",76.46153846153847,81.0,105.0,51.0,26,1988.0,
+database\213.json,Bank Statements,"s
+
+In this category, you can buy bank statements from all over the world. When
+buying this product, you should know its further purpose. Typically,
+verification services request extracts for additional verification. In most
+cases, you will have to change the data to your own using programs such as
+Photoshop. We wish you a pleasant shopping!",7.0,7.0,7.0,7.0,45,315.0,
+database\234.json,Worldremit.com,"s
+
+In this category, you can purchase accounts - Worldremit.com . Accounts have
+online access. You have 20 minutes to check your account from the date of
+purchase.",20.3,10.0,40.0,10.0,100,2030.0,
+database\235.json,Australian banks,"s
+
+In this category, you can purchase a bank account in Australia.",257.70588235294116,240.0,670.0,108.0,17,4381.0,
+database\236.json,European banks,"s
+
+In this category you can purchase European bank accounts. The accounts have
+online access",66.76666666666667,40.0,300.0,10.0,30,2003.0,
+database\245.json,Credit Score (CS) lookup service,"s
+
+Hello everyone! Here you can find credit score person who interested you.
+Processing of your application can take up to 24 hours no more (but I always
+try to do everything as early as possible). You should send me information
+about human: 1\. First and Last Name 2\. Address (include Zipcode, City and
+State) 3\. DOB 4\. SSN Always send all info what you have about human! Then I
+send you the Credit Score (CS) this person.",20.65384615384616,19.0,36.0,10.0,26,537.0,
+database\247.json,Credit Report (CR) lookup service,"s
+
+Hello everyone! Here you can find credit report person who interested you.
+Processing of your application can take up to 24 hours no more (but I always
+try to do everything as early as possible). *If you want me to get Credit
+Report without your SSN, you will need to extra pay!* You should send me
+information about human: 1\. First and Last Name 2\. Address (include Zipcode,
+City and State) 3\. DOB 4\. SSN (Optional) Always send all info what you have
+about human! Then I send you the Credit Report (CR) this person.",34.18181818181818,29.0,57.0,20.0,22,752.0,
+database\248.json,Background (BG) Report lookup service,"s
+
+Hello everyone! Here you can find background report person who interested you.
+Processing of your application can take up to 24 hours no more (but I always
+try to do everything as early as possible). You should send me information
+about human: 1\. First and Last Name 2\. Address (include Zipcode, City and
+State) 3\. DOB 4\. SSN Always send all info what you have about human! Then I
+send you the Background (BG) report this person.",22.6896551724138,23.0,44.0,12.0,29,658.0,
+database\249.json,MMN lookup service,"s
+
+Hello everyone! Here you can find MMN person who interested you. Processing of
+your application can take up to 24 hours no more (but I always try to do
+everything as early as possible). You should send me information about human:
+1\. First and Last Name 2\. Address (include Zipcode, City and State)",78.18181818181819,85.0,120.0,45.0,22,1720.0,
+database\274.json,Verizonwireless.com + SQ,"s
+
+In this category you can purchase Verizonwireless accounts with secret
+question.",36.66666666666666,40.0,40.0,30.0,3,110.0,
+database\289.json,CREDIT CARDS,"s
+
+In this category, you can purchase credit cards from all over the world will
+upload this section everyday.. Please read the purchase and return policies
+before buying!",9.452830188679245,10.0,18.0,5.0,53,501.0,
+database\302.json,BIG BASE of domains,"s
+
+BIG 5kk(millions) Base of domains of different CMS with a choice by CMS type -
+WP, magento, joomla, droopal etc,,,Example https://prnt.sc/1p4xs3e",40.0,40.0,40.0,40.0,10,400.0,
+database\304.json,Paypal.com self-registried,"s
+
+Hello, dear customer! This category contains Paypal.com, self-registered. Full
+Info*Email; *Log*Pass*PPlog; Cookie*User-Agent!",25.0,25.0,25.0,25.0,1,25.0,
+database\317.json,Google voice,"s
+
+in this category you can purchase US Google Voices",7.0,7.0,7.0,7.0,19,133.0,
+database\32.json,Vystarcu.org,"s
+
+In this category you can purchase USA bank accounts - Vystarcu.org. Accounts
+have the form (login: password). We cannot guarantee you online access. We
+guarantee from ourselves the validity of the account itself (login: password).",10.0,10.0,10.0,10.0,11,110.0,
+database\320.json,Drawing documents,"s
+
+in this category you can order the drawing documents you are interested in.
+Provide the information you have available to complete the order",59.301075268817215,50.0,80.0,25.0,93,5515.0,
+database\323.json,Statements,"s
+
+In this category we offer you editable statements of different banks.",13.711538461538463,15.0,57.0,6.0,52,713.0,
+database\330.json,Americanexpress.com,"s
+
+In this category you can buy americanexpress.com accounts. Login Pass IP
+COOKIES",47.0,47.5,70.0,30.0,10,470.0,
+database\332.json,OPEN VPN CONFIG FILE,"s
+
+In this category we offer you VPN configuration files. Password for all ""vpn"",
+login is the same.",3.0,3.0,3.0,3.0,8,24.0,
+database\334.json,OpenBullet *cfg OB CONFIG'S/Anom/Loli,"s
+
+In this category we offer you configuration files for OpenBullet Checks for
+validity what the AIOC passes.The version of the program will be indicated for
+the file. Read the product description carefully.",243.73737373737373,250.0,250.0,55.0,99,24130.0,
+database\335.json,SELF REGISTERED BANK ACCOUNTS+EMAIL+GV,"s
+
+In this category you can order different bank accounts. Immediately after
+purchase, it takes 12-24 hours to set up your account (s).Sometimes it can
+reach up to 36 hours. Important. 1) Before logging into your account, clear
+your browser history (by checking all the boxes). 2) Use a pure IP address. 3)
+Log in to your account Only from the PC version. 4) Be sure to import Cookies
+Advice. After purchasing, and after successfully logging into your account,
+change your password, email, Gvoice or whatever will be linked to your email.
+After your successful login to your account, the seller is no longer
+responsible Good luck!!! Screenshots should be uploaded to the http://joxi.ru/
+or https://app.prntscr.com/ru/ services, as uploading images in a ticket does
+not work correctly.",242.6818181818182,222.5,460.0,165.0,22,5339.0,
+database\341.json,Walmart.com,"s
+
+In this category you can buy walmart accounts.",5.7,5.0,7.0,3.0,30,171.0,
+database\345.json,Apple.com,"s
+
+In this category you can buy apple acounts",6.8181818181818175,5.0,15.0,5.0,22,150.0,
+database\347.json,Costco.com,"s
+
+In this category you can buy Costco accounts.",6.363636363636362,6.0,7.0,6.0,11,70.0,
+database\348.json,Ebay.com,"s
+
+In this category you can buy ebay acounts",80.0,20.0,350.0,5.0,6,480.0,
+database\353.json,Credit Report (CR) lookup service,"s
+
+Hello everybody from PINK MAN! Here you can find credit report person who
+interested you. WARNING: If you want me to get Credit report without your SSN,
+you will need to extra pay 18 dollars You should send me information about
+human in ticket: 1\. First and Last Name 2\. Address (include Zipcode, City
+and State) 3\. DOB 4\. SSN WARNING: Always send all info what you have about
+human Then I send you the Credit report this person. Rules: -Processing of
+your application can take up to 24 hours no more (but I always try to do
+everything as early as possible) -If the information was not found, then the
+balance remains as a deposit",29.0,29.0,38.0,20.0,6,174.0,
+database\354.json,Background (BG) report lookup service,"s
+
+Hello everybody from PINK MAN! Here you can find background report person who
+interested you. You should send me information about human in ticket: 1\.
+First and Last Name 2\. Address (include Zipcode, City and State) 3\. DOB 4\.
+SSN (optional) Then I send you the BG report this person. Rules: -Processing
+of your application can take up to 24 hours no more (but I always try to do
+everything as early as possible) -Refund or replacement can be if I couldn't
+find person who you need",22.66666666666667,23.0,33.0,12.0,9,204.0,
+database\355.json,Credit Score (CS) lookup service,"s
+
+Hello everybody from PINK MAN! Here you can find credit score person who
+interested you. WARNING: If you want me to get Credit score without your SSN,
+you will need to extra pay 18 dollars You should send me information about
+human in ticket: 1\. First and Last Name 2\. Address (include Zipcode, City
+and State) 3\. DOB 4\. SSN WARNING: Always send all info what you have about
+human Then I send you the Credit score this person. Rules: -Processing of your
+application can take up to 24 hours no more (but I always try to do everything
+as early as possible) -If the information was not found, then the balance
+remains as a deposit",18.666666666666668,19.0,27.0,10.0,9,168.0,
+database\356.json,MMN lookup service,"s
+
+Hello everybody from PINK MAN! This is searching service of MMN USA people.
+You should send me information about human in ticket: 1\. First and Last Name
+2\. Address (include Zipcode, City and State) Rules: -Processing of your
+application can take up to 24 hours no more (but I always try to do everything
+as early as possible) -If the information was not found, then the balance
+remains as a deposit",61.0,45.0,85.0,45.0,5,305.0,
+database\357.json,Emails accounts,"s
+
+In this cathegory you can buy emails accounts",5.7894736842105265,5.0,15.0,2.0,76,440.0,
+database\358.json,EIN lookup service,"s
+
+Hello everybody from PINK MAN! Here you can find EIN of company which
+interested you. You should send me information about owner or director in
+ticket: 1\. First and Last Name 2\. Address (include Zipcode, City and State)
+3\. DOB 4\. SSN WARNING: Always send all info what you have about human I also
+need all the available information about the company (its address, name, etc.)
+Then I send you EIN number this company. Rules: -Processing of your
+application can take up to 24 hours no more (but I always try to do everything
+as early as possible) -If the information was not found, then the balance
+remains as a deposit",40.0,40.0,40.0,40.0,1,40.0,
+database\372.json,Textnow.com,"s
+
+In this category you can buy textnow accounts.",4.019607843137255,4.0,5.0,4.0,51,205.0,
+database\377.json,Chase.com self-registered,"s
+
+Full info+email-pass+Cookie+Routing+Accouting number (Checking)",200.0,200.0,200.0,200.0,2,400.0,
+database\381.json,Yahoo.com,"s
+
+In this category, you can find Yahoo.com accounts with online access. After
+purchase, log into your account strictly according to the rules _ 1) Use a
+clean IP address 2) Login to accounts only from the PC version Good luck!!!",5.0,5.0,5.0,5.0,48,240.0,
+database\392.json,Hilton.com,"s
+
+In this category, you can find Hilton.com accounts with online access. After
+purchase, log into your account strictly according to the rules _ 1) Use a
+clean IP address 2) Login to accounts only from the PC version Good luck!!!",42.66666666666666,7.0,400.0,2.0,15,640.0,
+database\397.json,Squareup.com,"s
+
+In this category, you can find Squareup.com accounts with online access. After
+purchase, log into your account strictly according to the rules _ 1) Use a
+clean IP address 2) Login to accounts only from the PC version Good luck!!!",15.0,15.0,15.0,15.0,18,270.0,
+database\410.json,Americanexpress.com,"s
+
+In this category, you can find Americanexpress.com accounts with online
+access. After purchase, log into your account strictly according to the rules
+_ 1) Use a clean IP address 2) Login to accounts only from the PC version Good
+luck!!!",37.5,35.0,60.0,25.0,10,375.0,
+database\437.json,Bank-Check,"s
+
+You will find different bank checks here. All checks are unique and guaranteed",50.0,50.0,50.0,50.0,5,250.0,
+database\442.json,Lowes.com,"s
+
+In this category you can buy Lowes.com accounts.",7.0,7.0,7.0,7.0,5,35.0,
+database\445.json,Facebook.com,"s
+
+In this category you can buy facebook accounts.",9.466666666666667,10.0,10.0,2.0,15,142.0,
+database\446.json,Website adminpanels,"s
+
+In this category you can buy website adminpanels",38.57142857142857,30.0,120.0,10.0,7,270.0,
+database\447.json,USA Banks Statements,"s
+
+In this category, you can buy US bank statements. When buying this product,
+you should know its further purpose. Typically, verification services request
+extracts for additional verification. In most cases, you will have to change
+the data to your own using programs like Photoshop. Good luck!!!",7.452380952380952,7.0,15.0,7.0,42,313.0,
+database\448.json,Australian banks,"s
+
+Australian bank with online access. Example 12467895: Aap45Pake Info: Richard
+Meyer \- Postal: AU, Queensland, PARREARRA, UNIT 29 1 GRENADA WAY, 3087. to
+access you need a clean system + au ip + dns. Refunds are made if the username
+and password are incorrect",54.0,75.0,75.0,12.0,3,162.0,
+database\449.json,Bank Checks,"s
+
+in this category you can purchase real bank checks from different banks.",162.0,60.0,600.0,30.0,5,810.0,
+database\453.json,Email bases for brute,"s
+
+In this category you can purchase email bases (email:password) from different
+countries and with different keywords.",219.0,250.0,300.0,100.0,10,2190.0,
+database\457.json,Hostings/Domain/Webmail/cPanels,"s
+
+In this category you can buy Hostings/Domain/Webmail/cPanels",22.0,20.0,50.0,10.0,10,220.0,
+database\467.json,Target.com,"s
+
+In this category you can buy target.com accounts",6.0,6.0,6.0,6.0,20,120.0,
+database\468.json,Marriot.com,"s
+
+In this category you can buy marriot accounts",7.15,3.0,75.0,1.0,20,143.0,
+database\470.json,Nordvpn.com,"s
+
+In this category you can buy Nordvpn accounts.",40.0,40.0,40.0,40.0,1,40.0,
+database\471.json,Westernunion.com,"s
+
+In this category, you can purchase - Westernunion.com. Accounts have access to
+the online. You have 10 minutes to check your account.",21.538461538461537,22.5,25.0,15.0,26,560.0,
+database\472.json,Southwest.com,"s
+
+In this category you can purchase the accounts Southwest.com.Accounts have
+online access.You have 10 minutes to check your account from the date of
+purchase.",48.91304347826087,27.0,175.0,3.0,23,1125.0,
+database\480.json,Email account with access,"s
+
+In this cathegory you can buy emails accounts",2.0,2.0,2.0,2.0,6,12.0,
+database\482.json,BIG BIN BASE List of all BINS and card types CSV database,"s
+
+List of all BINS and card types CSV database. Bin List 2020 and 2021 have 1.18
+millions bins. All countries Example: 100075;PRIVATE LABEL;CHINA CITIC
+BANK;DEBIT;;CHINA;CN;CHN;156;HTTP://BANK.ECITIC.COM/;4008895558 OR 95558;19;;N
+100100;UATP;AMERICAN AIRLINES (AA);CREDIT;UATP;UNITED
+STATES;US;USA;840;HTTPS://WWW.AA.COM/;800-433-7300;15;COMMERCIAL;N
+100101;UATP;AMERICAN AIRLINES (AA);CREDIT;UATP;UNITED
+STATES;US;USA;840;HTTPS://WWW.AA.COM/;800-433-7300;15;COMMERCIAL;N",40.0,40.0,40.0,40.0,20,800.0,
+database\484.json,Onpointcu.comFull AN+RN,"s
+
+Login:Password Account Name Full AN Balance Routing Number:
+================================== accounts with 2-factor verification cannot
+be replaced time to check the account is 15 minutes, after the stated time the
+material cannot be replaced. If you had problem,open refund ticket attach a
+screenshot with a problem and a screenshot with a whoer.net with the system
+time of the machine",25.07692307692308,12.0,100.0,5.0,13,326.0,
+database\49.json,Citizensbank.com,"s
+
+In this category you can purchase USA bank accounts - Citizensbank.com .
+Accounts have the form (login: password). We cannot guarantee you online
+access. We guarantee from ourselves the validity of the account itself (login:
+password).",10.0,10.0,10.0,10.0,45,450.0,
+database\493.json,Banks of Australia,"s
+
+You can buy various Australian bank accounts here. All accounts checked for
+absence two-factor authentication to logon. Use clean Australian IP only!",36.7027027027027,3.0,600.0,1.0,74,2716.0,
+database\494.json,Banks of Spain,"s
+
+You can buy Spain's bank accounts here. All accounts checked for absence two-
+factor authentication to logon. Use clean Spain IP only!",50.1,15.0,180.0,5.0,20,1002.0,
+database\495.json,Banks of New Zealand,"s
+
+You can buy various bank accounts of New Zealand here. All accounts checked
+for absence two-factor authentication to logon. Use clean New Zealand IP only!",150.21052631578948,10.0,1000.0,3.0,19,2854.0,
+database\500.json,Westernunion.com,"s
+
+You can buy Westernunion.com account here.",17.708333333333332,10.0,35.0,10.0,48,850.0,
+database\502.json,Worldremit.com,"s
+
+You can buy Worldremit.com account here.",10.285714285714286,7.0,30.0,7.0,7,72.0,
+database\508.json,Fedex.com,"s
+
+You can buy fedex.com account here.",16.25,15.0,20.0,15.0,12,195.0,
+database\511.json,Bestbuy.com,"s
+
+In this category you can buy Bestbuy.com accounts",6.111111111111112,7.0,7.0,3.0,9,55.0,
+database\514.json,Other world Bank Accounts,"s
+
+In this category you can buy world bank accounts.",84.0,70.0,250.0,15.0,5,420.0,
+database\516.json,Southwest.com,"s
+
+In this category you can buy southwest.com accounts",15.85,2.0,155.0,1.0,20,317.0,
+database\517.json,Squareup.com,"s
+
+In this category you can buy squareup.com accounts.",18.5,18.5,20.0,17.0,2,37.0,
+database\518.json,Discover.com CC Login:Password,"s
+
+This category sells a username and password from Discover. Screenshots should
+be uploaded to the http://joxi.ru/ or https://app.prntscr.com/ru/ services, as
+uploading images in a ticket does not work correctly.",15.0,15.0,15.0,15.0,1,15.0,
+database\521.json,Bestbuy.com,"s
+
+You can buy Bestbuy.com account here.",7.4,7.0,10.0,3.0,5,37.0,
+database\526.json,BASE 21M ParkMobile Users,"s
+
+The base of ParkMobile, a popular parking service in North America. Base have
+21 million users and contains: email addresses phone numbers car numbers date
+of birthday's home addresses hash passwords example https://prnt.sc/1vgl5al",10.0,10.0,10.0,10.0,15,150.0,
+database\527.json,BASE 1.3M ClubHouse USERS,"s
+
+Clubhouse is a social audio app for iOS and Android where users can
+communicate in audio chat rooms that accommodate groups of thousands of
+people. 1.3m base of Clubhouse users, each line of which contains: USER ID,
+Photo URL, User name, User's Twitter url, User's Instagram url, Number of
+followers, The number of people the user is following, Account creation date,
+The database does not contain passwords or email addresses. example's
+https://prnt.sc/1vgn6jy https://prnt.sc/1vgn90j",15.0,15.0,15.0,15.0,19,285.0,
+database\528.json,SEARCH CRYPTO IN LOGS 1000 crypto queries,"s
+
+Base contains unique links to crypto sites such as: different wallets
+exchanges, lending platforms, investment funds, CFD BROKERS , P2P exchanges,
+etc... The base is sell as a txt file. Included with the txt file you get a
+link to google tables with a breakdown by categories: example
+https://prnt.sc/1vgru6f",200.0,200.0,200.0,200.0,10,2000.0,
+database\535.json,"FTP domain, hosting, panel","s
+
+FTP domain, hosting, panel",25.714285714285715,15.0,60.0,10.0,7,180.0,
+database\545.json,Airbnb.com Self-Registered,"s
+
+Hello everyone from PINK MAN! In this category you can buy Airbnb.com account
+The procedure is as follows: 1. You pay for the order 2\. If I am online, you
+will receive your order immediately. 3\. If I am offline then you will have to
+wait Refunds only in case of invalid account with the provision of evidence in
+the form of screenshots. IMPORTANT! Your IP address must be clean and
+appropriate!",200.0,200.0,200.0,200.0,1,200.0,
+database\546.json,Paypal.com Self-Registered,"s
+
+Hello everyone from PINK MAN! In this category you can buy Paypal.com account
+The procedure is as follows: 1. You pay for the order 2\. If I am online, you
+will receive your order immediately. 3\. If I am offline then you will have to
+wait Refunds only in case of invalid account with the provision of evidence in
+the form of screenshots. IMPORTANT! Your IP address must be clean and
+appropriate!",120.0,120.0,120.0,120.0,1,120.0,
+database\554.json,USA Banks login:password,"s
+
+In this category, you can find usa banks LOGIN:PASSWORD. After purchase, log
+into your account strictly according to the rules _ 1) Use a clean IP address
+2) Login to accounts only from the PC version Good luck!!! Screenshots should
+be uploaded to the http://joxi.ru/ or https://app.prntscr.com/ru/ services, as
+uploading images in a ticket does not work correctly.",12.31,11.0,25.0,10.0,100,1231.0,
+database\556.json,Squareup.com,"s
+
+In this category, you can purchase - Squareup.com. Accounts have access to the
+online.",6.666666666666668,5.0,10.0,5.0,3,20.0,
+database\575.json,Commbank.com.au online acces,"s
+
+Example and about product Here you can buy Commbank.com.au accounts. Example
+of product! accounts with 2-factor verification cannot be replaced time to
+check the account is 15 minutes, after the stated time the material cannot be
+replaced. If you had problem,open refund ticket attach a screenshot with a
+problem and a screenshot with a whoer.net with the system time of the machine
+================================== Login:Password Account Name Full AN Balance",80.0,80.0,80.0,80.0,2,160.0,
+database\586.json,Walmart.com,"s
+
+In this category, you can purchase - Walmart.com.All accounts have online
+access.",5.5,5.0,10.0,3.0,8,44.0,
+database\587.json,Nordvpn.com,"s
+
+In this category, you can purchase - Nordvpn.com.All accounts have online
+access.",1.0,1.0,1.0,1.0,5,5.0,
+database\588.json,Voip and Sip accounts,"s
+
+In this category you can buy Voip or SIP accounts to call",60.0,60.0,60.0,60.0,1,60.0,
+database\59.json,RDP,"s
+
+in this category you can purchase RDP of different countries and parameters
+according to your needs example: RDP | United States | Mississippi | User,
+Windows 10, RAM 12.00 GB, NO Blacklist | 75.149.184.203:3389 | DESKTOP-FVTU5BR
+\ diego | abc123",7.9021739130434785,8.0,8.0,6.0,92,727.0,
+database\602.json,Asos.com,"s
+
+in this category you can buy asos.com accounts",4.0,5.0,5.0,2.0,3,12.0,
+database\604.json,Various payment systems,"s
+
+In this category, you can purchase accounts of various payment systems.
+Accounts have online access. You have 10 minutes to check your account from
+the date of purchase.",9.871794871794874,10.0,15.0,3.0,39,385.0,
+database\605.json,Other Services,"s
+
+In this category, you can purchase accounts of Other Services. Accounts have
+online access. You have 10 minutes to check your account from the date of
+purchase.",10.0,10.0,10.0,10.0,5,50.0,
+database\608.json,Various Shopping sites,"s
+
+In this category, you can purchase accounts of Shopping sites. Accounts have
+online access. You have 10 minutes to check your account from the date of
+purchase.",5.0,5.0,5.0,5.0,1,5.0,
+database\61.json,Bank Statements,"s
+
+In this category, you can buy bank statements from all over the world. When
+buying this product, you should know its further purpose. Typically,
+verification services request extracts for additional verification. In most
+cases, you will have to change the data to your own using programs such as
+Photoshop. We wish you a pleasant shopping!",7.0,7.0,7.0,7.0,100,700.0,
+database\617.json,EIN lookup service,"s
+
+Hello, dear customers! Here you can find EIN of company which interested you.
+You should send me information about owner or director in ticket: 1. First and
+Last Name 2. Address (include Zipcode, City and State) 3. DOB 4. SSN WARNING:
+Always send all info what you have about human I also need all the available
+information about the company (its address, name, etc.) Then I send you EIN
+number this company. Rules: -Processing of your application can take up to 24
+hours no more (but I always try to do everything as early as possible)",67.0,65.0,100.0,35.0,5,335.0,
+database\619.json,Various Hotel sites,"s
+
+In this category, you can purchase accounts of Hotel sites. Accounts have
+online access. You have 10 minutes to check your account from the date of
+purchase.",23.83333333333333,17.0,69.0,3.0,6,143.0,
+database\620.json,Rewards & Points,"s
+
+In this category, you can purchase accounts of Rewards and Points sites.
+Accounts have online access. You have 10 minutes to check your account from
+the date of purchase.",10.0,10.0,10.0,10.0,1,10.0,
+database\621.json,Pizzahut.com,"s
+
+in this category you can buy pizzahut.com accounts",5.0,5.0,5.0,5.0,3,15.0,
+database\625.json,Kohls.com,"s
+
+IN this category you can buy kohls.com accounts",6.6,7.0,7.0,3.0,10,66.0,
+database\628.json,USA BINS AUTO VBV (AUTO-PROCESSING),"s
+
+hi bro,here you can buy usa bins auto vbv",8.0,8.0,8.0,8.0,40,320.0,
+database\630.json,Americanexpress.com,"s
+
+In this category you can get Americanexpress.com accounts with online access.
+Example: Log:Pass Holder Name Holder Address",47.41379310344828,40.0,100.0,15.0,29,1375.0,
+database\632.json,Discover.com,"s
+
+In this category you can get Discover.com accounts with online access.
+Example: Log:pass Only Left 4 digits Holder Name Holder Address",75.51724137931033,70.0,210.0,5.0,87,6570.0,
+database\633.json,Target.com,"s
+
+In this category you can get Target.com accounts with online access.",7.75,8.0,10.0,5.0,16,124.0,
+database\634.json,Hilton.com,"s
+
+In this category you can get Hilton.com accounts.",27.338235294117645,5.5,1000.0,2.0,68,1859.0,
+database\635.json,Ebay.com,"s
+
+In this category you can get Ebay.com accounts with online access.",4.333333333333333,2.0,10.0,1.0,3,13.0,
+database\636.json,"Email Addresses 99% Email,Email-Domain","s
+
+In this category you can find Email addresses. Their domains and verification
+messages Example aaworon19@gmail.com / gmail.com / Valid / The Address is
+Valid and Safe Good luck!!!",1.0,1.0,1.0,1.0,97,97.0,
+database\640.json,Wellsfargo.com,"s
+
+In this category you can get Wellsfargo accounts with online access. Example:
+Wellsfargo log:pass Full account number or left 4 digits Full Routing number
+Holder info",250.0,250.0,250.0,250.0,1,250.0,
+database\642.json,USA BANKS NO ONLINE ACCESS,"s
+
+In this category you can get USA BANKS account without online access. Example:
+Only Login:Password",10.05,10.0,15.0,10.0,100,1005.0,
+database\644.json,Target.com,"s
+
+Here you get Terget.com online accounts. Example of product
+___________________________________________ Login:pass Address Info Payment
+Info ______________________________________ Good Luck.",8.157894736842103,7.0,15.0,3.0,19,155.0,
+database\653.json,Wordpress (wp-login.php) panels,"s
+
+In these category you can buy Wordpress (wp-login.php) panels Example: Url:
+Login: Password:",2.75,2.0,5.0,2.0,4,11.0,
+database\654.json,Netflix.com,"s
+
+In this category you can get Netflix.com accounts with online access.",5.84,7.0,7.0,3.0,100,584.0,
+database\655.json,Walmart.com,"s
+
+In this category you can get Walmart.com accounts with online access.",7.033898305084746,7.0,15.0,5.0,59,415.0,
+database\656.json,Westernunion.com,"s
+
+In this category you can get Westernunion.com accounts with online access .",22.94117647058824,25.0,25.0,20.0,17,390.0,
+database\657.json,Moneygram.com,"s
+
+In this category you can get Moneygram.com accounts with online access.",35.0,35.0,35.0,35.0,3,105.0,
+database\658.json,Apple.com,"s
+
+In this category you can get Apple.com accounts without online access.
+Example: Only Login and password",10.0,10.0,10.0,10.0,66,660.0,
+database\660.json,Americanexpress.com,"s
+
+Here we got Americanexpress.com online accounts// Example of product//
+Login:pass , payment info, address info// Good luck!",67.94117647058823,50.0,200.0,20.0,17,1155.0,
+database\662.json,Lenovo.com,"s
+
+Here we got lenovo.com online accounts// Example of product// Login:pass,
+payment info, address, orders info// Good luck",5.153846153846153,5.0,6.0,5.0,13,67.0,
+database\663.json,Citi.com,"s
+
+Here we got citi.com online accounts// example// login:pass, address info,
+payment info// Good luck",178.5714285714286,150.0,450.0,10.0,7,1250.0,
+database\669.json,Wayfair.com,"s
+
+Int this category you can buy wayfair.com accounts",5.0,6.0,6.0,3.0,6,30.0,
+database\670.json,Etsy.com,"s
+
+In this category you can buy brute accounts Etsy.com",2.0,2.0,2.0,2.0,11,22.0,
+database\671.json,BINS NO VBV,"s
+
+hi bro,here you can buy bins no vbv of all world",9.99,8.0,35.0,5.0,100,999.0,
+database\674.json,Textfree.us,"s
+
+In this category you can buy textfree.us accounts",4.0,4.0,4.0,4.0,7,28.0,
+database\676.json,Netflix.com,"s
+
+Here we got netflix.com online accounts // Example // Login:pass, plan info,
+payment info// Good luck",4.714285714285714,5.0,5.0,3.0,7,33.0,
+database\677.json,Walmart.com,"s
+
+Example of product//Login:pass, payment info,address info,order info//good
+luck",4.333333333333333,3.0,7.0,3.0,3,13.0,
+database\678.json,Robinhood.com (Self-Regiistered),"s
+
+Here we got Robinhood.com (Self-Regiistered) accounts//Example of product //
+Login:pass, Full AN/RN, Email access, Phone access, Full info, VCC// Good
+luck!",150.0,150.0,150.0,150.0,1,150.0,
+database\679.json,Citi.com,"s
+
+In this category you can get Citi.com accounts with online access. Example:
+Citibank log:pass Holder info",173.0769230769231,150.0,350.0,40.0,13,2250.0,
+database\681.json,Hilton.com,"s
+
+Here you can buy Hilton.com online accounts.",4.148148148148148,3.0,10.0,1.0,27,112.0,
+database\682.json,Email account with access,"s
+
+In this cathegory you can buy emails accounts",3.66,3.0,5.0,3.0,100,366.0,
+database\684.json,Bank checks,"s
+
+Here you can buy real bank checks from different banks.",37.631578947368425,30.0,100.0,25.0,19,715.0,
+database\686.json,Jetblue.com,"s
+
+Example of product//Login:pass, payment info,address info,points&miles//good
+luck",17.428571428571427,4.0,80.0,2.0,7,122.0,
+database\689.json,Merrickbank.com,"s
+
+Here you can purchase Merrickbank.com online accounts. For online access use
+mobile version only.",15.058823529411766,15.0,35.0,3.0,17,256.0,
+database\695.json,Zappos.com,"s
+
+In this category you can get Zappos.com accounts with online access.",9.0,9.0,10.0,8.0,2,18.0,
+database\696.json,Yahoo.com,"s
+
+In this category you can get Yahoo.com accounts with online access. Example:
+Only Login:Password",5.0,5.0,5.0,5.0,6,30.0,
+database\698.json,Xfinity.com,"s
+
+In this category you can get Xfinity.com with online access.",10.0,10.0,10.0,10.0,2,20.0,
+database\699.json,Wish.com,"s
+
+In this category you can get Wish.com accounts with online access.",5.0,5.0,5.0,5.0,1,5.0,
+database\701.json,Officedepot.com,"s
+
+Here you can buy Officedepot.com online accounts.",3.4615384615384617,3.0,7.0,1.0,13,45.0,
+database\702.json,Sephora.com,"s
+
+In this category you can get Sephora.com accounts with online access.",13.823529411764708,10.0,35.0,5.0,17,235.0,
+database\703.json,Westernunion.com,"s
+
+Example of product//Login;pass, payment info, address, transaction
+history//good luck",26.309523809523807,30.0,35.0,10.0,42,1105.0,
+database\706.json,Walmart.com,"s
+
+Here you can buy Walmart.com online accounts.",2.3,1.0,5.0,1.0,10,23.0,
+database\707.json,Apple.com,"s
+
+In this category you can get Apple.com accounts without online access.
+Example: Only Login and password",10.0,10.0,10.0,10.0,27,270.0,
+database\708.json,Netflix.com,"s
+
+Here you can buy Netflix.com online accounts.",6.8,7.0,10.0,3.0,10,68.0,
+database\709.json,Discover.com,"s
+
+Here we got Discover.com Online accounts// Example of product // Login:pass,
+Available credit, payments info, address info// Good luck!",84.66666666666667,75.0,220.0,25.0,30,2540.0,
+database\710.json,Wellsfargo.com (Self-Registerd),"s
+
+Here we got Self-Registerd Wellsfargo accounts with online access// Example of
+product // Login:pass, Full AN+RN number, Email access, Phone access, full
+info// Good luck!",80.0,80.0,80.0,80.0,2,160.0,
+database\715.json,Squareup.com,"s
+
+In this category, you can find Squareup.com accounts with online access.",10.0,10.0,10.0,10.0,4,40.0,
+database\717.json,Target.com,"s
+
+Here we got Terget.com online accounts",3.0,3.0,7.0,1.0,11,33.0,
+database\724.json,US BANKS AC/RN Holders Name,"s
+
+In this category you get bak accounts and routing numbers with or without
+holders name, the caegory field will show that",125.12903225806451,80.0,500.0,20.0,31,3879.0,
+database\727.json,Citizensbank.com,"s
+
+In this category you can purchase Citizensbank.com accounts.",11.666666666666664,10.0,15.0,10.0,3,35.0,
+database\735.json,Wwe.com,"s
+
+Here we got Wwe.com online accounts.",5.0,5.0,5.0,5.0,5,25.0,
+database\737.json,Hilton.com,"s
+
+Example of product//Login:pass:payment info, points, address info//good luck",62.69230769230769,7.0,490.0,3.0,13,815.0,
+database\743.json,Vonage.com,"s
+
+In this category, you can purchase accounts of Vonage.com. Accounts have
+online access.",6.0,6.0,7.0,5.0,2,12.0,
+database\744.json,Accorhotels.com,"s
+
+In this category, you can purchase accounts of Accorhotels.com. Accounts have
+online access.",2.3529411764705883,1.0,10.0,1.0,17,40.0,
+database\746.json,Cox connect,"s
+
+In this category, you can purchase accounts of Cox connect.",2.6666666666666665,2.0,10.0,2.0,12,32.0,
+database\747.json,Xfinity.com,"s
+
+In this category, you can purchase accounts of Xfinity.com. Accounts have
+online access.",3.0,3.0,3.0,3.0,6,18.0,
+database\748.json,Macys.com,"s
+
+Example of product//Login:Pass, payment info, order info,address info//good
+luck",5.2631578947368425,5.0,9.0,3.0,57,300.0,
+database\751.json,BIN'S NON VBV,"s
+
+If bin not non vbv, write to me, I will gladly replace In this category, you
+can purchase credit card bins that bypass payment protection 3-D Secure VBV.
+BIN is the first 6 digits of the credit card (with the help of this
+information you will understand what credit cards you need to work with 3-D
+Secure VBV) 3-D Secure VBV is a protocol that is used as an additional layer
+of security for online credit and debit cards, two-factor user authentication
+If you need a specific bank or country, write to me, I will add. There will be
+discounts for wholesale buyers. Ticket me!!!",5.15,5.0,20.0,5.0,100,515.0,
+database\754.json,USA Bank's AN+RN only,"s
+
+In this category, only accounts from banks AN and RN numbers are sold (without
+login/passw). This product is intended for those who know what to do with it.
+Please do not ask the seller why this is needed and what to do about it. We
+sell only the right product and believe me, we know this for sure. This
+product can be with or without balance, please read the description of the
+product carefully before buying. By purchasing from us you agree to this rule.
+Screenshots should be uploaded to the http://joxi.ru/ or
+https://app.prntscr.com/ru/ services, as uploading images in a ticket does not
+work correctly.",37.0,37.0,37.0,37.0,1,37.0,
+database\758.json,Fedex.com,"s
+
+You can buy Fedex.com account here.",3.6,3.0,5.0,3.0,20,72.0,
+database\759.json,Bestbuy.com,"s
+
+You can buy Bestbuy.com account here.",3.5,1.5,10.0,1.0,4,14.0,
+database\767.json,Gmail.com,"s
+
+In this category you can get Gmail accounts with online access.",5.0,5.0,5.0,5.0,51,255.0,
+database\768.json,My.echecks.com /checking account,"s
+
+In this category you can purchase My.echecks.com online accounts.Everything is
+available in the account. You can write your name, your preferred amount and
+send it to your email.",483.33333333333326,500.0,700.0,250.0,3,1450.0,
+database\769.json,Lowes.com,"s
+
+You can buy Lowes.com account here.",3.4,3.0,5.0,1.0,15,51.0,
+database\771.json,Choicehotels.com,"s
+
+You can buy Choicehotels.com account here.",2.4,2.0,5.0,2.0,10,24.0,
+database\772.json,Kohls.com,"s
+
+You can buy Kohls.com account here.",3.3571428571428568,3.0,5.0,1.0,14,47.0,
+database\773.json,Westernunion.com,"s
+
+In this category you can get Westernunion.com accounts with online access .",13.529411764705882,15.0,20.0,10.0,17,230.0,
+database\774.json,Sephora.com,"s
+
+In this category you can buy sephora.com accounts",5.666666666666668,5.0,7.0,5.0,3,17.0,
+database\778.json,Usaa.com,"s
+
+Here we got Usaa.com online accounts.",350.0,350.0,350.0,350.0,1,350.0,
+database\779.json,Fedex.com,"s
+
+In this category you can buy fedex.com accounts",13.7,14.0,20.0,5.0,10,137.0,
+database\780.json,Nationwide.com,"s
+
+In this category you can purchase Nationwide.com accounts with No Online
+access.",7.5,5.0,15.0,5.0,4,30.0,
+database\782.json,Fedex.com,"s
+
+Example of product//Login;pass, Account number, Address info//good luck//",15.0,15.0,15.0,15.0,22,330.0,
+database\791.json,Tesla.com,"s
+
+In this category you can buy tesla.com",4.0,4.0,4.0,4.0,6,24.0,
+database\792.json,Adidas.com,"s
+
+In this category you can get Adidas.com accounts with online access. Example:
+Login:pass address",4.842105263157895,3.0,32.0,2.0,19,92.0,
+database\793.json,Bestbuy.com,"s
+
+In this category you can get Bestbuy.com accounts with online access. Example:
+Login:pass address",24.310344827586214,25.0,40.0,10.0,29,705.0,
+database\797.json,Facebook.com,"s
+
+You can buy facebook.com/ account here.",10.0,10.0,10.0,10.0,4,40.0,
+database\799.json,Southwest.com,"s
+
+In this category you can get Southwest.com accounts with online access.
+Example: Login:pass, payment info,address info,points&miles",21.239436619718308,5.0,800.0,1.0,71,1508.0,
+database\800.json,Orbitz.com,"s
+
+In this category you can get Orbitz.com accounts with online access. Example:
+Login:pass, payment info,address info,Orbucks",10.0,10.0,10.0,10.0,2,20.0,
+database\801.json,Bestbuy.com,"s
+
+Example of product//Login;Pass, Address info, Payment Info,
+Rewards&Points//good luck//",17.5,17.5,25.0,10.0,4,70.0,
+database\806.json,Creditkarma.com,"s
+
+In this category you can get Creditkarma.com accounts with online access.
+Example Login:Password Holder Info (Without SSN)",10.0,10.0,10.0,10.0,63,630.0,
+database\814.json,Fedex.com,"s
+
+In this category you can get Fedex.com accounts with online access. Example.
+Log:pass",5.0,5.0,5.0,5.0,4,20.0,
+database\816.json,Samsclub.com,"s
+
+In this category you can buy samsclub.com accounts",6.0,6.0,6.0,6.0,1,6.0,
+database\817.json,TD.com (Self-Registered),"s
+
+Here we got Self-Registerd TD bank accounts with online access// Example of
+product // Login:pass, Full AN+RN number, Email access, Phone access, full
+info,Cookies// Good luck!",80.0,80.0,80.0,80.0,2,160.0,
+database\823.json,Twitter.com,"s
+
+You can buy Twitter.com/ account here.",10.0,10.0,10.0,10.0,1,10.0,
+database\825.json,Coinbase.com,"s
+
+In this category you can get Coinbase.com accounts without online access.
+Example ONLY LOGIN:PASSWORD",5.0,5.0,5.0,5.0,57,285.0,
+database\826.json,BIN'S NON VBV,"s
+
+In this category, you can purchase credit card bins that bypass payment
+protection 3-D Secure VBV. BIN is the first 6 digits of the credit card (with
+the help of this information you will understand what credit cards you need to
+work with 3-D Secure VBV) 3-D Secure VBV is a protocol that is used as an
+additional layer of security for online credit and debit cards, two-factor
+user authentication",6.25,5.0,15.0,1.0,60,375.0,
+database\827.json,BIN'S NON VBV,"s
+
+If bin not non vbv, write to me, I will gladly replace In this category, you
+can purchase credit card bins that bypass payment protection 3-D Secure VBV.
+BIN is the first 6 digits of the credit card (with the help of this
+information you will understand what credit cards you need to work with 3-D
+Secure VBV) 3-D Secure VBV is a protocol that is used as an additional layer
+of security for online credit and debit cards, two-factor user authentication
+If you need a specific bank or country, write to me, I will add. There will be
+discounts for wholesale buyers. Ticket me!!!",5.0,5.0,5.0,5.0,100,500.0,
+database\828.json,USA BANKS Login:Password only,"s
+
+In this category, you can find USA banks accounts without online access. After
+purchase, log into your account strictly according to the rules _ 1) Use a
+clean IP address 2) Login to accounts only from the PC version Good luck!!!",11.096774193548386,12.0,12.0,8.0,31,344.0,
+database\830.json,VCC,"s
+
+In this category we offer you virtual and gift cards for linking to your
+services. The cards are not sharpened for a specific service, it does not work
+in one, try in another. All cards are valid.",4.515789473684211,4.0,36.0,3.0,95,429.0,
+database\831.json,USA E-MAILS Gmail/Live/Yahoo,"s
+
+In this category you can find USA email accounts. After purchase, log into
+your account strictly according to the rules _ 1) Use a clean IP address 2)
+Login to accounts only from the PC version. Good luck!!!",3.0,3.0,3.0,3.0,19,57.0,
+database\834.json,Statements,"s
+
+In this category we offer you editable statements of different banks.",6.06,6.0,7.0,6.0,100,606.0,
+database\837.json,Email valid base,"s
+
+In this category, we offer you valid mail accounts in large quantities in the
+form of ready-made databases. The percentage of validity and country are
+always indicated in the product description. Product format:
+youremail.com@password",50.43103448275862,35.0,250.0,8.0,58,2925.0,
+database\839.json,BINS NON VBV,"s
+
+In this category, you can purchase credit card bins that bypass payment
+protection 3-D Secure VBV. BIN is the first 6 digits of the credit card (with
+the help of this information you will understand what credit cards you need to
+work with 3-D Secure VBV) 3-D Secure VBV is a protocol that is used as an
+additional layer of security for online credit and debit cards, two-factor
+user authentication",5.14,5.0,8.0,4.0,100,514.0,
+database\845.json,Hotels WORLD,"s
+
+In this category, you can purchase hotel accounts all over the world. Account
+login rules. 1) Clear browser history and cookies. 2) Enter the correct IP
+address. 3) Set cookies for this account. (if there's) 4) Log in to your
+account only from the PC version.",40.25,15.5,120.0,10.0,4,161.0,
+database\847.json,Paypal.com Self-Refistered,"s
+
+Here we got Paypal.com (Self-Refistered) accounts with online access//
+Example// login:pass//Gmail+Gvoice//Full info//Cookies",20.0,20.0,20.0,20.0,1,20.0,
+database\85.json,Bank Checks,"s
+
+in this category you can purchase real bank checks from different banks.",65.0,70.0,80.0,35.0,20,1300.0,
+database\850.json,Background Report lookup service,"s
+
+Send me Fullz before buying ,i'll search the person, you'll pay after data
+match , you'll receive PDF file, order will be ready within hour // Good luck",12.0,12.0,12.0,12.0,4,48.0,
+database\852.json,Worldremit.com,"s
+
+Example of Product//Login:Pass, Payment info, Address info, Transaction
+info//good luck//",30.625,30.0,35.0,30.0,8,245.0,
+database\861.json,VCC GIFT/PREPAID/VISA/MASTERCARD,"s
+
+In this category we offer you virtual and gift cards for linking to your
+services. The cards are not sharpened for a specific service, it does not work
+in one, try in another. All cards are valid.",4.51,5.0,5.0,4.0,100,451.0,
+database\864.json,Squareup.com,"s
+
+In this category, you can find Squareup.com accounts with online access. After
+purchase, log into your account strictly according to the rules _ 1) Use a
+clean IP address 2) Login to accounts only from the PC version. Good luck!!!",12.2,15.0,15.0,8.0,30,366.0,
+database\866.json,Payment system USA+WORLD,"s
+
+In this category you can purchase Payment Sistem accounts, USA and other
+countries ... Moneygram.com Westernunion.com Worldremit.com Paypal.com and
+other Account login rules. 1) Clear browser history and cookies. 2) Enter the
+correct IP address. 3) Set cookies for this account. (if there's) 4) Log in to
+your account only from the PC version.",10.0,10.0,10.0,10.0,2,20.0,
+database\869.json,Bank Checks,"s
+
+Here you will find various PDF bank checks. All checks are unique and
+guaranteed EXAMPLE: https://prnt.sc/26l571t / https://prnt.sc/26l586p",133.33333333333334,115.0,250.0,40.0,6,800.0,
+database\873.json,Marriott.com,"s
+
+In this category you can purchase the accounts Marriott.com. Accounts have
+online access. You have 15 minutes to check your account from the date of
+purchase.",3.1071428571428568,1.5,12.0,1.0,28,87.0,
+database\878.json,Netflix.com,"s
+
+You can buy Netflix.com account here.",5.0,5.0,5.0,5.0,2,10.0,
+database\880.json,Delta.com,"s
+
+In this category you can buy Delta.com accounts",4.947368421052632,5.0,16.0,1.0,19,94.0,
+database\887.json,Bank statements,"s
+
+In this category, you can buy US bank statements. When buying this product,
+you should know its further purpose. Typically, verification services request
+extracts for additional verification. In most cases, you will have to change
+the data to your own using programs like Photoshop. Good luck!!!",10.0,10.0,10.0,10.0,32,320.0,
+database\888.json,Lufthansa.com,"s
+
+In this category you can purchase the accounts Lufthansa.com. Accounts have
+online access. You have 15 minutes to check your account from the date of
+purchase.",5.0,5.0,5.0,5.0,70,350.0,
+database\889.json,Marriott.com,"s
+
+In this category you can purchase the accounts Marriott.com. Accounts have
+online access. You have 15 minutes to check your account from the date of
+purchase.",12.357142857142858,5.0,211.0,5.0,28,346.0,
+database\890.json,Hilton.com,"s
+
+In this category you can purchase the accounts Hilton.com. Accounts have
+online access. You have 15 minutes to check your account from the date of
+purchase.",15.8,5.0,368.0,5.0,95,1501.0,
+database\893.json,Booking.com,"s
+
+In this category you can purchase the accounts Booking.com. Accounts have
+online access. You have 15 minutes to check your account from the date of
+purchase.",5.0724637681159415,5.0,10.0,5.0,69,350.0,
+database\894.json,Credit card,"s
+
+In this category, you can buy credit cards from different countries. The
+category uses an automatic checker and if the card is not valid, you will send
+an automatic refund. If the card does not go to any service, there will be no
+refund. Preview: 4489153089753734|Richard
+Murphy|08/2022|044|MD|adamstown|21710|5399 Agro Dr|phone:
+3013701206|rmurphy@rpmframing.com|",12.0,12.0,12.0,12.0,10,120.0,
+database\895.json,Credit card,"s
+
+in this category you can buy credit cards of all world bro please,read the
+rules before you buy",13.246376811594205,17.0,18.0,8.0,69,914.0,
+database\896.json,Credit Card,"s
+
+In this category you can buy credit cards from different countries. The
+category uses an automatic checker, please, be careful to read Refund terms
+before purchase.",10.0,10.0,10.0,10.0,3,30.0,
+database\897.json,BIN'S for Online Services,"s
+
+In this category, we offer you BIN'S we tested on certain online services with
+effective success.",5.372549019607844,5.0,9.0,5.0,51,274.0,
+database\906.json,Delta.com,"s
+
+Here we got delta.com online accounts// Example // Login:pass// address info//
+Available miles// Good luck",3.5555555555555562,4.0,5.0,1.0,9,32.0,
+database\910.json,Delta.com,"s
+
+In this category you can get Delta.com accounts with online access. Example:
+Login:pass Holder Info",1.8571428571428568,2.0,2.0,1.0,7,13.0,
+database\913.json,Fidelity.com,"s
+
+In this category you can get Fidelity.com accounts with online access.
+Example: Fidelity log:pass Full account number or left 4 digits Full Routing
+number Holder info",20.0,20.0,20.0,20.0,1,20.0,
+database\914.json,Psd Template DOCUMENTS For Photoshop,"s
+
+Document templates for drawing in photoshop. .PSD",41.25,40.0,50.0,40.0,12,495.0,
+database\915.json,Bin`s no VBV & other,"s
+
+In this category, you can purchase credit card bins that bypass payment
+protection 3-D Secure VBV. BIN is the first 6 digits of the credit card (with
+the help of this information you will understand what credit cards you need to
+work with 3-D Secure VBV) 3-D Secure VBV is a protocol that is used as an
+additional layer of security for online credit and debit cards, two-factor
+user authentication",6.081632653061225,6.0,7.0,5.0,98,596.0,
+database\923.json,6pm.com,"s
+
+In this category you can get 6pm.com accounts with online access.",5.0,5.0,5.0,5.0,2,10.0,
+database\931.json,Costco.com,"s
+
+In this category you can get Costco.com accounts with online access. Example:
+Login:pass Payment Info Holder Info",7.0,7.0,7.0,7.0,18,126.0,
+database\932.json,Squareup.com,"s
+
+In this category you can get Squareup.com accounts with online access.",15.0,15.0,15.0,15.0,12,180.0,
+database\935.json,US BANK ACCOUNTS,"s
+
+You get varities of diff banks user name and password. if it other details
+check listing",215.0,65.0,1000.0,30.0,6,1290.0,
+database\938.json,Choicehotels.com,"s
+
+You can buy Choicehotels.com accounts here.",11.222222222222221,10.0,30.0,3.0,9,101.0,
+database\939.json,Macys.com,"s
+
+In this category you can buy Macys.com accounts",10.7,5.5,50.0,3.0,10,107.0,
+database\942.json,Costco.com,"s
+
+Example of product//Login:Pass//Payment info//Address info//Holder Info//good
+luck//",6.866666666666666,7.0,7.0,5.0,15,103.0,
+database\950.json,Capitalone.com NO ONLINE ACCESS,"s
+
+Here you can find Capitalone.com accounts - NO ONLINE ACCESS This means that
+the accounts are working, but they require 2fa verification.",8.0,8.0,8.0,8.0,18,144.0,
+database\954.json,Discover.com NO ONLINE ACCESS,"s
+
+Here you can find Discover.com accounts - NO ONLINE ACCESS This means that
+the accounts are working, but they require 2fa verification.",5.0,5.0,5.0,5.0,17,85.0,
+database\960.json,Southwest.com,"s
+
+In this category you can purchase the accounts Southwest.com. Accounts have
+online access. You have 15 minutes to check your account from the date of
+purchase. Account login rules. 1) Clear browser history and cookies. 2) Enter
+the correct IP address. 3) Set cookies for this account. (if there's) 4) Log
+in to your account only from the PC version.",17.11111111111111,6.0,74.0,3.0,9,154.0,
+database\961.json,Hilton.com,"s
+
+In this category you can purchase the accounts Hilton.com. Accounts have
+online access. You have 15 minutes to check your account from the date of
+purchase. Account login rules. 1) Clear browser history and cookies. 2) Enter
+the correct IP address. 3) Set cookies for this account. (if there's) 4) Log
+in to your account only from the PC version.",29.75,14.0,180.0,2.0,16,476.0,
+database\962.json,Marriott.com,"s
+
+In this category you can purchase the accounts Marriott.com. Accounts have
+online access. You have 15 minutes to check your account from the date of
+purchase. Account login rules. 1) Clear browser history and cookies. 2) Enter
+the correct IP address. 3) Set cookies for this account. (if there's) 4) Log
+in to your account only from the PC version.",4.5,4.0,7.0,3.0,4,18.0,
+database\963.json,Bank Statements AUSTRALIA,"s
+
+In this category you can buy Australian bank statements. When buying this
+product, you should know its further purpose. Typically, verification services
+request extracts for additional verification. In most cases, you will have to
+change the data to your own using programs like Photoshop. We wish you a
+pleasant shopping!",5.0,5.0,5.0,5.0,14,70.0,
+database\972.json,Betting & Casino Worldwide,"s
+
+You can buy betting/casino accounts here (worldwide).",5.625,2.0,60.0,1.0,16,90.0,
+database\974.json,Americanexpress.com,"s
+
+In this category you can find bank accounts of Americanexpress.com. All
+accounts have online access + Cookies. Account login rules. 1) Clear browser
+history and cookies. 2) Enter the correct IP address. 3) Set cookies for this
+account. (if there's) 4) Log in to your account only from the PC version.",88.5,85.0,180.0,25.0,10,885.0,
+database\979.json,Real Documents Worldwide,"s
+
+In this category you can buy real documents (Worldwide).",42.5,42.5,60.0,25.0,2,85.0,
+database\980.json,Successfully Cashout investment accounts!,"s
+
+Hello dear customers! This is described as successfully withdrawing its funds
+from investment accounts/logs (eTrade and others). 2-3 days you can get all
+your shares. Just 2-3 days you can even transfer like $500k in your drop
+account. Easy and fast!",35.0,35.0,35.0,35.0,9,315.0,
+database\982.json,Aircanada.com,"s
+
+In this category you can get aircanada.com accounts with online access.",3.0,3.0,3.0,3.0,1,3.0,
+database\983.json,Homedepot.com,"s
+
+In this category you can get Homedepot.com accounts with online access.",5.0,5.0,5.0,5.0,6,30.0,
+database\985.json,IHG.com,"s
+
+In this category you can get IHG.com accounts with online access.",12.25,4.5,300.0,1.0,40,490.0,
+database\990.json,Booking.com,"s
+
+In this category you can purchase the accounts Booking.com. Accounts have
+online access. You have 15 minutes to check your account from the date of
+purchase. Account login rules. 1) Clear browser history and cookies. 2) Enter
+the correct IP address. 3) Set cookies for this account. (if there's) 4) Log
+in to your account only from the PC version.",5.0,5.0,5.0,5.0,4,20.0,
+database\991.json,Hotels.com,"s
+
+In this category, you can find Hotels.com accounts with online access. Account
+login rules. 1) Clear browser history and cookies. 2) Enter the correct IP
+address. 3) Set cookies for this account. (if there's) 4) Log in to your
+account only from the PC version.",11.25,10.0,15.0,10.0,4,45.0,
+database\993.json,Ebay.com,"s
+
+In this category you can get Ebay.com accounts with online access.",9.465116279069766,7.0,40.0,3.0,43,407.0,
+database\997.json,Southwest.com,"s
+
+Example of product//Login:pass//Address info//Payment info//Points&miles//Good
+luck//",13.93939393939394,5.0,160.0,3.0,33,460.0,

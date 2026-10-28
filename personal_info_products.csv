@@ -1,0 +1,821 @@
+inputfile,product,description,mean_price,median_price,max_price,min_price,count_prices,sum_prices,category
+database\1002.json,Form W-2+1040,"s
+
+In this category you can purchase tax forms W-2 , 1040, and others. Carefully
+read the description of the goods before buying. Form in PDF format. All
+documents are real.",20.0,20.0,20.0,20.0,2,40.0,form
+database\1014.json,Billing info without cvv,"s
+
+In this category you can buy USA billing info! Example: billing_name
+billing_phone billing_address cc_number exp_date",5.0,5.0,5.0,5.0,1,5.0,info
+database\103.json,FULL INFO USA SSN / DOB / DL / CS / CR,"s
+
+In this category you can purchase real information about a person living in
+the USA. FULL NAME / ADRESS / SSN / DOB /DL / CREDIT SCORE /CREDIT REPORT.",26.55,25.0,35.0,15.0,100,2655.0,"info, dob, ssn, dl"
+database\1046.json,USA fullz SSN+DOB 1998-2004 DOB,"s
+
+In this category you can purchase real information about a person living in
+the USA. SSN / DOB / ADRESS",3.0,3.0,3.0,3.0,99,297.0,"fullz, dob, ssn"
+database\1070.json,Full Info ssn+dob+dl+bank info+credit report+cs,"s
+
+When buying, a link is given to download a file with full information
+Example:PERSON NAME:PERSON SSN :PERSON DOB : DL: PERSON ADRESS: PERSON SCORE:
+Credit Report :Other Bank Info",15.0,15.0,15.0,15.0,13,195.0,"info, dob, ssn, dl"
+database\1075.json,DL Selfie + SSN,"s
+
+In this category you can buy real photos and scans of DL / DL Selfie + SSN
+Number . All documents are real! EXAMPLE / https://drive.google.com/drive/fold
+ers/1u6TkhMvxICrAAsQJ3FvA2-r5k0-IIWkt?usp=sharing",20.0,20.0,20.0,20.0,58,1160.0,"ssn, dl, selfie"
+database\1078.json,DL USA Front side only.Real document,"s
+
+In this category you can buy real photos and scans of US driver's rights. All
+documents are real!",10.0,10.0,10.0,10.0,33,330.0,dl
+database\1096.json,PASSPORT/ID/SSN/DL USA/EU/WORLD,"s
+
+In this category you can purchase a driver's license, passport and other
+documents for real people from various countries.",13.846153846153848,14.0,14.0,12.0,13,180.0,"ssn, dl, passport"
+database\1102.json,FULL INFO SSN+DOB+DL+Job,"s
+
+Name:ssn:dob:dl:dl state: address: state:zip:number:employed:work info",7.0,7.0,7.0,7.0,99,693.0,"info, dob, ssn, dl, job"
+database\1109.json,PASSPORT/ID/SSN/DL AND OTHER USA/EU/WORLD,"s
+
+Hello dear customers from QuestionMark! In this category you can purchase a
+driver's license, passport and other documents for real people from various
+countries. If you didn't find a product in a category, write to me and I will
+help you.",15.0,15.0,15.0,15.0,1,15.0,"ssn, dl, passport"
+database\1120.json,AU info,"s
+
+In this category you can purchase real information about a person living in
+the AU. firstname,lastname,DOB,mobile_phone,passport number",1.0,1.0,1.0,1.0,100,100.0,info
+database\1137.json,Full info USA SSN+DOB+JOB,"s
+
+In this category you can purchase real information about a person living in
+the USA. SSN / DOB / ADRESS Sincerely, THE BEST BANK",1.0,1.0,1.0,1.0,17,17.0,"info, dob, ssn, job"
+database\1138.json,Full info USA SSN+DOB+BG,"s
+
+In this category you can purchase real information about a person living in
+the USA. SSN / DOB / ADRESS / BACKGROUND SEARCH Sincerely, THE BEST BANK",2.4210526315789482,3.0,3.0,1.0,38,92.0,"info, dob, ssn"
+database\1143.json,Full info USA SSN+DOB+CS+BG,"s
+
+In this category you can purchase real information about a person living in
+the USA. SSN / DOB / ADRESS / CS / BACKGROUND SEARCH Sincerely, THE BEST BANK",4.828947368421051,5.0,12.0,2.0,76,367.0,"info, dob, ssn"
+database\1199.json,Full info SSN&DOB,"s
+
+HI bro,In this category you can purchase Full Info (SSN+DOB). Example:
+231xxxxxx|LUNETTE KING|4601 HIGH ST APT
+A9|NJ|PENNSAUKEN|08110|3372127471|1977-01-01|",1.0,1.0,1.0,1.0,100,100.0,"info, dob, ssn"
+database\1203.json,Full info USA SSN+DOB,"s
+
+In this category you can purchase real information about a person living in
+the USA. SSN / DOB / ADRESS. Sincerely, THE BEST BANK",1.0210526315789474,1.0,3.0,1.0,95,97.0,"info, dob, ssn"
+database\1210.json,Form W-2 & Other Tax documents,"s
+
+In this category you can purchase Tax forms W-2 , other Tax forms and
+documents . Carefully read the description of the goods before buying. Form in
+PDF format. All documents are real.",10.0,10.0,10.0,10.0,7,70.0,"tax, form"
+database\1286.json,Drawing US DL (SCAN),"s
+
+In this category you can order drawing US driver license scan (Front+Back).
+What do you need to provide. FIRST NAME, MIDDLE NAME, LAST NAME , Date of
+birth, Driver's license number (Optional), Expiration date (Optional), ISSUE
+DATE (Optional), Revision date (Optional), ROUTING NUMBER (Optional),
+Endorsement codes (Optional), Restriction codes (Optional),
+Street,City,State,ZIP,Donor Or you can write me your specific order. You will
+have to wait 2-5 minutes if I am online. If not online 1-3 Hours. Good Luck",415.0,25.0,1800.0,25.0,5,2075.0,dl
+database\129.json,Full Info+CS+CR+BG,"s
+
+in this category you can purchase complete information + credit report +
+credit score + background report also possible additional information DL and
+more ... additional information will be noted +",22.84615384615385,20.0,60.0,18.0,52,1188.0,info
+database\1305.json,FULL INFO SSN+DOB,"s
+
+In this category you can get Full Info . Example: NAME, ADDRESS, SSN, DOB,",1.0,1.0,1.0,1.0,97,97.0,"info, dob, ssn"
+database\1310.json,FULL INFO SSN/DOB/DL,"s
+
+In this category you can purchase real information about a person living in
+the USA. FORMAT: FIRST_NAME / LAST_NAME / HOME_PHONE / EMAIL / ADDRESS / CITY
+/ STATE1 / ZIP / DATE_OF_BIRTH / SSN / DRIVERS_LICENSE",5.6,5.0,10.0,5.0,100,560.0,"info, dob, ssn, dl"
+database\1311.json,FULL INFO SSN/DOB/CS/CR,"s
+
+In this category you can purchase real information about a person living in
+the USA. FULL NAME / ADRESS / SSN / DOB / CREDIT SCORE /CREDIT REPORT.",5.466666666666668,5.0,10.0,5.0,15,82.0,"info, dob, ssn"
+database\1312.json,FULL INFO SSN/DOB/DL/BANK An/Rn/Occupation/Employer,"s
+
+In this category you can purchase real information about a person living in
+the USA. FULL NAME / ADRESS / SSN / DOB / DL / BANK An/Rn,Occupation
+info,Employer info",10.0,10.0,10.0,10.0,25,250.0,"info, dob, ssn, dl, employ, occupation"
+database\1316.json,DL USA + SSN FRONT / BACK,"s
+
+In this category you can buy real photographs and scans of a US driver's
+license + ssn number.DL have front,or front & back sides. All documents are
+real!",20.0,20.0,20.0,20.0,3,60.0,"ssn, dl"
+database\1317.json,DL Selfie + SSN FRONT / BACK,"s
+
+In this category you can buy real photos and scans of DL + Selfie + SSN Number
+. All documents are real!",600.0,600.0,600.0,600.0,1,600.0,"ssn, dl, selfie"
+database\1323.json,FULL INFO  SSN/DOB/DL/BG/CS/CR,"s
+
+In this category you can purchase real information about a person living in
+the USA.FULL NAME / ADRESS / SSN / DOB / DL / BG - CREDIT SCORE /CREDIT
+REPORT. Example: https://drive.google.com/drive/folders/1q5uCW3E69R_y6HvK6_Te4
+OlkTmKdA7o1?usp=sharing",15.0,15.0,15.0,15.0,6,90.0,"info, dob, ssn, dl"
+database\1327.json,DL+ SSN card+Employment,"s
+
+In this category you can buy real photos and scans of DL+ SSN card . All
+documents are real!",12.51,12.0,25.0,6.0,100,1251.0,"ssn, dl, employ"
+database\1333.json,"FULL INFO Name/Addres SSN/DOB/DL num (exp)/Nerdwallet account/Credit
+score/Employers info","s
+
+Example: Name:Addres:SSN: DOB:DL num (exp): Nerdwallet account:Credit
+score:Employers info",15.0,15.0,15.0,15.0,34,510.0,"info, dob, ssn, dl, employ"
+database\1335.json,Full Info SSN+DOB+DL + BG + CR + CS,"s
+
+In this category you can purchase complete information (full name,address,
+zip, state, gender, dob, ssn,dl) + background report (pdf file) + credit
+report (pdf file) + credit score.",7.0,7.0,7.0,7.0,1,7.0,"info, dob, ssn, dl"
+database\1338.json,FULL INFO SSN/DOB/DL - ISS / EXP,"s
+
+In this category you can purchase real information about a person living in
+the USA. FORMAT: FIRST_NAME / LAST_NAME / ADDRESS / CITY / STATE1 / ZIP /
+DATE_OF_BIRTH / SSN / DRIVERS_LICENSE + ISS DATE / EXP DATE",8.959183673469388,8.0,10.0,8.0,98,878.0,"info, dob, ssn, dl"
+database\1368.json,FULL INFO SSN/DOB,"s
+
+In this category, you can purchase real information about a person living in
+the United States. All data is real and verified",1.0,1.0,1.0,1.0,100,100.0,"info, dob, ssn"
+database\137.json,Business Full Info,"s
+
+This category is a well updated and verified with mainstream verification
+Bases Replacement / refund is possible: IF address of the info and ssn IS NOT
+a match to the Company Ein Business Name : SOSOLI FARM EIN : 460250285
+Business Address : 2397 Highway 1 Brocket, ND, 58321-9556 United States (701)
+336-2704 Principle/Owner : Andrew Wayne 2397 Highway 1 Brocket, ND, 58321-9556
+United States SSN : 234-34-3343 DOB 04/03/1923 Revenu : $5,000,000 Employeers
+: 1000",184.28571428571428,30.0,1000.0,30.0,7,1290.0,info
+database\1379.json,DL / PASSPORT AUSTRALIA,"s
+
+In this category you can buy Australian real photos and scans of DL / PASSPORT
++ Selfie . All documents are real!",20.454545454545453,20.0,25.0,20.0,22,450.0,"dl, passport"
+database\1383.json,Full info USA SSN&DOB,"s
+
+Here we got USA Fullz SSN+DOB// Example// ROBERT:WILSON:125 1-2 CALYER
+ST:BROOKLYN:NY:11222-2509:069-64-8335:11/5/1978",1.0,1.0,1.0,1.0,100,100.0,"info, dob, ssn"
+database\1390.json,DL / ID CARD / PASSPORT / UTILITY BILL & OTHER WORLD,"s
+
+In this category, you can purchase different documents for different countries
+of the world. All documents are real.",14.717647058823529,15.0,20.0,7.0,85,1251.0,"dl, passport"
+database\1403.json,"FULL INFO NAME:SSN:DOB:ADRESS:DLnum (exp):Credit Score:Empoyers
+info:Nerdwallet account","s
+
+Example: NAME:SSN:DOB:ADRESS:DL num (exp):Credit Score:Empoyers
+info:Nerdwallet account",15.0,15.0,15.0,15.0,25,375.0,"info, dob, ssn, dl"
+database\1431.json,Tax forms & Tax Docs,"s
+
+In this category you can buy Tax forms & Tax Docs",5.0,5.0,5.0,5.0,1,5.0,"tax, form"
+database\1455.json,USA PASSPORT,"s
+
+Template for drawing documents. A document for rendering communal services.
+Included are fonts, PSD template USA passport Manual for filling out the mrz
+code PSD document format",60.0,60.0,60.0,60.0,11,660.0,passport
+database\1471.json,FULL INFO SSN/DOB/DL/An/Rn,"s
+
+In this category you can purchase real information about a person living in
+the USA. FULL NAME / ADRESS / SSN / DOB / DL / An/Rn",5.0,5.0,5.0,5.0,37,185.0,"info, dob, ssn, dl"
+database\1472.json,Full info USASSN+DOB+MMN,"s
+
+Here you can buy Full info USASSN+DOB+MMN accounts with 2-factor
+verification cannot be replaced time to check the account is 15 minutes, after
+the stated time the material cannot be replaced. If you had problem,open
+refund ticket attach a screenshot with a problem and a screenshot with a
+whoer.net with the system time of the machine",4.0,5.0,5.0,2.0,21,84.0,"info, dob, ssn"
+database\1473.json,DL Selfie + SSN FRONT / BACK,"s
+
+In this category you can buy real photos and scans of DL + Selfie + SSN Number
+. All documents are real!",20.928571428571427,20.0,25.0,18.0,14,293.0,"ssn, dl, selfie"
+database\1492.json,US DL Selfie + SSN FRONT / BACK,"s
+
+In this category you can buy photos and scans of US DL FRONT / BACK / DL
+Selfie + SSN Number .",24.0,24.0,24.0,24.0,100,2400.0,"ssn, dl, selfie"
+database\1508.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","s
+
+In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
+,bank name and other. Carefully read the description of the goods before
+buying. Form in PDF format. All documents are real.",12.666666666666664,13.0,16.0,10.0,15,190.0,"info, ssn, form"
+database\1523.json,DL / ID / PASSPORT / SIN CANADA,"s
+
+In this category you can buy Canadian real photos and scans of DL / ID /
+PASSPORT & SIN CARDS . All documents are real!",11.89655172413793,10.0,15.0,10.0,29,345.0,"dl, passport"
+database\1545.json,FULL INFO SSN/DOB/DL,"s
+
+Hi Here you can find Full Info of USA Citizens with driver license : FORMAT:
+FULL NAME / ADDRESS / CITY / STATE1 / ZIP /SSN /DOB/ DRIVERS_LICENSE",7.0,7.0,7.0,7.0,51,357.0,"info, dob, ssn, dl"
+database\1546.json,DOCUMENTS - SELFIES/IDS/DRIVER LICENSES/...,"s
+
+HI Here You can find All type of documents",20.0,20.0,20.0,20.0,6,120.0,"dl, selfie"
+database\155.json,"Full InfoSSN,DOB+DL+Bank info+Employer info","s
+
+this category provides real information on resident US citizens Full Info
++DL(number/state)+Bank info+Employer info example: YOLANDA GARTLEY 12/18/1972
+7331 SOUTH LUELLA Chicago IL 60649 (773) 458-7266 (773) 458-7266 (773)
+296-3813 YOLANDAGARTLEY@YAHOO.com SSN 327649999 DL 7777-8888-999G IL false
+JPMORGAN CHASE BANK NA JPMORGAN CHASE BANK NA 9000 HAGGERTY- MI 1-8205
+BELLEVILLE MI 48111 (800) 677-7477 Checking 786589333 71000013 3 0 Direct
+Deposit Bi-Weekly ILLINOIS MASONIC (773) 296-3813",5.59,6.0,6.0,5.0,100,559.0,"info, dob, ssn, dl, employ"
+database\1577.json,"CERTIFICATES death , birth , title","s
+
+In this category you can find different certificates. For example: Certificate
+of title, Certificate of birth, Certificate of death ... All documents are
+scanned and they are all real.",87.5,100.0,100.0,50.0,12,1050.0,dob
+database\1585.json,DL / ID / PASSPORT SWEDEN,"s
+
+In this category you can buy SWEDEN real photos and scans of DL / ID /
+PASSPORT . All documents are real!",10.0,10.0,10.0,10.0,23,230.0,"dl, passport"
+database\1586.json,DL / ID / PASSPORT BRAZILIA,"s
+
+In this category you can buy BR. real photos and scans of DL / ID / PASSPORT .
+All documents are real!",15.548387096774194,12.0,30.0,12.0,31,482.0,"dl, passport"
+database\1587.json,DL / ID / PASSPORT UK / GBR,"s
+
+In this category you can buy UK/GBR real photos and scans of DL / ID /
+PASSPORT . All documents are real!",11.285714285714285,10.0,18.0,10.0,63,711.0,"dl, passport"
+database\1588.json,DL / ID / PASSPORT FRANCE,"s
+
+In this category you can buy FRANCE real photos and scans of DL / ID /
+PASSPORT . All documents are real!",15.65,15.0,25.0,8.0,20,313.0,"dl, passport"
+database\1591.json,Drawing United Kingdom DL/Passport,"s
+
+In this category you can order drawing United Kingdom driver license and
+passport scans (Front+Back). What do you need to provide. FIRST NAME, MIDDLE
+NAME, LAST NAME , Date of birth, Driver's license number (Optional),
+Expiration date (Optional), ISSUE DATE (Optional), Revision date (Optional),
+ROUTING NUMBER (Optional), Endorsement codes (Optional), Restriction codes
+(Optional), Street,City,State,ZIP,Donor Or you can write me your specific
+order. You will have to wait 2-5 minutes if I am online. If not online 1-3
+Hours. Good Luck",25.0,25.0,25.0,25.0,33,825.0,"dl, passport"
+database\1592.json,Drawing Canada DL/ID Card/Passport (SCAN),"s
+
+In this category you can order drawing Canadian driver license,ID Card,
+Passport scans (Front+Back). What do you need to provide. FIRST NAME, MIDDLE
+NAME, LAST NAME , Date of birth, Driver's license number (Optional),
+Expiration date (Optional), ISSUE DATE (Optional), Revision date (Optional),
+ROUTING NUMBER (Optional), Endorsement codes (Optional), Restriction codes
+(Optional), Street,City,State,ZIP,Donor Or you can write me your specific
+order. You will have to wait 2-5 minutes if I am online. If not online 1-3
+Hours. Good Luck",25.0,25.0,25.0,25.0,33,825.0,"dl, passport"
+database\1593.json,Drawing Australia DL / PASSPORT (SCAN),"s
+
+In this category you can order drawing Australia DL / PASSPORT scans
+(Front+Back). What do you need to provide. FIRST NAME, MIDDLE NAME, LAST NAME
+, Date of birth, Driver's license number (Optional), Expiration date
+(Optional), ISSUE DATE (Optional), Revision date (Optional), ROUTING NUMBER
+(Optional), Endorsement codes (Optional), Restriction codes (Optional),
+Street,City,State,ZIP,Donor Or you can write me your specific order. You will
+have to wait 2-5 minutes if I am online. If not online 1-3 Hours. Good Luck",25.0,25.0,25.0,25.0,33,825.0,"dl, passport"
+database\1594.json,Drawing Spain DL / ID Card (SCAN),"s
+
+In this category you can order drawing Spain driver license, ID Card scan
+(Front+Back). What do you need to provide. FIRST NAME, MIDDLE NAME, LAST NAME
+, Date of birth, Driver's license number (Optional), Expiration date
+(Optional), ISSUE DATE (Optional), Revision date (Optional), ROUTING NUMBER
+(Optional), Endorsement codes (Optional), Restriction codes (Optional),
+Street,City,State,ZIP,Donor Or you can write me your specific order. You will
+have to wait 2-5 minutes if I am online. If not online 1-3 Hours. Good Luck",25.0,25.0,25.0,25.0,33,825.0,dl
+database\1601.json,DL/ID+SELFIE+SSN front/back State ILLINOIS,"s
+
+In this category you can buy real photos and scans of DL + Selfie + SSN Number
+for the state of Illinois. All documents are real!",6.0,6.0,6.0,6.0,2,12.0,"ssn, dl, selfie"
+database\180.json,FULL INFO SSN+DOB,"s
+
+In this category you can purchase Full Info (SSN+DOB).",1.0,1.0,1.0,1.0,92,92.0,"info, dob, ssn"
+database\181.json,FULL INFO SSN+DOB+DL,"s
+
+In this category you can purchase Full Info (SSN+DOB+DL).",5.0,5.0,5.0,5.0,12,60.0,"info, dob, ssn, dl"
+database\19.json,DL USA Front side only.Real document,"s
+
+In this category you can buy real photos and scans of US driver's rights. All
+documents are real!",10.0,10.0,10.0,10.0,100,1000.0,dl
+database\191.json,Full info (USA) DOB SSN,"s
+
+Here you can buy US full info",2.894736842105264,1.0,60.0,1.0,76,220.0,"info, dob, ssn"
+database\21.json,Full info USA SSN&DOB,"s
+
+In this category you can purchase real information about a person living in
+the USA. SSN / DOB / FULL NAME / ADRESS /",1.0,1.0,1.0,1.0,100,100.0,"info, dob, ssn"
+database\238.json,Full info USA,"s
+
+Hello everyone! This category contains Full Info USA (Name, Address, DOB,
+SSN). Example: 42*****72|georgia arrington|3831 marie cook
+drive|mongomery|al|36109|3342****75|19**-**-15|@mail",1.0,1.0,1.0,1.0,100,100.0,info
+database\239.json,Full info USA SSN+DOB+DL,"s
+
+Hello everyone! This category contains USA Full Info + DL (Name, Address, DOB,
+SSN, DL) Example: sh****e *****|USA|MDY|*|2*|19**| 6** K****gton Drive
+|ga****a|OH|4****0| (6***) 353-****|@mail|2**-80-****| r*****03| OH",5.0,5.0,5.0,5.0,54,270.0,"info, dob, ssn, dl"
+database\240.json,"Full info USA SSN,DOB,DL,Employer","s
+
+Hello everyone! This category contains USA Full Info + DL + Employer (Name,
+Address, DOB, SSN, DL, Employer) Example:
+****|do****u|2**-90-8***|MDY|*|1*|19**|1**0 lons**** pl **** |columbus
+|oh|43***|USA|DL/DL-state-tb2*****/oh|61****3**5|employed|n**** health care",6.0,6.0,6.0,6.0,62,372.0,"info, dob, ssn, dl, employ"
+database\241.json,"Full info USA SSN,DOB,MMN","s
+
+Hello everyone! This category contains USA Full Info + MMN (Name, Address,
+DOB, SSN, MMN, ZIP, Mail, Phone) Example: ***** *****|DOB : */2*/19**|SSN :
+326******|MAIL : @mail|PHONE : 2*******|ADD : 1*** tr**** ST|CITY :
+|la*****|STATE : |**|ZIPCODE : 7****|MMN : ****",7.0,7.0,7.0,7.0,8,56.0,"info, dob, ssn"
+database\242.json,"Full info USA SSN,DOB,CR","s
+
+Hello everyone! This category contains Full Info USA + Credit Report (Name,
+Address, DOB, SSN). Example: **** ****|SSN 1**-54-****|DOB **-1*-19**|Address
+10*** ** 1**** st|City:Miami|state: FL *****",20.0,20.0,20.0,20.0,4,80.0,"info, dob, ssn"
+database\243.json,SSN & DOB lookup service,"s
+
+Hello everyone! This is searching service of SSN/DOB USA people. You should
+send me information about human: 1\. First and Last Name 2\. Address (include
+Zipcode, City and State) 3\. DOB (if you have it, if no it's ok) Rules:
+-Processing of your application can take up to 24 hours no more (but I always
+try to do everything as early as possible) -Refund or replacement can be if I
+couldn't find person who you need There is a good discount for bulk orders.",103.375,93.0,300.0,33.0,16,1654.0,"dob, ssn"
+database\244.json,DL lookup service,"s
+
+Hello everyone! We search ALL STATES! Time for search can take up to 48 hours
+no more (but I always try to do everything as early as possible). What info i
+need to start search: (without this info we don't start search) 1\. First name
+/ Last name 2\. Address 3\. DOB 4.SSN Example: Question Mark 5879 SAUNDERS ST
+HOUSTON:TX 9/19/1977 123456789 What info we will send for you, example: DL
+1234567890 TX There is a good discount for bulk orders.",80.12820512820512,90.0,150.0,35.0,39,3125.0,dl
+database\273.json,FULL INFO SSN+DOB+DL,"s
+
+In this category you can purchase real information about a person living in
+the USA. FULL NAME / ADRESS / SSN / DOB / DL number.
+Firstname+Lastname+SSN+DOB+DL num+DL State+Address+City+State+ZIP",4.045454545454546,4.0,5.0,4.0,22,89.0,"info, dob, ssn, dl"
+database\283.json,"DL + MVR (weight, height, etc) lookup service","s
+
+Hello everyone! We search DL + MVR ALL STATES! Among the information found
+will be information about eye color, hair color, information about height,
+weight, release date for DL and expiration date for DL! Time for search can
+take up to 48 hours no more (but I always try to do everything as early as
+possible). What info we need: (without this info we don't start search) 1\.
+First name \ last name 2\. Address 3\. DOB 4\. SSN Example: Question Mark 5879
+BAKKERY ST HOUSTON:TX 9/19/1977 123456789 What info we will send for you,
+example: DL number - 1234567890 DL state - TX Eyes - BLACK Hair - BROWN Weight
+- 117 lbs Height - 4'87'' Iss Date: 10/09/2018 Exp Date:10/09/2022",164.24242424242425,165.0,210.0,120.0,33,5420.0,dl
+database\296.json,Full Info SSN/DOB + BG + CR + CS,"s
+
+In this category you can purchase complete information (full name,address,
+zip, state, gender, dob, ssn) + background report (pdf file) + credit report
+(pdf file) + credit score.",3.2,2.0,10.0,2.0,100,320.0,"info, dob, ssn"
+database\322.json,TAX FORM,"s
+
+Blank editable tax forms",9.111111111111109,8.0,17.0,6.0,18,164.0,"tax, form"
+database\329.json,Full info SSN+DOB,"s
+
+In this category you can purchase Full Info (SSN+DOB). Example:
+999999999|JESSICA POTTER|8433 N. ARCOLA AVE.|KANSAS
+CITY|MO|64153|8167267332|1999-09-09|FIREMUFFIN2999@YAHOO.COM",1.0,1.0,1.0,1.0,100,100.0,"info, dob, ssn"
+database\333.json,Full info SSN+DOB+CS+Credit report,"s
+
+In this category you can purchase complete information Credit Score ( 700/
+800+ ) + (full name,address, zip, state,dob, ssn,) + Credit report ( score
+models , creditors )",18.184210526315788,20.0,22.0,10.0,76,1382.0,"info, dob, ssn"
+database\336.json,Full info SSN+DOB+Credit report+Background info,"s
+
+In this category you can purchase complete information (full name,address,
+zip, state,dob, ssn) + credit report + background info. Example:
+http://joxi.ru/brRyX18TLnKaJA: http://joxi.ru/D2PkOxBfBR0QPm:
+http://joxi.ru/n2YMNQzF753Yo2:",27.98,30.0,30.0,15.0,100,2798.0,"info, dob, ssn"
+database\337.json,DL/PASSPORT/ID/SSN - REAL DOC'S,"s
+
+In this category, we offer you these real documents in the form of scans and
+photos from the holders. Everything is original.",47.16666666666666,17.5,499.0,9.0,18,849.0,"ssn, dl, passport"
+database\338.json,Background info - Lookup Services,"s
+
+Background report for person who lived in us. After search, you get the
+following information Personal review / Contact information / Address history
+/ Relatives / Neighborhood / Associates / Professional / Education / username
+/ Social networks / and other information ... After purchasing create ticket
+and send me details for lookup in this format: I need correct information! 1
+First name / Last name 2 Date of birth 3 Address / City 4 Zipcode 5 State
+Refund or replacement can be if we can not find a person you need",24.0,20.0,60.0,20.0,10,240.0,info
+database\34.json,DL+ SSN card,"s
+
+In this category you can buy real photos and scans of DL+ SSN card . All
+documents are real!",25.0,25.0,25.0,25.0,100,2500.0,"ssn, dl"
+database\35.json,Full info USA SSN/DOB/DL,"s
+
+In this category you can purchase real information about a person living in
+the USA. FULL NAME / ADRESS / SSN / DOB / DL number.",10.0,10.0,10.0,10.0,100,1000.0,"info, dob, ssn, dl"
+database\350.json,SSN/DOB lookup service,"s
+
+Hello everybody from PINK MAN This is searching service of SSN/DOB USA people.
+You should send me information about human in ticket: 1\. First and Last Name
+2\. Address (include Zipcode, City and State) If you already have a DOB, then
+please send me, any information is important Rules: -Processing of your
+application can take up to 24 hours no more (but I always try to do everything
+as early as possible) -All SSNs found are 100% information, I don’t need to
+send screenshots that you didn't manage to do something or SSN didn't fit
+somewhere -If the information was not found, then the balance remains as a
+deposit",105.71428571428572,60.0,470.0,30.0,7,740.0,"dob, ssn"
+database\352.json,DL lookup service,"s
+
+Hello everybody from PINK MAN! I search ALL STATES Time for search can be near
+12-36 hours please be ready for this, but i always try to make search in that
+say you make order In this category happy of providing you with a search for a
+driver's license What info we need: (without this info we don't start search)
+1\. First name / Last name 2\. Address 3\. DOB 4\. SSN Example: KERSHENDA
+MORRIS 7410 SAUNDERS RD HOUSTON:TX 5/31/1985 258452584 What info we will send
+for you, example: DL 2565266525 TX If the information was not found, then the
+balance remains as a deposit",60.0,65.0,90.0,35.0,8,480.0,dl
+database\359.json,"DL + MVR (height, weight, etc) lookup service","s
+
+Hello everybody from PINK MAN I search DL + MVR without DL (only height and
+weight) DL+ MVR with DL (only height and weight) Full MVR report (Among the
+information found will be information about eye color, hair color, information
+about height, weight, release date for DL and expiration date for DL) Time for
+search can be near 48 hours please be ready for this, but i always try to make
+search in that say you make order What info we need: (without this info we
+don't start search) 1\. First name / Last name 2\. Address 3\. DOB 4\. SSN
+Full MVR report result example: KERSHENDA MORRIS 7410 SAUNDERS RD HOUSTON TX
+5/31/1985 258452584 What info we will send for you, example: DL number -
+2565266525 DL state - TX Eyes - BLACK Hair - BROWN Weight - 125 lbs Height -
+5'00'' Iss Date: 05/07/2019 Exp Date: 05/07/2023 If the information was not
+found, then the balance remains as a deposit",161.30952380952382,160.0,210.0,120.0,42,6775.0,dl
+database\36.json,Full info USA SSN/DOB/DL - Exp Date,"s
+
+In this category you can purchase real information about a person living in
+the USA. FULL NAME / ADRESS / SSN / DOB / DL number / Exp Date DL",15.0,15.0,15.0,15.0,100,1500.0,"info, dob, ssn, dl"
+database\361.json,Full info USA,"s
+
+Hello everybody from PINK MAN! This is category you can find US citizens data.
+Product example : 230796458;PHILIP KLAH;USA;249A
+STONYHILL;eatontown;NJ;07724;7326109375;1976-03-24;ARWINPK@VERIZON.NET",1.0,1.0,1.0,1.0,100,100.0,info
+database\362.json,Business Full Info,"s
+
+Hello everybody, in this category you can find Business Fullz, USA They may
+not work anymore, but they definitely existed and most of them work We are not
+responsible for the fact that the business does not work Product Example:
+LegalName - xxx DBAName - xxx BusAddress - address, city, state, zip BusPhone
+- (123)456-7890 FedTaxID - 12-3456789 OwnerName - xxx OwnerDOB - 12/12/1990
+OwnerSSN - 123-45-6789",25.662650602409638,30.0,30.0,10.0,83,2130.0,info
+database\364.json,Full Info USA + DL + Employer/Job info,"s
+
+Hello everybody from PINK MAN! This is category you can find Full Info USA
+(SSN/DOB/Address/Name) + DL + Employer/Job info Product example :
+jennifer|loughman|295-74-3876|MDY|4|22|1973|10903 lake ave. apt
+205|cleveland|oh|44102|USA|DL/DL-state-
+rt612341/oh|2165278934|employed|remington college",3.26,3.0,5.0,3.0,100,326.0,"info, dl, employ, job"
+database\366.json,Full Info USA + DL (with expiration date),"s
+
+Hello everybody from PINK MAN! This is category you can find Full Info USA
+(SSN/DOB/Address/Name) + DL (with expiration date) Product example : Romas
+Dixon:14500 cutten
+rd:Houston:TX:77069:3/24/1962:240-15-3899:33663709:TX:3/24/2021",7.2,8.0,8.0,3.0,100,720.0,"info, dl"
+database\368.json,Full info USA + MMN,"s
+
+Hello everybody from PINK MAN! This is category you can find US citizens data
+with MMN. Product example : 230796458;PHILIP KLAH;USA;249A
+STONYHILL;eatontown;NJ;07724;7326109375;1976-03-24;ARWINPK@VERIZON.NET MMN:
+Thomas",7.0,7.0,7.0,7.0,19,133.0,info
+database\37.json,Passport,"s
+
+In this category you can buy real photos and scans of Passport . All documents
+are real!",10.0,10.0,10.0,10.0,100,1000.0,passport
+database\370.json,Full info USA + DL + Bank info,"s
+
+Hello everybody from PINK MAN! This is category you can find Full Info USA
+(SSN/DOB/Address/Name) + DL + Bank info Product example : lin*****@yahoo.com|l
+inda|****|33*48**51|USA|MDY|12|6|19**|17**48*3|tx|address|city|state|zipcode|7
+137758636|Bankcorp Bank|RN|0311*****|AN|9301********* WARNING! We are not
+responsible for the fact that this account may now be closed or frozen. These
+accounts were opened, but we cannot know what happened to them now.",5.0606060606060606,6.0,6.0,3.0,99,501.0,"info, dl"
+database\40.json,FULL INFO USA SSN DOB /BANK NAME /JOB TITLE /EMPLOYER /AC RN,"s
+
+In this category you can purchase real information about a person living in
+the USA. name,dob,address,home_phone,cell_phone,work_phone,email,ssn,home_stat
+us,dl,dl_state,active_military,bank_name,bank_fedwire_name,bank_address,bank_p
+hone,acc_type,acc,routing,income,direct_deposit,how_paid,employer,employer_pho
+ne,job_title",5.0,5.0,5.0,5.0,94,470.0,"info, dob, ssn, employ, job"
+database\42.json,FULL INFO USA SSN / DOB / CS / CR,"s
+
+In this category you can purchase real information about a person living in
+the USA. FULL NAME / ADRESS / SSN / DOB / CREDIT SCORE /CREDIT REPORT.",20.55,20.0,25.0,10.0,100,2055.0,"info, dob, ssn"
+database\420.json,Driver license,"s
+
+In this section of the documant you will find the DL files",11.304347826086955,10.0,20.0,10.0,23,260.0,dl
+database\432.json,FULL INFO SSN+DOB+DL,"s
+
+In this category you can purchase real information about a person living in
+the USA. FULL NAME / ADRESS / SSN / DOB / DL number.",4.063157894736842,4.0,5.0,3.0,95,386.0,"info, dob, ssn, dl"
+database\441.json,Full info SSN+DOB+DL,"s
+
+You get Full info SSN+DOB+DL from various states",11.4,7.0,70.0,2.0,100,1140.0,"info, dob, ssn, dl"
+database\452.json,Full info + CR + BG + CS,"s
+
+Hello everybody from PINK MAN! This is category you can find Full Info USA
+(SSN/DOB/Address/Name) + CR + CS (700-800) Information about the person and
+the credit score is in text format, and the credit/background report is in pdf
+format.",12.0,12.0,12.0,12.0,4,48.0,info
+database\46.json,W 2 - FORMS,"s
+
+In this category you can purchase W2-Forms. All documents are real.",22.1,20.0,25.0,15.0,100,2210.0,form
+database\473.json,Full Info USA + DL+Height/Weight/Eye Color/Hair Color,"s
+
+Hello everybody from PINK MAN! This is category you can find Full Info USA
+(SSN/DOB/Address/Name) + DL+Height/Weight/Eye Color/Hair Color Product example
+: Jack Rowland|USA|MDY|5|13|1977| 4163 st rt 96 |bucyrus|OH|44820| (419)
+569-2864| jackrowland72@yahoo.com|269-74-9664| ru587310| OH Gender: F Height:
+5'48 Weight: 205 Eye Color: BRWN Hair Color: BRWN",16.75,17.0,17.0,15.0,8,134.0,"info, dl"
+database\483.json,Full info USA SSN+DOB,"s
+
+In this category you can purchase real information about a person living in
+the USA. SSN / DOB / ADRESS",1.0,1.0,1.0,1.0,100,100.0,"info, dob, ssn"
+database\487.json,Full info USASSN+DOB+CR,"s
+
+Here you can buy Full info USASSN+DOB+CR time to check the account is 15
+minutes, after the stated time the material cannot be replaced. If you had
+problem,open refund ticket attach a screenshot with a problem and a screenshot
+with a whoer.net with the system time of the machine",9.0,9.0,9.0,9.0,65,585.0,"info, dob, ssn"
+database\490.json,Full info USASSN+DOB+MMN,"s
+
+Here you can buy Full info USASSN+DOB+MMN accounts with 2-factor
+verification cannot be replaced time to check the account is 15 minutes, after
+the stated time the material cannot be replaced. If you had problem,open
+refund ticket attach a screenshot with a problem and a screenshot with a
+whoer.net with the system time of the machine",2.0,2.0,2.0,2.0,100,200.0,"info, dob, ssn"
+database\491.json,Full info USASSN+DOB+DL,"s
+
+In this category, we offer you data from the holders. Everything is original.
+Full info USASSN+DOB+DL",4.97,5.0,5.0,2.0,100,497.0,"info, dob, ssn, dl"
+database\492.json,hsabank.comFull AN/RN+Holder name+Adress+SQ+Tax form+SSN,"s
+
+Example and about product Here you can buy hsabank.com accounts. Example of
+product! ================================== Login:Password Account Name Full
+AN Balance Routing Number: SQ SSN Tax form Name Adress
+================================== accounts with 2-factor verification cannot
+be replaced time to check the account is 15 minutes, after the stated time the
+material cannot be replaced. If you had problem,open refund ticket attach a
+screenshot with a problem and a screenshot with a whoer.net with the system
+time of the machine",20.0,20.0,20.0,20.0,8,160.0,"ssn, tax, form"
+database\501.json,Bank Checks & Direct Deposits forms,"s
+
+in this category you can buy real bank checks with documents from different
+banks.",34.642857142857146,30.0,120.0,20.0,70,2425.0,form
+database\507.json,Full info USA ssn/dob,"s
+
+Example: name/address/ssn/dob",1.0,1.0,1.0,1.0,100,100.0,"info, dob, ssn"
+database\509.json,Full info USA ssn/dob + MMN,"s
+
+full_name/dob/full_address/full_phone/ssn/mmn",7.0,7.0,7.0,7.0,31,217.0,"info, dob, ssn"
+database\510.json,Full info USA  SSN+DOB+DL+Bank AСN RTN Num+Employment,"s
+
+In this category you can purchase real information about a person living in
+the USA: First_name/Last_name/SSN/DOB/DL_number/DL_state/Address/City/State/Zi
+p/Phone/Email/Employment_status/Employer_name/Job_title/Phone_work/Bank_name/A
+ccount_type/Routing_n/Account_n",6.0,6.0,6.0,6.0,99,594.0,"info, dob, ssn, dl, employ"
+database\512.json,Full info USASSN+DOB+DL+MMN,"s
+
+You can buy Full info USASSN+DOB+DL+MMN for example
+Name|Adress|City|State|Zip|United States|phone|email:
+richard.castillo1947@yahoo.com Password: Micorreo 47|SSN|DL: MMN: |DOB|AGE|",5.0,5.0,5.0,5.0,54,270.0,"info, dob, ssn, dl"
+database\519.json,PASSPORT/ID/SSN/DL USA EU,"s
+
+In this category you can purchase a driver's license, passport and other
+documents for real people from different countries.",9.0,9.0,10.0,8.0,4,36.0,"ssn, dl, passport"
+database\522.json,Full infoSSN+DOB+CS,"s
+
+Here you can buy Full infoSSN+DOB+CS SSN|NAME|USA|ADRESS|CITY|STATE
+ZIP|DOB|CS",6.96,7.0,7.0,5.0,100,696.0,"info, dob, ssn"
+database\534.json,"Form 1040 , 8821 , 668 , 2848","s
+
+In this category you can purchase tax forms W2 1040 8821 668 2848 : Carefully
+read the description of the goods before buying. Form in PDF format.All
+documents are real. Search for custom documents category 8821 (open tiket)",15.0,15.0,15.0,15.0,4,60.0,form
+database\543.json,Full info USACS+CR+DOB+SSN+DL+BG,"s
+
+You can Buy Full info USACS+CR+DOB+SSN+DL+BG",9.666666666666666,10.0,10.0,9.0,3,29.0,"info, dob, ssn, dl"
+database\552.json,PASSPORT/DL/ID/ and other Document WORLD MIX,"s
+
+In this category you can buy real photos and scans of PASSPORT/DL/ID/ and
+other Document WORLD MIX .All documents are real!",25.0,25.0,35.0,15.0,2,50.0,"dl, passport"
+database\56.json,"Full info SSN,DOB","s
+
+this category provides information USA Full Info SSN, DOB, Address, Zip
+product example: Holder Name: TAMMY WEATHERMAN SSN: 562-33-5143 DOB:
+1968-07-03 Address1: 9754 N PTARMIGAN City: HAYDEN State: ID Zip: 83835",1.0,1.0,1.0,1.0,66,66.0,"info, dob, ssn"
+database\57.json,"Full info  SSN,DOB+DL","s
+
+this category provides information USA Full Info SSN, DOB, Address, Zip
+product example: Holder Name: Charles Hackett DOB: 11/21/1966,772 Hancock
+street City: Brooklyn State: NY Zip: 11233 Phone: (646) 240-8353,,(212)
+656-5080 Mail: crh2066@gmail.com SSN: 094729717 DL: 300421610 DL state NY",4.66,5.0,5.0,4.0,100,466.0,"info, dob, ssn, dl"
+database\582.json,FULL INFO SSN + DOB,"s
+
+In this category you can purchase real information about a person living in
+the USA. FULL NAME / ADRESS / SSN / DOB",1.0,1.0,1.0,1.0,100,100.0,"info, dob, ssn"
+database\62.json,Tax business form,"s
+
+In this category, you can purchase business tax forms. Please read the product
+description carefully before purchasing. Form in PDF format.All documents are
+real",50.0,50.0,50.0,50.0,7,350.0,"tax, form"
+database\623.json,USA BINS RESET VBV BY ZIP CODE,"s
+
+hi bro,here you can buy usa bins that you can reset the vbv by zip code",8.0,8.0,8.0,8.0,100,800.0,zip
+database\624.json,USA BINS RESET VBV BY SSN,"s
+
+hi bro,here you can buy usa bins that you can reset the vbv by ssn",8.0,8.0,8.0,8.0,31,248.0,ssn
+database\626.json,Passport,"s
+
+In this category you can buy photos of passports of different countries",10.0,10.0,10.0,10.0,2,20.0,passport
+database\629.json,USA FULL INFO SSN+DOB+DL,"s
+
+In this category you can get Full Info With DL Number. Example: NAME, ADDRESS,
+SSN, DOB, DL, Good Luck.",5.0,5.0,5.0,5.0,87,435.0,"info, dob, ssn, dl"
+database\63.json,Form W-2+1040,"s
+
+In this category you can purchase tax forms W-2, 1040, and others. Carefully
+read the description of the goods before buying. Form in PDF format.All
+documents are real.",10.074626865671641,10.0,80.0,5.0,67,675.0,form
+database\639.json,FULL INFO SSN+DOB,"s
+
+In this category you can get Full Info . Example: NAME, ADDRESS, SSN, DOB,",1.0,1.0,1.0,1.0,100,100.0,"info, dob, ssn"
+database\661.json,"FULL INFO (SSN, DOB, EMPLOYER, OCUPATION, BG REPORT)","s
+
+EXAMPLE// SSN, DOB, ADDRESS, EMPLOYER, OCUPATION, BG REPORT (PDF)",7.0,7.0,7.0,7.0,4,28.0,"info, dob, ssn, employ"
+database\664.json,Full info SSN+DOB,"s
+
+In this category you can purchase Full Info (SSN+DOB). FIRST NAME:LAST
+NAME:ADDRESS:CITY:STATE:ZIP:SSN:DOB",1.0,1.0,1.0,1.0,100,100.0,"info, dob, ssn"
+database\665.json,Full info SSN+DOB,"s
+
+In this category you can purchase Full Info (SSN+DOB).",1.0,1.0,1.0,1.0,100,100.0,"info, dob, ssn"
+database\666.json,Full info USASSN+DOB+DL,"s
+
+In this category you can purchase Full Info SSN+DOB+DL",5.0,5.0,5.0,5.0,100,500.0,"info, dob, ssn, dl"
+database\667.json,Full info SSN+DOB+DL,"s
+
+In this category you can purchase Full Info (SSN+DOB+DL). FIRST NAME:LAST
+NAME:SSN:DOB:DL:DL STATE:ADDRESS:CITY:STATE:ZIP:NUMBER",5.0,5.0,5.0,5.0,52,260.0,"info, dob, ssn, dl"
+database\683.json,DL/ID/Passport,"s
+
+DL/ID/Passport All documents are real in the form of scans and photos.",23.63636363636364,20.0,50.0,10.0,11,260.0,"dl, passport"
+database\712.json,Full info SIN+DOB,"s
+
+In this category, you can purchase complete information about the citizens of
+Canada (SIN + DOB). Example: 777777777|17/07/1777|Jacob I Pathan|77 Miller
+ave|Toronto|BC|jdwidwn|CANADA|777-777-777|",1.0,1.0,1.0,1.0,100,100.0,"info, dob"
+database\73.json,DL USA Front and back side.Real document,"s
+
+In this category you can buy real photographs and scans of a US driver's
+license. Documents have front and back sides. All documents are real!",20.0,20.0,20.0,20.0,78,1560.0,dl
+database\736.json,Full info - Different Countries SSN/IBEN/NIN/PN/DNI,"s
+
+In this category, you can acquire full information about citizens of different
+countries. Full info+( SSN/IBEN/NIN/PN/DNI ) - Depending on which document is
+used in the country If you need data for some country that is not available in
+this category - contact the ticket. We will try to find the information you
+need.",7.0,7.0,7.0,7.0,4,28.0,"info, ssn"
+database\739.json,Full info SSN+DOB+CR+CS+Bank info,"s
+
+Hello, in this category you can buy Full info SSN+DOB+CR+CS+Bank info PERSON
+NAME: ***** PERSON SSN : ***** FIRST NAME : ***** LAST NAME : ***** PERSON DOB
+: ***** PERSON ADDRESS: ***** PERSON SCORE: ***** And other information that
+is on the cloud link (available after purchase)",10.0,10.0,10.0,10.0,95,950.0,"info, dob, ssn"
+database\742.json,UK Fullz DOB+BANK NAME+SORT CODE+AN,"s
+
+title|first_name|surname|birth_date|gender|contact_address1|contact_address2|c
+ontact_address3|town|county|post_code|country|mobile|email|password|bank_name|
+account_name|sort_code |account_number|",6.0,6.0,6.0,6.0,15,90.0,"fullz, dob"
+database\749.json,"Full info USA SSN,DOB, DL(exp), CS, Employers","s
+
+Example// SSN,DOB,ADDRESS,DL num (exp), Credit Score, Employers, nerdwallet
+account",8.0,8.0,8.0,8.0,2,16.0,"info, dob, ssn, dl, employ"
+database\777.json,SSN & DOB Lookup service,"s
+
+This is searching service of SSN/DOB USA people. You should send me
+information about human in ticket: 1. First and Last Name 2. Address (include
+Zip code, City and State) If you already have a DOB, then please send me, any
+information is important Rules: -Processing of your application can take up to
+1-3 hours (the exception is the time that I sleep) no more (but I always try
+to do everything as early as possible) -Refund or replacement can be if I
+couldn't find person who you need. Note. The response to your request may take
+up to 24 hours!",142.44444444444446,145.0,325.0,27.0,9,1282.0,"dob, ssn"
+database\789.json,SSN+DOB Lookup service,"s
+
+In this category you can purchase this is searching service of SSN/DOB USA
+people. You should send me information about human in ticket: 1. First and
+Last Name 2. Address (include Zipcode, City and State) If you already have a
+DOB, then please send me, any information is important Rules: Processing of
+your application can take up from 10 minutes to 24 hours , but I always try to
+do everything as early as possible - Refund or replacement can be if I
+couldn't find person who you need",40.0,40.0,40.0,40.0,7,280.0,"dob, ssn"
+database\790.json,Full Info Other Countries SIN/IBEN/NIN/PN/DNI,"s
+
+In this category, you can acquire full information about citizens of different
+countries. Full info+( SIN/IBEN/NIN/PN/DNI ) - Depending on which document is
+used in the country. The information may not always be complete, but it will
+always be correct. By buying from us you agree to this.",6.0,6.0,6.0,6.0,100,600.0,info
+database\835.json,FULL INFO SSN/DOB/DL,"s
+
+In this category you can purchase real information about a person living in
+the USA. FULL NAME / ADRESS / SSN / DOB / DL number.",4.183673469387755,4.0,5.0,4.0,98,410.0,"info, dob, ssn, dl"
+database\838.json,Full Info SSN/DL/DOB,"s
+
+In this category, we offer you data from the holders. Everything is original.
+Type of goods: txt information",4.9,5.0,6.0,3.0,100,490.0,"info, dob, ssn, dl"
+database\841.json,FULL INFO SSN/DOB/DL (exp)/CS/Employers,"s
+
+In this category you can purchase real information about a person living in
+the USA. FULL NAME / ADRESS / SSN / DOB / DL / CS / EMPLOYERS",5.0,5.0,5.0,5.0,7,35.0,"info, dob, ssn, dl, employ"
+database\843.json,Coinbase.com log/pass + Holder Info,"s
+
+In this category, you can find Coinbase.com accounts without online access.
+After purchase, log into your account strictly according to the rules _ 1) Use
+a clean IP address 2) Login to accounts only from the PC version. Good luck!!!",6.3055555555555545,7.0,15.0,4.0,36,227.0,info
+database\849.json,"Full info USA SSN,DOB,DL","s
+
+Example// 322720649 Laurie Ann Gomez, 5731 S Nagle Ave, Chicago, IL, 60638,
+(708) 430-2360 age:52 08/08/1969 DL G52052169825",5.0,5.0,5.0,5.0,100,500.0,"info, dob, ssn, dl"
+database\862.json,Canadian Full info SIN+DOB,"s
+
+In this category, you can purchase complete information about the citizens of
+Canada (SIN + DOB). Example: 777777777|17/07/1777|Jacob I Pathan|77 Miller
+ave|Toronto|BC|jdwidwn|CANADA|777-777-777|",2.0,2.0,2.0,2.0,100,200.0,"info, dob"
+database\863.json,Canadian Full info SIN+DOB+Employer name+Occupasion+MonthlyIncome,"s
+
+In this category, you can purchase complete information about the citizens of
+Canada (SIN + DOB). Example: Lisamarie|Mucci|Culmore crescent|6255|Without
+DL|L5V1H9|6472266272|SIN|XXXXXXXXXXX|muccilisam@gmail.com|DOB|Employer|Mavcor 
+Inc|Occupasion|Marketing|MonthlyIncome|d:40000|DurationMonths|i:1|DurationYear
+s|i:2|OtherIncome|d:0|OtherIncomeSource",6.0,6.0,6.0,6.0,53,318.0,"info, dob, employ"
+database\88.json,"Driver's license, passport","s
+
+in this category you can purchase a driver's license, passport and other
+documents for real people from different countries.",14.666666666666664,10.0,40.0,10.0,60,880.0,"dl, passport"
+database\881.json,Full info,"s
+
+In this category you can get Full Info . Example: NAME, ADDRESS, SSN, DOB,",1.0,1.0,1.0,1.0,100,100.0,info
+database\91.json,Full info USA  SSN+DOB,"s
+
+In this category you can purchase real information about a person living in
+the USA. SSN / DOB / ADRESS",1.0,1.0,1.0,1.0,98,98.0,"info, dob, ssn"
+database\916.json,FULL INFO SSN+DOB+DL+Job,"s
+
+Example: Name:ssn:dob:dl:dl state: address: state:zip:number:employed:work
+info",7.0,7.0,7.0,7.0,42,294.0,"info, dob, ssn, dl, job"
+database\917.json,Full Info ssn+dob+bank info+credit report+cs,"s
+
+When buying, a link is given to download a file with full information
+Example:PERSON NAME:PERSON SSN :PERSON DOB : PERSON ADRESS: PERSON SCORE:
+Credit Report :Other Bank Info",14.295454545454545,15.0,15.0,10.0,44,629.0,"info, dob, ssn"
+database\918.json,Full Info ssn + dob + scanned dl + scanned document+ work,"s
+
+When buying a product, a link is given to download the file Full Info ssn +
+dob + scanned dl (Front)+ scanned document+ work",32.22222222222222,30.0,35.0,30.0,9,290.0,"info, dob, ssn, dl"
+database\926.json,PASSPORT / SSN / DL / ID CARD,"s
+
+In this category, you can find various USA documents. All documents are real.",11.222222222222221,10.0,20.0,7.0,36,404.0,"ssn, dl, passport"
+database\929.json,Tax Form,"s
+
+Blank editable tax forms",7.06,7.0,15.0,6.0,100,706.0,"tax, form"
+database\93.json,ID USA + SSN CARD Real document,"s
+
+In this category you can buy real photos and scans of ID + SSN card . All
+documents are real!",25.0,25.0,25.0,25.0,100,2500.0,ssn
+database\958.json,PASSPORT/ID/SSN/DL USA/EU/WORLD,"s
+
+In this category you can purchase a driver's license, passport and other
+documents for real people from various countries.",14.28358208955224,14.0,80.0,9.0,67,957.0,"ssn, dl, passport"
+database\976.json,FULL INFO SSN / DOB / DL + Bank Name (AN / RN),"s
+
+In this category you can purchase real information about a person living in
+the USA:FORMAT: First Name / Last Name / Address / City / State / Email / Zip
+/ Phone / SSN / DOB / DL+State DL / Routing Number / Bank Name / Account
+Number",6.0,6.0,6.0,6.0,84,504.0,"info, dob, ssn, dl"
+database\984.json,Drawing SSN (SCAN),"s
+
+In this category you can order drawing SSN scan. What do you need to provide.
+FIRST NAME MIDDLE NAME LAST NAME SOCIAL SECURITY NUMBER ISSUE DATE (Optional)
+VALIDITY (Optional) ROUTING NUMBER (Optional) BARCODE (APPEARED ON SSN AFTER
+2011) VISIBLE/INVISIBLE (Optional) You will have to wait 2-5 minutes if I am
+online. If not online 1-3 Hours. Good Luck",116.92307692307692,15.0,400.0,15.0,13,1520.0,ssn
+database\987.json,DL lookup service,"s
+
+In this category you can purchase this is searching service of DL USA people.
+You should send me information about human in ticket: 1\. First / Last Name
+2\. Address (include Zipcode, City and State) 3\. DOB 4\. SSN : Processing of
+your search can take up from 10 minutes to 24 hours - please be ready for
+this, but I always try to do everything as early as possible. What info we
+will send for you after search. example: DL 1234567890 TX Refund when we cant
+find DL number or you send proofs that DL number is invalid.",30.0,30.0,30.0,30.0,9,270.0,dl
+database\994.json,FULL INFO USA SSN / DOB / CS / CR,"s
+
+In this category you can purchase real information about a person living in
+the USA. FULL NAME / ADRESS / SSN / DOB / CREDIT SCORE /CREDIT REPORT.",9.5625,10.0,15.0,5.0,32,306.0,"info, dob, ssn"
+database\996.json,Full info Different Countries SIN/CURP/SSN/IBEN/NIN/PN/DNI/,"s
+
+In this category, you can acquire full information about citizens of different
+countries. Depending on which document is used in the country If you need data
+for some country that is not available in this category - contact the ticket.
+We will try to find the information you need.",1.0,1.0,1.0,1.0,25,25.0,"info, ssn"
+database\999.json,"Full info USA SSN,DOB,DL","s
+
+In this category you can get Full Info . Example: NAME, ADDRESS, SSN, DOB, DL",5.6923076923076925,6.0,6.0,5.0,13,74.0,"info, dob, ssn, dl"

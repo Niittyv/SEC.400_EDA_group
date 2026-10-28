@@ -1,52 +1,21 @@
-cc
-bank
-full info
-ssn
+fullz
+real people
+info
 dob
+ssn
 dl
-address
-zip
 person
 living
-city
-credit card
-account
-citizen
-bank
-email
-login
-fullz
-password
-venmo
-logs
+employ
+resident
+driver
 passport
-driver license
-bins
-document
-photo
-tax
-botnet
-gift
+birth
 selfie
-domain
-credit score
-statement
-balance
-username
-vcc
-id card
-ebay
-utility bill
-paypal
-cvv
-coinbase
-wire
-crypto
-billing
-chrome
-configuration
-apple
-prepaid
-hosting
-dating
-stripe
+job
+zip
+tax
+gender
+occupation
+birthday
+relative

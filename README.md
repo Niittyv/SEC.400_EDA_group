@@ -20,7 +20,9 @@ WordCounter counts how frequently words and word combinations appear in products
 
 ## Data analysis
 
-The PriceAnalysis.ipynb file is used for analyzing the labeled dataset grouped by keywords (category-column). The keywords are loaded from a notebook_keyword.txt file. Please note that the Plotly-graphs can not be rendered by Github code preview. Open the .ipynb file locally or use https://nbviewer.org/github/Niittyv/SEC.400_EDA_group/blob/Additional-features-and-analysis/PriceAnalysis.ipynb
+The PriceAnalysis.ipynb file is used for analyzing the labeled dataset grouped by keywords (category-column). The keywords are loaded from a notebook_keyword.txt file. 
+
+Please note that the Plotly-graphs can not be rendered by Github code preview. Open the .ipynb file locally or use https://nbviewer.org/github/Niittyv/SEC.400_EDA_group/blob/Product-category-analysis/PriceAnalysis.ipynb
 
 Please remember to remove synonym keywords bundled together earlier in label_by_keyword.py script from notebook_keywords.txt file!
 

@@ -11,7 +11,7 @@ database\1002.json,Form W-2+1040,"s
 
 In this category you can purchase tax forms W-2 , 1040, and others. Carefully
 read the description of the goods before buying. Form in PDF format. All
-documents are real.",20.0,20.0,20.0,20.0,2,40.0,
+documents are real.",20.0,20.0,20.0,20.0,2,40.0,form
 database\1004.json,Macys.com,"s
 
 In this category, you can find Macys.com accounts with online access.",3.0,3.0,3.0,3.0,1,3.0,
@@ -612,7 +612,7 @@ database\1210.json,Form W-2 & Other Tax documents,"s
 
 In this category you can purchase Tax forms W-2 , other Tax forms and
 documents . Carefully read the description of the goods before buying. Form in
-PDF format. All documents are real.",10.0,10.0,10.0,10.0,7,70.0,tax
+PDF format. All documents are real.",10.0,10.0,10.0,10.0,7,70.0,"tax, form"
 database\1211.json,Kohls.com,"s
 
 In this category, you can purchase Cohls.com accounts. All accounts have
@@ -649,7 +649,7 @@ database\1228.json,"Form W-2+1040  SSN, ID, EIN. BANK INFO","s
 
 In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\1229.json,Kroger.com,"s
 
 In this category you can buy Kroger.com accounts. All accounts have access. I
@@ -1146,7 +1146,7 @@ database\1429.json,Bank Checks,"s
 Iin this category you can purchase real bank checks from different banks.",73.0,75.0,100.0,45.0,5,365.0,
 database\1431.json,Tax forms & Tax Docs,"s
 
-In this category you can buy Tax forms & Tax Docs",5.0,5.0,5.0,5.0,1,5.0,tax
+In this category you can buy Tax forms & Tax Docs",5.0,5.0,5.0,5.0,1,5.0,"tax, form"
 database\1435.json,Cashapp SELFMADE BTC Enabled,"s
 
 Selfmade Cashapp accounts verified on US documents (There is possibility to
@@ -1327,7 +1327,7 @@ database\1508.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","s
 
 In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",12.666666666666666,13.0,16.0,10.0,15,190.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",12.666666666666666,13.0,16.0,10.0,15,190.0,"info, ssn, form"
 database\1510.json,poshmark.com,"s
 
 In this category you can buy poshmark.com accounts",7.5,7.5,10.0,5.0,4,30.0,
@@ -1888,14 +1888,14 @@ buying this product, you should know its further purpose. Typically,
 verification services request extracts for additional verification. In most
 cases, you will have to change the data to your own using programs such as
 Photoshop. We wish you a pleasant shopping!",0.0,0.0,0.0,0.0,0,0.0,
-database\2478216.json,W 2 - FORMS,In this category you can purchase W2-Forms. All documents are real.,0.0,0.0,0.0,0.0,0,0.0,
-database\2478614.json,W 2 - FORMS,In this category you can purchase W2-Forms. All documents are real.,0.0,0.0,0.0,0.0,0,0.0,
+database\2478216.json,W 2 - FORMS,In this category you can purchase W2-Forms. All documents are real.,0.0,0.0,0.0,0.0,0,0.0,form
+database\2478614.json,W 2 - FORMS,In this category you can purchase W2-Forms. All documents are real.,0.0,0.0,0.0,0.0,0,0.0,form
 database\2478637.json,Bank Statements,"In this category, you can buy bank statements from all over the world. When
 buying this product, you should know its further purpose. Typically,
 verification services request extracts for additional verification. In most
 cases, you will have to change the data to your own using programs such as
 Photoshop. We wish you a pleasant shopping!",0.0,0.0,0.0,0.0,0,0.0,
-database\2478640.json,W 2 - FORMS,In this category you can purchase W2-Forms. All documents are real.,0.0,0.0,0.0,0.0,0,0.0,
+database\2478640.json,W 2 - FORMS,In this category you can purchase W2-Forms. All documents are real.,0.0,0.0,0.0,0.0,0,0.0,form
 database\2478749.json,Bank Statements,"In this category, you can buy bank statements from all over the world. When
 buying this product, you should know its further purpose. Typically,
 verification services request extracts for additional verification. In most
@@ -10549,7 +10549,7 @@ in this category you can order the drawing documents you are interested in.
 Provide the information you have available to complete the order",59.30107526881721,50.0,80.0,25.0,93,5515.0,
 database\322.json,TAX FORM,"s
 
-Blank editable tax forms",9.11111111111111,8.0,17.0,6.0,18,164.0,tax
+Blank editable tax forms",9.11111111111111,8.0,17.0,6.0,18,164.0,"tax, form"
 database\323.json,Statements,"s
 
 In this category we offer you editable statements of different banks.",13.711538461538462,15.0,57.0,6.0,52,713.0,
@@ -12816,7 +12816,7 @@ database\457.json,Hostings/Domain/Webmail/cPanels,"s
 In this category you can buy Hostings/Domain/Webmail/cPanels",22.0,20.0,50.0,10.0,10,220.0,
 database\46.json,W 2 - FORMS,"s
 
-In this category you can purchase W2-Forms. All documents are real.",22.1,20.0,25.0,15.0,100,2210.0,
+In this category you can purchase W2-Forms. All documents are real.",22.1,20.0,25.0,15.0,100,2210.0,form
 database\461.json,GUIDE PUA IL 2021,"s
 
 This guide will show you how to get benefits in IL. Weekly benefit Amount
@@ -16308,7 +16308,7 @@ AN Balance Routing Number: SQ SSN Tax form Name Adress
 be replaced time to check the account is 15 minutes, after the stated time the
 material cannot be replaced. If you had problem,open refund ticket attach a
 screenshot with a problem and a screenshot with a whoer.net with the system
-time of the machine",20.0,20.0,20.0,20.0,8,160.0,"ssn, tax"
+time of the machine",20.0,20.0,20.0,20.0,8,160.0,"ssn, tax, form"
 database\493.json,Banks of Australia,"s
 
 You can buy various Australian bank accounts here. All accounts checked for
@@ -18223,10 +18223,10 @@ sold in format (login:password). No online access is provided.",0.0,0.0,0.0,0.0,
 database\4993025.json,FULL INFO SSN+DOB,In this category you can purchase Full Info (SSN+DOB).,0.0,0.0,0.0,0.0,0,0.0,"info, dob, ssn"
 database\4993054.json,Tax business form,"In this category, you can purchase business tax forms. Please read the product
 description carefully before purchasing. Form in PDF format.All documents are
-real",0.0,0.0,0.0,0.0,0,0.0,tax
+real",0.0,0.0,0.0,0.0,0,0.0,"tax, form"
 database\4993071.json,Form W-2+1040,"In this category you can purchase tax forms W-2, 1040, and others. Carefully
 read the description of the goods before buying. Form in PDF format.All
-documents are real.",0.0,0.0,0.0,0.0,0,0.0,
+documents are real.",0.0,0.0,0.0,0.0,0,0.0,form
 database\4993094.json,Full Info USA + DL (with expiration date),"Hello everybody from PINK MAN! This is category you can find Full Info USA
 (SSN/DOB/Address/Name) + DL (with expiration date) Product example : Romas
 Dixon:14500 cutten
@@ -18245,14 +18245,14 @@ accounts were opened, but we cannot know what happened to them now.",0.0,0.0,0.0
 database\4994161.json,Bestbuy.com + email access,In this category you can purchase Bestbuy accounts with email access.,0.0,0.0,0.0,0.0,0,0.0,
 database\4994220.json,Form W-2+1040,"In this category you can purchase tax forms W-2, 1040, and others. Carefully
 read the description of the goods before buying. Form in PDF format.All
-documents are real.",0.0,0.0,0.0,0.0,0,0.0,
+documents are real.",0.0,0.0,0.0,0.0,0,0.0,form
 database\4994248.json,Bestbuy.com + email access,In this category you can purchase Bestbuy accounts with email access.,0.0,0.0,0.0,0.0,0,0.0,
 database\4994277.json,Form W-2+1040,"In this category you can purchase tax forms W-2, 1040, and others. Carefully
 read the description of the goods before buying. Form in PDF format.All
-documents are real.",0.0,0.0,0.0,0.0,0,0.0,
+documents are real.",0.0,0.0,0.0,0.0,0,0.0,form
 database\4994305.json,Form W-2+1040,"In this category you can purchase tax forms W-2, 1040, and others. Carefully
 read the description of the goods before buying. Form in PDF format.All
-documents are real.",0.0,0.0,0.0,0.0,0,0.0,
+documents are real.",0.0,0.0,0.0,0.0,0,0.0,form
 database\4994529.json,GUIDE PUA IL 2021,"This guide will show you how to get benefits in IL. Weekly benefit Amount
 195-400$. There is time until the new year to make money!",0.0,0.0,0.0,0.0,0,0.0,
 database\4994542.json,GUIDE Holder workplace Lockup,"In this tutorial, you will learn how to look for exactly where the holder
@@ -20317,7 +20317,7 @@ AN Balance Routing Number: SQ SSN Tax form Name Adress
 be replaced time to check the account is 15 minutes, after the stated time the
 material cannot be replaced. If you had problem,open refund ticket attach a
 screenshot with a problem and a screenshot with a whoer.net with the system
-time of the machine",0.0,0.0,0.0,0.0,0,0.0,"ssn, tax"
+time of the machine",0.0,0.0,0.0,0.0,0,0.0,"ssn, tax, form"
 database\5004562.json,DL lookup service,"Hello everybody from PINK MAN! I search ALL STATES Time for search can be near
 12-36 hours please be ready for this, but i always try to make search in that
 say you make order In this category happy of providing you with a search for a
@@ -20328,7 +20328,7 @@ for you, example: DL 2565266525 TX Refund when we cant find DL number or you
 send proofs that DL number is invalid",0.0,0.0,0.0,0.0,0,0.0,dl
 database\5004589.json,Tax business form,"In this category, you can purchase business tax forms. Please read the product
 description carefully before purchasing. Form in PDF format.All documents are
-real",0.0,0.0,0.0,0.0,0,0.0,tax
+real",0.0,0.0,0.0,0.0,0,0.0,"tax, form"
 database\5004811.json,DL lookup service,"Hello everybody from PINK MAN! I search ALL STATES Time for search can be near
 12-36 hours please be ready for this, but i always try to make search in that
 say you make order In this category happy of providing you with a search for a
@@ -21257,7 +21257,7 @@ State) 3\. DOB 4\. SSN Always send all info what you have about human! Then I
 send you the Credit Score (CS) this person.",0.0,0.0,0.0,0.0,0,0.0,
 database\5009387.json,"Form 1040 , 8821 , 668 , 2848","In this category you can purchase tax forms W2 1040 8821 668 2848 : Carefully
 read the description of the goods before buying. Form in PDF format.All
-documents are real. Search for custom documents category 8821 (open tiket)",0.0,0.0,0.0,0.0,0,0.0,
+documents are real. Search for custom documents category 8821 (open tiket)",0.0,0.0,0.0,0.0,0,0.0,form
 database\5009401.json,Credit Report (CR) lookup service,"Hello everybody from PINK MAN! Here you can find credit report person who
 interested you. WARNING: If you want me to get Credit report without your SSN,
 you will need to extra pay 18 dollars You should send me information about
@@ -21333,7 +21333,7 @@ Full info USASSN+DOB+DL",0.0,0.0,0.0,0.0,0,0.0,"info, dob, ssn, dl"
 database\501.json,Bank Checks & Direct Deposits forms,"s
 
 in this category you can buy real bank checks with documents from different
-banks.",34.642857142857146,30.0,120.0,20.0,70,2425.0,
+banks.",34.642857142857146,30.0,120.0,20.0,70,2425.0,form
 database\5010118.json,hsabank.comFull AN/RN+Holder name+Adress+SQ+Tax form+SSN,"Example and about product Here you can buy hsabank.com accounts. Example of
 product! ================================== Login:Password Account Name Full
 AN Balance Routing Number: SQ SSN Tax form Name Adress
@@ -21341,7 +21341,7 @@ AN Balance Routing Number: SQ SSN Tax form Name Adress
 be replaced time to check the account is 15 minutes, after the stated time the
 material cannot be replaced. If you had problem,open refund ticket attach a
 screenshot with a problem and a screenshot with a whoer.net with the system
-time of the machine",0.0,0.0,0.0,0.0,0,0.0,"ssn, tax"
+time of the machine",0.0,0.0,0.0,0.0,0,0.0,"ssn, tax, form"
 database\5010123.json,Full info USA  SSN+DOB+DL+Bank AСN RTN Num+Employment,"In this category you can purchase real information about a person living in
 the USA: First_name/Last_name/SSN/DOB/DL_number/DL_state/Address/City/State/Zi
 p/Phone/Email/Employment_status/Employer_name/Job_title/Phone_work/Bank_name/A
@@ -22718,7 +22718,7 @@ AN Balance Routing Number: SQ SSN Tax form Name Adress
 be replaced time to check the account is 15 minutes, after the stated time the
 material cannot be replaced. If you had problem,open refund ticket attach a
 screenshot with a problem and a screenshot with a whoer.net with the system
-time of the machine",0.0,0.0,0.0,0.0,0,0.0,"ssn, tax"
+time of the machine",0.0,0.0,0.0,0.0,0,0.0,"ssn, tax, form"
 database\5018532.json,Apple.com,"In this category you can get Apple.com accounts without online access.
 Example: Only Login and password",0.0,0.0,0.0,0.0,0,0.0,
 database\5018545.json,Apple.com,"In this category you can get Apple.com accounts without online access.
@@ -32690,10 +32690,10 @@ Firstname+Lastname+SSN+DOB+DL num+DL State+Address+City+State+ZIP",0.0,0.0,0.0,0
 database\5128099.json,FULL INFO SSN+DOB+DL,"In this category you can purchase real information about a person living in
 the USA. FULL NAME / ADRESS / SSN / DOB / DL number.
 Firstname+Lastname+SSN+DOB+DL num+DL State+Address+City+State+ZIP",0.0,0.0,0.0,0.0,0,0.0,"info, dob, ssn, dl"
-database\5128301.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,tax
-database\5128303.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,tax
-database\5128311.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,tax
-database\5128323.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,tax
+database\5128301.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,"tax, form"
+database\5128303.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,"tax, form"
+database\5128311.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,"tax, form"
+database\5128323.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,"tax, form"
 database\5128347.json,Statements,In this category we offer you editable statements of different banks.,0.0,0.0,0.0,0.0,0,0.0,
 database\5128371.json,Full info USASSN+DOB+DL,In this category you can purchase Full Info SSN+DOB+DL,0.0,0.0,0.0,0.0,0,0.0,"info, dob, ssn, dl"
 database\5128372.json,Full info USASSN+DOB+DL,In this category you can purchase Full Info SSN+DOB+DL,0.0,0.0,0.0,0.0,0,0.0,"info, dob, ssn, dl"
@@ -38909,7 +38909,7 @@ database\518.json,Discover.com CC Login:Password,"s
 This category sells a username and password from Discover. Screenshots should
 be uploaded to the http://joxi.ru/ or https://app.prntscr.com/ru/ services, as
 uploading images in a ticket does not work correctly.",15.0,15.0,15.0,15.0,1,15.0,
-database\5180024.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,tax
+database\5180024.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,"tax, form"
 database\5180047.json,Westernunion.com,"In this category, you can find Westernunion.com accounts with online access.
 Account login rules. 1) Clear browser history and cookies. 2) Enter the
 correct IP address. 3) Set cookies for this account. (if there's) 4) Log in to
@@ -38996,12 +38996,12 @@ address. 3) Set cookies for this account. (if there's) 4) Log in to your
 account only from the PC version.",0.0,0.0,0.0,0.0,0,0.0,
 database\5181055.json,Ebay.com,In this category you can get Ebay.com accounts with online access.,0.0,0.0,0.0,0.0,0,0.0,
 database\5181114.json,Bank Checks & Direct Deposits forms,"in this category you can buy real bank checks with documents from different
-banks.",0.0,0.0,0.0,0.0,0,0.0,
+banks.",0.0,0.0,0.0,0.0,0,0.0,form
 database\5181170.json,VCC,"In this category we offer you virtual and gift cards for linking to your
 services. The cards are not sharpened for a specific service, it does not work
 in one, try in another. All cards are valid.",0.0,0.0,0.0,0.0,0,0.0,
 database\5181237.json,Bank Checks & Direct Deposits forms,"in this category you can buy real bank checks with documents from different
-banks.",0.0,0.0,0.0,0.0,0,0.0,
+banks.",0.0,0.0,0.0,0.0,0,0.0,form
 database\5181759.json,Airbnb.com Self-Registered,"Hello everyone from PINK MAN! In this category you can buy Airbnb.com account
 The procedure is as follows: 1. You pay for the order 2\. If I am online, you
 will receive your order immediately. 3\. If I am offline then you will have to
@@ -39679,7 +39679,7 @@ database\5187422.json,Email account with access,In this cathegory you can buy em
 database\5187423.json,Email account with access,In this cathegory you can buy emails accounts,0.0,0.0,0.0,0.0,0,0.0,
 database\5187424.json,Email account with access,In this cathegory you can buy emails accounts,0.0,0.0,0.0,0.0,0,0.0,
 database\5187431.json,Bank Checks & Direct Deposits forms,"in this category you can buy real bank checks with documents from different
-banks.",0.0,0.0,0.0,0.0,0,0.0,
+banks.",0.0,0.0,0.0,0.0,0,0.0,form
 database\5187444.json,VCC,"In this category we offer you virtual and gift cards for linking to your
 services. The cards are not sharpened for a specific service, it does not work
 in one, try in another. All cards are valid.",0.0,0.0,0.0,0.0,0,0.0,
@@ -42764,7 +42764,7 @@ database\5220291.json,USA fullz SSN+DOB 1998-2003 DOB,"In this category you can 
 the USA. SSN / DOB / ADRESS",0.0,0.0,0.0,0.0,0,0.0,"fullz, dob, ssn"
 database\5220575.json,Form W-2+1040,"In this category you can purchase tax forms W-2 , 1040, and others. Carefully
 read the description of the goods before buying. Form in PDF format. All
-documents are real.",0.0,0.0,0.0,0.0,0,0.0,
+documents are real.",0.0,0.0,0.0,0.0,0,0.0,form
 database\5220831.json,MMN lookup service,"Hello everyone! Here you can find MMN person who interested you. Processing of
 your application can take up to 24 hours no more (but I always try to do
 everything as early as possible). You should send me information about human:
@@ -43579,7 +43579,7 @@ perfected to be beat the system, i will guide with advices on how to go
 through . Wish you Success.",0.0,0.0,0.0,0.0,0,0.0,
 database\5230565.json,US BANKS AC/RN Holders Name,"In this category you get bak accounts and routing numbers with or without
 holders name, the caegory field will show that",0.0,0.0,0.0,0.0,0,0.0,
-database\5230584.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,tax
+database\5230584.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,"tax, form"
 database\5230644.json,Bank Checks,"Here you will find various PDF bank checks. All checks are unique and
 guaranteed EXAMPLE: https://prnt.sc/26l571t / https://prnt.sc/26l586p",0.0,0.0,0.0,0.0,0,0.0,
 database\5230648.json,Bank Checks,"Here you will find various PDF bank checks. All checks are unique and
@@ -47474,7 +47474,7 @@ be replaced time to check the account is 15 minutes, after the stated time the
 material cannot be replaced. If you had problem,open refund ticket attach a
 screenshot with a problem and a screenshot with a whoer.net with the system
 time of the machine",0.0,0.0,0.0,0.0,0,0.0,
-database\5272302.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,tax
+database\5272302.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,"tax, form"
 database\5272364.json,AT&T.com,"Here you can buy att.com accounts. accounts with 2-factor verification cannot
 be replaced time to check the account is 15 minutes, after the stated time the
 material cannot be replaced. If you had problem,open refund ticket attach a
@@ -48498,11 +48498,11 @@ verification cannot be replaced time to check the account is 15 minutes, after
 the stated time the material cannot be replaced. If you had problem,open
 refund ticket attach a screenshot with a problem and a screenshot with a
 whoer.net with the system time of the machine",0.0,0.0,0.0,0.0,0,0.0,"info, dob, ssn"
-database\5276814.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,tax
+database\5276814.json,Tax Form,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,"tax, form"
 database\5277313.json,Giftcard Guide + After purchase customer service.,"Step by Step to Giftcard Guide + After purchase customer service. Giftcard
 AMount is unlimited depending on effort you put in.",0.0,0.0,0.0,0.0,0,0.0,
 database\5277780.json,Bank Checks & Direct Deposits forms,"in this category you can buy real bank checks with documents from different
-banks.",0.0,0.0,0.0,0.0,0,0.0,
+banks.",0.0,0.0,0.0,0.0,0,0.0,form
 database\5277906.json,Giftcards.com,"In this category you can find GIFTCARDS.com accounts. All online access. 20
 minutes are given for the check.",0.0,0.0,0.0,0.0,0,0.0,
 database\5277931.json,Full info USASSN+DOB+MMN,"Here you can buy Full info USASSN+DOB+MMN accounts with 2-factor
@@ -49714,7 +49714,7 @@ database\5287524.json,Kroger.com,"In this category you can get Kroger.com accoun
 Login: Password Holder Info",0.0,0.0,0.0,0.0,0,0.0,
 database\5287541.json,Form W-2 & Other Tax documents,"In this category you can purchase Tax forms W-2 , other Tax forms and
 documents . Carefully read the description of the goods before buying. Form in
-PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,tax
+PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"tax, form"
 database\5287933.json,PASSPORT/ID/SSN/DL USA EU,"In this category you can purchase a driver's license, passport and other
 documents for real people from different countries.",0.0,0.0,0.0,0.0,0,0.0,"ssn, dl, passport"
 database\5287950.json,Email bases for brute,"In this category you can purchase email bases (email:password) from different
@@ -50357,7 +50357,7 @@ somewhere -If the information was not found, then the balance remains as a
 deposit",0.0,0.0,0.0,0.0,0,0.0,"dob, ssn"
 database\5293031.json,Form W-2+1040,"In this category you can purchase tax forms W-2 , 1040, and others. Carefully
 read the description of the goods before buying. Form in PDF format. All
-documents are real.",0.0,0.0,0.0,0.0,0,0.0,
+documents are real.",0.0,0.0,0.0,0.0,0,0.0,form
 database\5293485.json,Kroger.com,"In this category you can get Kroger.com accounts with online access. Example:
 Login: Password Holder Info",0.0,0.0,0.0,0.0,0,0.0,
 database\5293518.json,Email account with access,In this cathegory you can buy emails accounts,0.0,0.0,0.0,0.0,0,0.0,
@@ -51069,7 +51069,7 @@ database\5335115.json,Banks of Australia,"You can buy various Australian bank ac
 absence two-factor authentication to logon. Use clean Australian IP only!",0.0,0.0,0.0,0.0,0,0.0,
 database\5335323.json,Full info USA SSN+DOB+CS+BG,"In this category you can purchase real information about a person living in
 the USA. SSN / DOB / ADRESS / CS / BACKGROUND SEARCH Sincerely, THE BEST BANK",0.0,0.0,0.0,0.0,0,0.0,"info, dob, ssn"
-database\5335569.json,TAX FORM,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,tax
+database\5335569.json,TAX FORM,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,"tax, form"
 database\5335767.json,Macys.com,"In this category you can get Macys.com accounts with online access. Example:
 Login:Password Holder Info",0.0,0.0,0.0,0.0,0,0.0,
 database\5335778.json,Macys.com,"In this category you can get Macys.com accounts with online access. Example:
@@ -51084,7 +51084,7 @@ database\534.json,"Form 1040 , 8821 , 668 , 2848","s
 
 In this category you can purchase tax forms W2 1040 8821 668 2848 : Carefully
 read the description of the goods before buying. Form in PDF format.All
-documents are real. Search for custom documents category 8821 (open tiket)",15.0,15.0,15.0,15.0,4,60.0,
+documents are real. Search for custom documents category 8821 (open tiket)",15.0,15.0,15.0,15.0,4,60.0,form
 database\5341074.json,Drawing Documents,"Drawing services are available here! High quality, ELA Bypass, BARCODE/MRZ
 SCANABLE, Best prices and Bonuses!!! Order and quickly receive the scanned
 document you need, such as US/UK/Canada Utility bills/Driver's license/ID
@@ -51176,7 +51176,7 @@ ave|Toronto|BC|jdwidwn|CANADA|777-777-777|",0.0,0.0,0.0,0.0,0,0.0,"info, dob"
 database\5341767.json,Canadian Full info SIN+DOB,"In this category, you can purchase complete information about the citizens of
 Canada (SIN + DOB). Example: 777777777|17/07/1777|Jacob I Pathan|77 Miller
 ave|Toronto|BC|jdwidwn|CANADA|777-777-777|",0.0,0.0,0.0,0.0,0,0.0,"info, dob"
-database\5347135.json,TAX FORM,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,tax
+database\5347135.json,TAX FORM,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,"tax, form"
 database\5347174.json,Australian Rewards,You can buy a various rewards account here (Australian).,0.0,0.0,0.0,0.0,0,0.0,
 database\5347181.json,Hotels.com,"Here we got hotels.com online accounts// Example of product // Login:pass,
 stamps info, payment method (if have)",0.0,0.0,0.0,0.0,0,0.0,
@@ -51570,7 +51570,7 @@ the USA. FULL NAME / ADRESS / SSN / DOB / DL number.
 Firstname+Lastname+SSN+DOB+DL num+DL State+Address+City+State+ZIP",0.0,0.0,0.0,0.0,0,0.0,"info, dob, ssn, dl"
 database\5356293.json,Credit card,"in this category you can buy credit cards of all world bro please,read the
 rules before you buy",0.0,0.0,0.0,0.0,0,0.0,
-database\5356307.json,TAX FORM,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,tax
+database\5356307.json,TAX FORM,Blank editable tax forms,0.0,0.0,0.0,0.0,0,0.0,"tax, form"
 database\5357066.json,Marriott.com,"In this category you can purchase the accounts Marriott.com. Accounts have
 online access. You have 15 minutes to check your account from the date of
 purchase. Account login rules. 1) Clear browser history and cookies. 2) Enter
@@ -52475,7 +52475,7 @@ database\5379641.json,US LOGS BOTNET,"In this category you can get US Logs . Exa
 http://ipic.su/aQ22D.jpg",0.0,0.0,0.0,0.0,0,0.0,
 database\5379696.json,"Form W-2+1040  SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5379818.json,Full infoSSN+DOB+CS,"Here you can buy Full infoSSN+DOB+CS SSN|NAME|USA|ADRESS|CITY|STATE
 ZIP|DOB|CS",0.0,0.0,0.0,0.0,0,0.0,"info, dob, ssn"
 database\5379822.json,Full infoSSN+DOB+CS,"Here you can buy Full infoSSN+DOB+CS SSN|NAME|USA|ADRESS|CITY|STATE
@@ -52601,7 +52601,7 @@ Name|Adress|City|State|Zip|United States|phone|email:
 richard.castillo1947@yahoo.com Password: Micorreo 47|SSN|DL: MMN: |DOB|AGE|",0.0,0.0,0.0,0.0,0,0.0,"info, dob, ssn, dl"
 database\5384122.json,"Form W-2+1040  SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5384142.json,Giftcards.com,"In this category you can find GIFTCARDS.com accounts. All online access. 20
 minutes are given for the check.",0.0,0.0,0.0,0.0,0,0.0,
 database\5384148.json,Hulu.com,"In this category, you can find Hulu.com accounts with online access. Good
@@ -72607,7 +72607,7 @@ are for informational purposes only.",0.0,0.0,0.0,0.0,0,0.0,
 database\5679962.json,Full info USA SSN+DOB,"In this category you can purchase real information about a person living in
 the USA. SSN / DOB / ADRESS",0.0,0.0,0.0,0.0,0,0.0,"info, dob, ssn"
 database\5680293.json,Bank Checks & Direct Deposits forms,"in this category you can buy real bank checks with documents from different
-banks.",0.0,0.0,0.0,0.0,0,0.0,
+banks.",0.0,0.0,0.0,0.0,0,0.0,form
 database\5680295.json,Poshmark.com,"In this category you can get Poshmark.com accounts with online access.
 Example: Login:Password Holder Info",0.0,0.0,0.0,0.0,0,0.0,
 database\5680298.json,Poshmark.com,"In this category you can get Poshmark.com accounts with online access.
@@ -72926,7 +72926,7 @@ info",0.0,0.0,0.0,0.0,0,0.0,"info, dob, ssn, dl, job"
 database\5693648.json,Full info USA SSN+DOB,"In this category you can purchase real information about a person living in
 the USA. SSN / DOB / ADRESS",0.0,0.0,0.0,0.0,0,0.0,"info, dob, ssn"
 database\5693859.json,Bank Checks & Direct Deposits forms,"in this category you can buy real bank checks with documents from different
-banks.",0.0,0.0,0.0,0.0,0,0.0,
+banks.",0.0,0.0,0.0,0.0,0,0.0,form
 database\5694034.json,FashionNova.com,"In this category you can purchase FashionNova.com accounts. All accounts have
 online access. When buying a product, you must know how to apply it. We are
 not in the business of teaching. Our task is to supply goods for you! We wish
@@ -76256,121 +76256,121 @@ database\5741803.json,Hilton.com,"In this category you can purchase the accounts
 online access.",0.0,0.0,0.0,0.0,0,0.0,
 database\5741886.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741899.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741900.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741901.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741903.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741904.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741906.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741907.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741908.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741910.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741911.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741913.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741914.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741915.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741919.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741953.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741954.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741955.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741956.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741957.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741958.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741959.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741960.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741961.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741962.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741963.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741964.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741967.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741968.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741969.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741970.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741971.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741973.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741974.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741975.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741979.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741980.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741981.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5741982.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5742295.json,Venmo.com,"In this category, you can find Venmo.com accounts with online access. Account
 login rules. 1) Clear browser history and cookies. 2) Enter clean IP address.",0.0,0.0,0.0,0.0,0,0.0,
 database\5742296.json,Venmo.com,"In this category, you can find Venmo.com accounts with online access. Account
@@ -76876,7 +76876,7 @@ database\5760342.json,Emirates.com,"In this category you can get emirates.com ac
 Example: Login:Password , Holder info IMPORTANT!!!! Read about refund .",0.0,0.0,0.0,0.0,0,0.0,
 database\5760402.json,"Form W-2+1040 SSN, ID, EIN. BANK INFO","In this category you can purchase tax forms W-2 , 1040, ID number, SSN number
 ,bank name and other. Carefully read the description of the goods before
-buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn"
+buying. Form in PDF format. All documents are real.",0.0,0.0,0.0,0.0,0,0.0,"info, ssn, form"
 database\5760508.json,EASY ACH BANK TRANSFER GUIDE IN 2022!,"Hello dear customers! This guide contains information about: 1\. You will know
 the latest way to run ach bank transfer in 2022. 2\. You will know how to run
 ach on a prepaid card and then buy btc instantly with it. 3\. You will know
@@ -84127,7 +84127,7 @@ database\62.json,Tax business form,"s
 
 In this category, you can purchase business tax forms. Please read the product
 description carefully before purchasing. Form in PDF format.All documents are
-real",50.0,50.0,50.0,50.0,7,350.0,tax
+real",50.0,50.0,50.0,50.0,7,350.0,"tax, form"
 database\620.json,Rewards & Points,"s
 
 In this category, you can purchase accounts of Rewards and Points sites.
@@ -84159,7 +84159,7 @@ database\63.json,Form W-2+1040,"s
 
 In this category you can purchase tax forms W-2, 1040, and others. Carefully
 read the description of the goods before buying. Form in PDF format.All
-documents are real.",10.07462686567164,10.0,80.0,5.0,67,675.0,
+documents are real.",10.07462686567164,10.0,80.0,5.0,67,675.0,form
 database\630.json,Americanexpress.com,"s
 
 In this category you can get Americanexpress.com accounts with online access.
@@ -84945,7 +84945,7 @@ database\926.json,PASSPORT / SSN / DL / ID CARD,"s
 In this category, you can find various USA documents. All documents are real.",11.22222222222222,10.0,20.0,7.0,36,404.0,"ssn, dl, passport"
 database\929.json,Tax Form,"s
 
-Blank editable tax forms",7.06,7.0,15.0,6.0,100,706.0,tax
+Blank editable tax forms",7.06,7.0,15.0,6.0,100,706.0,"tax, form"
 database\93.json,ID USA + SSN CARD Real document,"s
 
 In this category you can buy real photos and scans of ID + SSN card . All
@@ -85040,7 +85040,7 @@ In this category you can buy credit cards from different countries. The
 category uses an automatic checker, please, be careful to read Refund terms
 before purchase. In this category, in addition to the credit card itself,
 there is additional information about the owner and his scanned documents +
-selfies with the document.",0.0,0.0,0.0,0.0,0,0.0,info
+selfies with the document.",0.0,0.0,0.0,0.0,0,0.0,"info, form"
 database\972.json,Betting & Casino Worldwide,"s
 
 You can buy betting/casino accounts here (worldwide).",5.625,2.0,60.0,1.0,16,90.0,
